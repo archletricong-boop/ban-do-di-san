@@ -1,0 +1,1245 @@
+{
+  "date": "2026-11-04",
+  "images": [
+    {
+      "id": "parmentier-090",
+      "group": "A",
+      "title": "Nhóm A — các kiến trúc phụ",
+      "plate": "LXXV",
+      "src": "assets/my-son/parmentier/parmentier-090.webp",
+      "credit": "H. Parmentier, bản LXXV; bản số do Lê Trí Công cung cấp.",
+      "source_file": "Monuments_Čams_de_L'Annam.1909_090.jpg",
+      "source_id": "1ft9TBbkbboaxprDEpEbINiiN5YbM-GID",
+      "source_sha256": "6d1ec9a5af92f1ef5313f2387c3806b5f2b92d234a90a765ecfa367822764528",
+      "crop_box": [
+        193,
+        53,
+        2169,
+        3138
+      ],
+      "width": 1537,
+      "height": 2400,
+      "operations": "Xén lề trắng; xoay 90° thuận chiều kim đồng hồ với tổng mặt bằng LXVII; thu nhỏ giữ tỷ lệ. Không vẽ lại, không tăng nét bằng AI.",
+      "rights_status": "public_domain_original",
+      "rights_record": {
+        "assessment_date": "2026-11-04",
+        "original_work_status": "public_domain_under_standard_france_life_plus_70_term",
+        "author": "Henri Parmentier",
+        "death_year": 1949,
+        "basis": "INHA xác nhận năm mất 1949; Điều L123-1 quy định năm mất và 70 năm tiếp theo. Phân loại này dành cho tác phẩm gốc, không gán giấy phép CC cho bản số.",
+        "evidence_urls": [
+          "https://agorha.inha.fr/detail/684",
+          "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006278937/2026-10-29"
+        ],
+        "digital_copy_source": "Bản số do Lê Trí Công cung cấp cho dự án; ghi chú EFEO theo bản nhận được khi có.",
+        "digital_copy_license": "not_independently_verified",
+        "reuse_notice": "Ghi tác giả, số bản và nguồn bản số; không tuyên bố kho cung cấp đã cấp giấy phép mở."
+      }
+    },
+    {
+      "id": "parmentier-092",
+      "group": "Aprime",
+      "title": "Nhóm A′ — mặt bằng và mặt cắt",
+      "plate": "LXXVII",
+      "src": "assets/my-son/parmentier/parmentier-092.webp",
+      "credit": "H. Parmentier, bản LXXVII; bản số do Lê Trí Công cung cấp.",
+      "source_file": "Monuments_Čams_de_L'Annam.1909_092.jpg",
+      "source_id": "1_si61plZ1Y0Cw9pHa61RIjXZO5sHdzUf",
+      "source_sha256": "5f9bb951bb054cdf0f2d5c16220227675d478c7128b8a8e4d4b5e620cafbf632",
+      "crop_box": [
+        183,
+        224,
+        3004,
+        2139
+      ],
+      "width": 2400,
+      "height": 1629,
+      "operations": "Xén lề trắng; xoay 90° thuận chiều kim đồng hồ với tổng mặt bằng LXVII; thu nhỏ giữ tỷ lệ. Không vẽ lại, không tăng nét bằng AI.",
+      "rights_status": "public_domain_original",
+      "rights_record": {
+        "assessment_date": "2026-11-04",
+        "original_work_status": "public_domain_under_standard_france_life_plus_70_term",
+        "author": "Henri Parmentier",
+        "death_year": 1949,
+        "basis": "INHA xác nhận năm mất 1949; Điều L123-1 quy định năm mất và 70 năm tiếp theo. Phân loại này dành cho tác phẩm gốc, không gán giấy phép CC cho bản số.",
+        "evidence_urls": [
+          "https://agorha.inha.fr/detail/684",
+          "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006278937/2026-10-29"
+        ],
+        "digital_copy_source": "Bản số do Lê Trí Công cung cấp cho dự án; ghi chú EFEO theo bản nhận được khi có.",
+        "digital_copy_license": "not_independently_verified",
+        "reuse_notice": "Ghi tác giả, số bản và nguồn bản số; không tuyên bố kho cung cấp đã cấp giấy phép mở."
+      }
+    },
+    {
+      "id": "parmentier-089",
+      "group": "A",
+      "title": "Nhóm A — mặt cắt và mặt đứng",
+      "plate": "LXXIV",
+      "src": "assets/my-son/parmentier/parmentier-089.webp",
+      "credit": "H. Parmentier, bản LXXIV; bản số do Lê Trí Công cung cấp.",
+      "source_file": "Monuments_Čams_de_L'Annam.1909_089.jpg",
+      "source_id": "1ur_BCOdhm6ykdo02UBkg5ZyZqxmFs4ZG",
+      "source_sha256": "3e7b4382bb08905125d189517e665beb3500941cd8856cec49971b512dc469d6",
+      "crop_box": [
+        0,
+        0,
+        3583,
+        3043
+      ],
+      "width": 2400,
+      "height": 2038,
+      "operations": "Xén lề trắng; xoay 90° thuận chiều kim đồng hồ với tổng mặt bằng LXVII; thu nhỏ giữ tỷ lệ. Không vẽ lại, không tăng nét bằng AI.",
+      "rights_status": "public_domain_original",
+      "rights_record": {
+        "assessment_date": "2026-11-04",
+        "original_work_status": "public_domain_under_standard_france_life_plus_70_term",
+        "author": "Henri Parmentier",
+        "death_year": 1949,
+        "basis": "INHA xác nhận năm mất 1949; Điều L123-1 quy định năm mất và 70 năm tiếp theo. Phân loại này dành cho tác phẩm gốc, không gán giấy phép CC cho bản số.",
+        "evidence_urls": [
+          "https://agorha.inha.fr/detail/684",
+          "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006278937/2026-10-29"
+        ],
+        "digital_copy_source": "Bản số do Lê Trí Công cung cấp cho dự án; ghi chú EFEO theo bản nhận được khi có.",
+        "digital_copy_license": "not_independently_verified",
+        "reuse_notice": "Ghi tác giả, số bản và nguồn bản số; không tuyên bố kho cung cấp đã cấp giấy phép mở."
+      }
+    },
+    {
+      "id": "parmentier-086",
+      "group": "A",
+      "title": "A1 — mặt đứng",
+      "plate": "LXXI",
+      "src": "assets/my-son/parmentier/parmentier-086.webp",
+      "credit": "H. Parmentier, bản LXXI; bản số do Lê Trí Công cung cấp.",
+      "source_file": "Monuments_Čams_de_L'Annam.1909_086.jpg",
+      "source_id": "18gYVvd0rM52PObucLcQLXyhObpZcBFIP",
+      "source_sha256": "52e31973388ca4d163104e7ada75334319e15ba5bd3036146ae2e2b3407aecdc",
+      "crop_box": [
+        0,
+        0,
+        3743,
+        3073
+      ],
+      "width": 2400,
+      "height": 1970,
+      "operations": "Xén lề trắng; xoay 90° thuận chiều kim đồng hồ với tổng mặt bằng LXVII; thu nhỏ giữ tỷ lệ. Không vẽ lại, không tăng nét bằng AI.",
+      "rights_status": "public_domain_original",
+      "rights_record": {
+        "assessment_date": "2026-11-04",
+        "original_work_status": "public_domain_under_standard_france_life_plus_70_term",
+        "author": "Henri Parmentier",
+        "death_year": 1949,
+        "basis": "INHA xác nhận năm mất 1949; Điều L123-1 quy định năm mất và 70 năm tiếp theo. Phân loại này dành cho tác phẩm gốc, không gán giấy phép CC cho bản số.",
+        "evidence_urls": [
+          "https://agorha.inha.fr/detail/684",
+          "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006278937/2026-10-29"
+        ],
+        "digital_copy_source": "Bản số do Lê Trí Công cung cấp cho dự án; ghi chú EFEO theo bản nhận được khi có.",
+        "digital_copy_license": "not_independently_verified",
+        "reuse_notice": "Ghi tác giả, số bản và nguồn bản số; không tuyên bố kho cung cấp đã cấp giấy phép mở."
+      }
+    },
+    {
+      "id": "parmentier-084",
+      "group": "A",
+      "title": "A1 — mặt bằng",
+      "plate": "LXIX",
+      "src": "assets/my-son/parmentier/parmentier-084.webp",
+      "credit": "H. Parmentier, bản LXIX; bản số do Lê Trí Công cung cấp.",
+      "source_file": "Monuments_Čams_de_L'Annam.1909_084.jpg",
+      "source_id": "134vCCLd3v1ZR9qRL4fDc1Fux5KTseIXg",
+      "source_sha256": "c55133a1a05d0f1fef72f7588d13bc8ef641a7d8eb408f5010103ac0be647b18",
+      "crop_box": [
+        177,
+        53,
+        2185,
+        3138
+      ],
+      "width": 1562,
+      "height": 2400,
+      "operations": "Xén lề trắng; xoay 90° thuận chiều kim đồng hồ với tổng mặt bằng LXVII; thu nhỏ giữ tỷ lệ. Không vẽ lại, không tăng nét bằng AI.",
+      "rights_status": "public_domain_original",
+      "rights_record": {
+        "assessment_date": "2026-11-04",
+        "original_work_status": "public_domain_under_standard_france_life_plus_70_term",
+        "author": "Henri Parmentier",
+        "death_year": 1949,
+        "basis": "INHA xác nhận năm mất 1949; Điều L123-1 quy định năm mất và 70 năm tiếp theo. Phân loại này dành cho tác phẩm gốc, không gán giấy phép CC cho bản số.",
+        "evidence_urls": [
+          "https://agorha.inha.fr/detail/684",
+          "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006278937/2026-10-29"
+        ],
+        "digital_copy_source": "Bản số do Lê Trí Công cung cấp cho dự án; ghi chú EFEO theo bản nhận được khi có.",
+        "digital_copy_license": "not_independently_verified",
+        "reuse_notice": "Ghi tác giả, số bản và nguồn bản số; không tuyên bố kho cung cấp đã cấp giấy phép mở."
+      }
+    },
+    {
+      "id": "tong-mat-bang-parmentier-lxvii",
+      "group": "total",
+      "title": "Tổng mặt bằng Mỹ Sơn — Parmentier",
+      "plate": "LXVII",
+      "src": "assets/my-son/parmentier/tong-mat-bang-parmentier-lxvii.webp",
+      "credit": "H. Parmentier, bản LXVII; bộ bản vẽ do Lê Trí Công cung cấp.",
+      "source_file": "Monuments Cams De L'Annam 1909 - photo (1)_01.jpg",
+      "source_id": "1KtAIDd9ckL9nQpKzWGl-ZhQk9rxkXJW-",
+      "source_sha256": "1d276ebd46cdc1163331949b18cd7dffca676e6bd278455a55cb745f0b6c6836",
+      "crop_box": [
+        525,
+        421,
+        6474,
+        4553
+      ],
+      "width": 2400,
+      "height": 1667,
+      "operations": "Xén lề trắng; xoay 90° thuận chiều kim đồng hồ với tổng mặt bằng LXVII; thu nhỏ giữ tỷ lệ. Không vẽ lại, không tăng nét bằng AI.",
+      "rights_status": "public_domain_original",
+      "rights_record": {
+        "assessment_date": "2026-11-04",
+        "original_work_status": "public_domain_under_standard_france_life_plus_70_term",
+        "author": "Henri Parmentier",
+        "death_year": 1949,
+        "basis": "INHA xác nhận năm mất 1949; Điều L123-1 quy định năm mất và 70 năm tiếp theo. Phân loại này dành cho tác phẩm gốc, không gán giấy phép CC cho bản số.",
+        "evidence_urls": [
+          "https://agorha.inha.fr/detail/684",
+          "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006278937/2026-10-29"
+        ],
+        "digital_copy_source": "Bản số do Lê Trí Công cung cấp cho dự án; ghi chú EFEO theo bản nhận được khi có.",
+        "digital_copy_license": "not_independently_verified",
+        "reuse_notice": "Ghi tác giả, số bản và nguồn bản số; không tuyên bố kho cung cấp đã cấp giấy phép mở."
+      }
+    },
+    {
+      "id": "parmentier-087",
+      "group": "A",
+      "title": "A1 — mặt đứng phục dựng",
+      "plate": "LXXII",
+      "src": "assets/my-son/parmentier/parmentier-087.webp",
+      "credit": "H. Parmentier, bản LXXII; bản số do Lê Trí Công cung cấp.",
+      "source_file": "Monuments_Čams_de_L'Annam.1909_087.jpg",
+      "source_id": "1Y5l0LzOsgIjTe--Io7CNyrJFJvUdW8ie",
+      "source_sha256": "e49b27b7768aa41a7132facb70efa003184764afc3a6649dc8e590eef2570810",
+      "crop_box": [
+        190,
+        169,
+        2174,
+        3020
+      ],
+      "width": 1670,
+      "height": 2400,
+      "operations": "Xén lề trắng; xoay 90° thuận chiều kim đồng hồ với tổng mặt bằng LXVII; thu nhỏ giữ tỷ lệ. Không vẽ lại, không tăng nét bằng AI.",
+      "rights_status": "public_domain_original",
+      "rights_record": {
+        "assessment_date": "2026-11-04",
+        "original_work_status": "public_domain_under_standard_france_life_plus_70_term",
+        "author": "Henri Parmentier",
+        "death_year": 1949,
+        "basis": "INHA xác nhận năm mất 1949; Điều L123-1 quy định năm mất và 70 năm tiếp theo. Phân loại này dành cho tác phẩm gốc, không gán giấy phép CC cho bản số.",
+        "evidence_urls": [
+          "https://agorha.inha.fr/detail/684",
+          "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006278937/2026-10-29"
+        ],
+        "digital_copy_source": "Bản số do Lê Trí Công cung cấp cho dự án; ghi chú EFEO theo bản nhận được khi có.",
+        "digital_copy_license": "not_independently_verified",
+        "reuse_notice": "Ghi tác giả, số bản và nguồn bản số; không tuyên bố kho cung cấp đã cấp giấy phép mở."
+      }
+    },
+    {
+      "id": "parmentier-088",
+      "group": "A",
+      "title": "A2–A4 — mặt bằng",
+      "plate": "LXXIII",
+      "src": "assets/my-son/parmentier/parmentier-088.webp",
+      "credit": "H. Parmentier, bản LXXIII; bản số do Lê Trí Công cung cấp.",
+      "source_file": "Monuments_Čams_de_L'Annam.1909_088.jpg",
+      "source_id": "1sU5iedZBqfTxGNbvnMofAkM7C43m391K",
+      "source_sha256": "41b4dfa3deb9a2a8ca7edcdfc8e84447da4e6f6e07f0dfb31c84fdbc0d9912aa",
+      "crop_box": [
+        143,
+        53,
+        2219,
+        3138
+      ],
+      "width": 1615,
+      "height": 2400,
+      "operations": "Xén lề trắng; xoay 90° thuận chiều kim đồng hồ với tổng mặt bằng LXVII; thu nhỏ giữ tỷ lệ. Không vẽ lại, không tăng nét bằng AI.",
+      "rights_status": "public_domain_original",
+      "rights_record": {
+        "assessment_date": "2026-11-04",
+        "original_work_status": "public_domain_under_standard_france_life_plus_70_term",
+        "author": "Henri Parmentier",
+        "death_year": 1949,
+        "basis": "INHA xác nhận năm mất 1949; Điều L123-1 quy định năm mất và 70 năm tiếp theo. Phân loại này dành cho tác phẩm gốc, không gán giấy phép CC cho bản số.",
+        "evidence_urls": [
+          "https://agorha.inha.fr/detail/684",
+          "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006278937/2026-10-29"
+        ],
+        "digital_copy_source": "Bản số do Lê Trí Công cung cấp cho dự án; ghi chú EFEO theo bản nhận được khi có.",
+        "digital_copy_license": "not_independently_verified",
+        "reuse_notice": "Ghi tác giả, số bản và nguồn bản số; không tuyên bố kho cung cấp đã cấp giấy phép mở."
+      }
+    },
+    {
+      "id": "parmentier-083",
+      "group": "A",
+      "title": "Nhóm A và A′ — mặt bằng tổng thể",
+      "plate": "LXVIII",
+      "src": "assets/my-son/parmentier/parmentier-083.webp",
+      "credit": "H. Parmentier, bản LXVIII; bản số do Lê Trí Công cung cấp.",
+      "source_file": "Monuments_Čams_de_L'Annam.1909_083.jpg",
+      "source_id": "1qEJqriSCcXdfVv41rw7N9Eqm0YgG084w",
+      "source_sha256": "0d8a5bf7330ec61d5861b29c33c805f61ee22ed620c916f8cff6dc5173274f11",
+      "crop_box": [
+        51,
+        177,
+        3138,
+        2185
+      ],
+      "width": 2400,
+      "height": 1561,
+      "operations": "Xén lề trắng; xoay 90° thuận chiều kim đồng hồ với tổng mặt bằng LXVII; thu nhỏ giữ tỷ lệ. Không vẽ lại, không tăng nét bằng AI.",
+      "rights_status": "public_domain_original",
+      "rights_record": {
+        "assessment_date": "2026-11-04",
+        "original_work_status": "public_domain_under_standard_france_life_plus_70_term",
+        "author": "Henri Parmentier",
+        "death_year": 1949,
+        "basis": "INHA xác nhận năm mất 1949; Điều L123-1 quy định năm mất và 70 năm tiếp theo. Phân loại này dành cho tác phẩm gốc, không gán giấy phép CC cho bản số.",
+        "evidence_urls": [
+          "https://agorha.inha.fr/detail/684",
+          "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006278937/2026-10-29"
+        ],
+        "digital_copy_source": "Bản số do Lê Trí Công cung cấp cho dự án; ghi chú EFEO theo bản nhận được khi có.",
+        "digital_copy_license": "not_independently_verified",
+        "reuse_notice": "Ghi tác giả, số bản và nguồn bản số; không tuyên bố kho cung cấp đã cấp giấy phép mở."
+      }
+    },
+    {
+      "id": "parmentier-091",
+      "group": "A",
+      "title": "A10 — mặt bằng",
+      "plate": "LXXVI",
+      "src": "assets/my-son/parmentier/parmentier-091.webp",
+      "credit": "H. Parmentier, bản LXXVI; bản số do Lê Trí Công cung cấp.",
+      "source_file": "Monuments_Čams_de_L'Annam.1909_091.jpg",
+      "source_id": "1gNZWojcTT7A6qJxzrCS55cBNngBlUqa7",
+      "source_sha256": "de4a6de6296f6a6e80e897a8789759d4ae029395a72d3b271f46696798039d9c",
+      "crop_box": [
+        199,
+        279,
+        2161,
+        2911
+      ],
+      "width": 1789,
+      "height": 2400,
+      "operations": "Xén lề trắng; xoay 90° thuận chiều kim đồng hồ với tổng mặt bằng LXVII; thu nhỏ giữ tỷ lệ. Không vẽ lại, không tăng nét bằng AI.",
+      "rights_status": "public_domain_original",
+      "rights_record": {
+        "assessment_date": "2026-11-04",
+        "original_work_status": "public_domain_under_standard_france_life_plus_70_term",
+        "author": "Henri Parmentier",
+        "death_year": 1949,
+        "basis": "INHA xác nhận năm mất 1949; Điều L123-1 quy định năm mất và 70 năm tiếp theo. Phân loại này dành cho tác phẩm gốc, không gán giấy phép CC cho bản số.",
+        "evidence_urls": [
+          "https://agorha.inha.fr/detail/684",
+          "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006278937/2026-10-29"
+        ],
+        "digital_copy_source": "Bản số do Lê Trí Công cung cấp cho dự án; ghi chú EFEO theo bản nhận được khi có.",
+        "digital_copy_license": "not_independently_verified",
+        "reuse_notice": "Ghi tác giả, số bản và nguồn bản số; không tuyên bố kho cung cấp đã cấp giấy phép mở."
+      }
+    },
+    {
+      "id": "parmentier-103",
+      "group": "E",
+      "title": "Nhóm E — E1, E2, E3",
+      "plate": "LXXXVIII",
+      "src": "assets/my-son/parmentier/parmentier-103.webp",
+      "credit": "H. Parmentier, bản LXXXVIII; bản số do Lê Trí Công cung cấp.",
+      "source_file": "Monuments_Čams_de_L'Annam.1909_103.jpg",
+      "source_id": "1xPFrqKeP50SlAfxM7Y7SWOQV2uGRHxi2",
+      "source_sha256": "38ff98e5813a7fe818d7e99eae1b2b7e9f23909ce90744b4eea73aff4216689c",
+      "crop_box": [
+        0,
+        0,
+        3527,
+        2918
+      ],
+      "width": 2400,
+      "height": 1986,
+      "operations": "Xén lề trắng; xoay 90° thuận chiều kim đồng hồ với tổng mặt bằng LXVII; thu nhỏ giữ tỷ lệ. Không vẽ lại, không tăng nét bằng AI.",
+      "rights_status": "public_domain_original",
+      "rights_record": {
+        "assessment_date": "2026-11-04",
+        "original_work_status": "public_domain_under_standard_france_life_plus_70_term",
+        "author": "Henri Parmentier",
+        "death_year": 1949,
+        "basis": "INHA xác nhận năm mất 1949; Điều L123-1 quy định năm mất và 70 năm tiếp theo. Phân loại này dành cho tác phẩm gốc, không gán giấy phép CC cho bản số.",
+        "evidence_urls": [
+          "https://agorha.inha.fr/detail/684",
+          "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006278937/2026-10-29"
+        ],
+        "digital_copy_source": "Bản số do Lê Trí Công cung cấp cho dự án; ghi chú EFEO theo bản nhận được khi có.",
+        "digital_copy_license": "not_independently_verified",
+        "reuse_notice": "Ghi tác giả, số bản và nguồn bản số; không tuyên bố kho cung cấp đã cấp giấy phép mở."
+      }
+    },
+    {
+      "id": "parmentier-096",
+      "group": "B",
+      "title": "Nhóm B — B5, B7, B8, B9",
+      "plate": "LXXXI",
+      "src": "assets/my-son/parmentier/parmentier-096.webp",
+      "credit": "H. Parmentier, bản LXXXI; bản số do Lê Trí Công cung cấp.",
+      "source_file": "Monuments_Čams_de_L'Annam.1909_096.jpg",
+      "source_id": "18H3NMlypj9LtF9CcOo8pxDivNl6lDUqh",
+      "source_sha256": "660e489ceff63c528dcf7498b110934665ad808d20878a93132bed2e858c1b52",
+      "crop_box": [
+        0,
+        0,
+        3656,
+        3052
+      ],
+      "width": 2400,
+      "height": 2004,
+      "operations": "Xén lề trắng; xoay 90° thuận chiều kim đồng hồ với tổng mặt bằng LXVII; thu nhỏ giữ tỷ lệ. Không vẽ lại, không tăng nét bằng AI.",
+      "rights_status": "public_domain_original",
+      "rights_record": {
+        "assessment_date": "2026-11-04",
+        "original_work_status": "public_domain_under_standard_france_life_plus_70_term",
+        "author": "Henri Parmentier",
+        "death_year": 1949,
+        "basis": "INHA xác nhận năm mất 1949; Điều L123-1 quy định năm mất và 70 năm tiếp theo. Phân loại này dành cho tác phẩm gốc, không gán giấy phép CC cho bản số.",
+        "evidence_urls": [
+          "https://agorha.inha.fr/detail/684",
+          "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006278937/2026-10-29"
+        ],
+        "digital_copy_source": "Bản số do Lê Trí Công cung cấp cho dự án; ghi chú EFEO theo bản nhận được khi có.",
+        "digital_copy_license": "not_independently_verified",
+        "reuse_notice": "Ghi tác giả, số bản và nguồn bản số; không tuyên bố kho cung cấp đã cấp giấy phép mở."
+      }
+    },
+    {
+      "id": "parmentier-099",
+      "group": "C",
+      "title": "Nhóm C — dãy kiến trúc",
+      "plate": "LXXXIV",
+      "src": "assets/my-son/parmentier/parmentier-099.webp",
+      "credit": "H. Parmentier, bản LXXXIV; bản số do Lê Trí Công cung cấp.",
+      "source_file": "Monuments_Čams_de_L'Annam.1909_099.jpg",
+      "source_id": "1wVLc3uCh_WTRQe9U0tePqPIQpO-vb5Ld",
+      "source_sha256": "99fba1f51367d6d727edb2eb14e257da01121b55f0fa89044e50e80c25e58e49",
+      "crop_box": [
+        51,
+        177,
+        3136,
+        2185
+      ],
+      "width": 2400,
+      "height": 1562,
+      "operations": "Xén lề trắng; xoay 90° thuận chiều kim đồng hồ với tổng mặt bằng LXVII; thu nhỏ giữ tỷ lệ. Không vẽ lại, không tăng nét bằng AI.",
+      "rights_status": "public_domain_original",
+      "rights_record": {
+        "assessment_date": "2026-11-04",
+        "original_work_status": "public_domain_under_standard_france_life_plus_70_term",
+        "author": "Henri Parmentier",
+        "death_year": 1949,
+        "basis": "INHA xác nhận năm mất 1949; Điều L123-1 quy định năm mất và 70 năm tiếp theo. Phân loại này dành cho tác phẩm gốc, không gán giấy phép CC cho bản số.",
+        "evidence_urls": [
+          "https://agorha.inha.fr/detail/684",
+          "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006278937/2026-10-29"
+        ],
+        "digital_copy_source": "Bản số do Lê Trí Công cung cấp cho dự án; ghi chú EFEO theo bản nhận được khi có.",
+        "digital_copy_license": "not_independently_verified",
+        "reuse_notice": "Ghi tác giả, số bản và nguồn bản số; không tuyên bố kho cung cấp đã cấp giấy phép mở."
+      }
+    },
+    {
+      "id": "parmentier-112",
+      "group": "GHK",
+      "title": "Nhóm H và các công trình K, L theo ký hiệu Parmentier",
+      "plate": "XCVII",
+      "src": "assets/my-son/parmentier/parmentier-112.webp",
+      "credit": "H. Parmentier, bản XCVII; bản số do Lê Trí Công cung cấp.",
+      "source_file": "Monuments_Čams_de_L'Annam.1909_112.jpg",
+      "source_id": "1wz8r1TxnQ7mKkWfxaMnWTwPCaMVyhW_1",
+      "source_sha256": "cf501a65f41b052e1941de600652f786f7a4c435904b992c92fc34f90e38282b",
+      "crop_box": [
+        0,
+        0,
+        3009,
+        3706
+      ],
+      "width": 1949,
+      "height": 2400,
+      "operations": "Xén lề trắng; xoay 90° thuận chiều kim đồng hồ với tổng mặt bằng LXVII; thu nhỏ giữ tỷ lệ. Không vẽ lại, không tăng nét bằng AI.",
+      "rights_status": "public_domain_original",
+      "rights_record": {
+        "assessment_date": "2026-11-04",
+        "original_work_status": "public_domain_under_standard_france_life_plus_70_term",
+        "author": "Henri Parmentier",
+        "death_year": 1949,
+        "basis": "INHA xác nhận năm mất 1949; Điều L123-1 quy định năm mất và 70 năm tiếp theo. Phân loại này dành cho tác phẩm gốc, không gán giấy phép CC cho bản số.",
+        "evidence_urls": [
+          "https://agorha.inha.fr/detail/684",
+          "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006278937/2026-10-29"
+        ],
+        "digital_copy_source": "Bản số do Lê Trí Công cung cấp cho dự án; ghi chú EFEO theo bản nhận được khi có.",
+        "digital_copy_license": "not_independently_verified",
+        "reuse_notice": "Ghi tác giả, số bản và nguồn bản số; không tuyên bố kho cung cấp đã cấp giấy phép mở."
+      }
+    },
+    {
+      "id": "parmentier-104",
+      "group": "E",
+      "title": "Nhóm E — E4 và E5",
+      "plate": "LXXXIX",
+      "src": "assets/my-son/parmentier/parmentier-104.webp",
+      "credit": "H. Parmentier, bản LXXXIX; bản số do Lê Trí Công cung cấp.",
+      "source_file": "Monuments_Čams_de_L'Annam.1909_104.jpg",
+      "source_id": "1QnLcl0RTQrlzexPYGB2g6cf2sMvCF1f3",
+      "source_sha256": "273de14078e48228110b08a6ab6555a937b4481505d263b184b27b268599d5a1",
+      "crop_box": [
+        211,
+        121,
+        2151,
+        3070
+      ],
+      "width": 1579,
+      "height": 2400,
+      "operations": "Xén lề trắng; xoay 90° thuận chiều kim đồng hồ với tổng mặt bằng LXVII; thu nhỏ giữ tỷ lệ. Không vẽ lại, không tăng nét bằng AI.",
+      "rights_status": "public_domain_original",
+      "rights_record": {
+        "assessment_date": "2026-11-04",
+        "original_work_status": "public_domain_under_standard_france_life_plus_70_term",
+        "author": "Henri Parmentier",
+        "death_year": 1949,
+        "basis": "INHA xác nhận năm mất 1949; Điều L123-1 quy định năm mất và 70 năm tiếp theo. Phân loại này dành cho tác phẩm gốc, không gán giấy phép CC cho bản số.",
+        "evidence_urls": [
+          "https://agorha.inha.fr/detail/684",
+          "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006278937/2026-10-29"
+        ],
+        "digital_copy_source": "Bản số do Lê Trí Công cung cấp cho dự án; ghi chú EFEO theo bản nhận được khi có.",
+        "digital_copy_license": "not_independently_verified",
+        "reuse_notice": "Ghi tác giả, số bản và nguồn bản số; không tuyên bố kho cung cấp đã cấp giấy phép mở."
+      }
+    },
+    {
+      "id": "parmentier-107",
+      "group": "E",
+      "title": "Nhóm E — E5, E6, E7",
+      "plate": "XCII",
+      "src": "assets/my-son/parmentier/parmentier-107.webp",
+      "credit": "H. Parmentier, bản XCII; bản số do Lê Trí Công cung cấp.",
+      "source_file": "Monuments_Čams_de_L'Annam.1909_107.jpg",
+      "source_id": "1wsmNV0nTHDsiUFwPwUiENOqEeCLbM7ly",
+      "source_sha256": "28374b893a085ba0caae4875e823d632169f607e1ac90e1a1188a9f8b8610dda",
+      "crop_box": [
+        0,
+        0,
+        2963,
+        3560
+      ],
+      "width": 1998,
+      "height": 2400,
+      "operations": "Xén lề trắng; xoay 90° thuận chiều kim đồng hồ với tổng mặt bằng LXVII; thu nhỏ giữ tỷ lệ. Không vẽ lại, không tăng nét bằng AI.",
+      "rights_status": "public_domain_original",
+      "rights_record": {
+        "assessment_date": "2026-11-04",
+        "original_work_status": "public_domain_under_standard_france_life_plus_70_term",
+        "author": "Henri Parmentier",
+        "death_year": 1949,
+        "basis": "INHA xác nhận năm mất 1949; Điều L123-1 quy định năm mất và 70 năm tiếp theo. Phân loại này dành cho tác phẩm gốc, không gán giấy phép CC cho bản số.",
+        "evidence_urls": [
+          "https://agorha.inha.fr/detail/684",
+          "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006278937/2026-10-29"
+        ],
+        "digital_copy_source": "Bản số do Lê Trí Công cung cấp cho dự án; ghi chú EFEO theo bản nhận được khi có.",
+        "digital_copy_license": "not_independently_verified",
+        "reuse_notice": "Ghi tác giả, số bản và nguồn bản số; không tuyên bố kho cung cấp đã cấp giấy phép mở."
+      }
+    },
+    {
+      "id": "parmentier-093",
+      "group": "B",
+      "title": "Nhóm B–C–D — mặt bằng chung",
+      "plate": "LXXVIII",
+      "src": "assets/my-son/parmentier/parmentier-093.webp",
+      "credit": "H. Parmentier, bản LXXVIII; bản số do Lê Trí Công cung cấp.",
+      "source_file": "Monuments_Čams_de_L'Annam.1909_093.jpg",
+      "source_id": "1uzBlPAAYpcGMaGNV-QGw8WGy7Cuqog5U",
+      "source_sha256": "6f68001bc7297337c80047e702c496ee3a111e43dde2cd379650ec1a94a0963a",
+      "crop_box": [
+        228,
+        279,
+        2135,
+        2920
+      ],
+      "width": 1733,
+      "height": 2400,
+      "operations": "Xén lề trắng; xoay 90° thuận chiều kim đồng hồ với tổng mặt bằng LXVII; thu nhỏ giữ tỷ lệ. Không vẽ lại, không tăng nét bằng AI.",
+      "rights_status": "public_domain_original",
+      "rights_record": {
+        "assessment_date": "2026-11-04",
+        "original_work_status": "public_domain_under_standard_france_life_plus_70_term",
+        "author": "Henri Parmentier",
+        "death_year": 1949,
+        "basis": "INHA xác nhận năm mất 1949; Điều L123-1 quy định năm mất và 70 năm tiếp theo. Phân loại này dành cho tác phẩm gốc, không gán giấy phép CC cho bản số.",
+        "evidence_urls": [
+          "https://agorha.inha.fr/detail/684",
+          "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006278937/2026-10-29"
+        ],
+        "digital_copy_source": "Bản số do Lê Trí Công cung cấp cho dự án; ghi chú EFEO theo bản nhận được khi có.",
+        "digital_copy_license": "not_independently_verified",
+        "reuse_notice": "Ghi tác giả, số bản và nguồn bản số; không tuyên bố kho cung cấp đã cấp giấy phép mở."
+      }
+    },
+    {
+      "id": "parmentier-101",
+      "group": "D",
+      "title": "Nhóm D — D2 và kiến trúc phụ",
+      "plate": "LXXXVI",
+      "src": "assets/my-son/parmentier/parmentier-101.webp",
+      "credit": "H. Parmentier, bản LXXXVI; bản số do Lê Trí Công cung cấp.",
+      "source_file": "Monuments_Čams_de_L'Annam.1909_101.jpg",
+      "source_id": "1yekqIb5PSRPiJ9ZVAtuyXVTX8vYsaWXL",
+      "source_sha256": "61c0d73d51facf230193eb840dc3afd6e5895a00603a8193b8f8c01bdcc84dd5",
+      "crop_box": [
+        0,
+        0,
+        3751,
+        3045
+      ],
+      "width": 2400,
+      "height": 1948,
+      "operations": "Xén lề trắng; xoay 90° thuận chiều kim đồng hồ với tổng mặt bằng LXVII; thu nhỏ giữ tỷ lệ. Không vẽ lại, không tăng nét bằng AI.",
+      "rights_status": "public_domain_original",
+      "rights_record": {
+        "assessment_date": "2026-11-04",
+        "original_work_status": "public_domain_under_standard_france_life_plus_70_term",
+        "author": "Henri Parmentier",
+        "death_year": 1949,
+        "basis": "INHA xác nhận năm mất 1949; Điều L123-1 quy định năm mất và 70 năm tiếp theo. Phân loại này dành cho tác phẩm gốc, không gán giấy phép CC cho bản số.",
+        "evidence_urls": [
+          "https://agorha.inha.fr/detail/684",
+          "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006278937/2026-10-29"
+        ],
+        "digital_copy_source": "Bản số do Lê Trí Công cung cấp cho dự án; ghi chú EFEO theo bản nhận được khi có.",
+        "digital_copy_license": "not_independently_verified",
+        "reuse_notice": "Ghi tác giả, số bản và nguồn bản số; không tuyên bố kho cung cấp đã cấp giấy phép mở."
+      }
+    },
+    {
+      "id": "parmentier-098",
+      "group": "C",
+      "title": "Nhóm C — các đền phụ",
+      "plate": "LXXXIII",
+      "src": "assets/my-son/parmentier/parmentier-098.webp",
+      "credit": "H. Parmentier, bản LXXXIII; bản số do Lê Trí Công cung cấp.",
+      "source_file": "Monuments_Čams_de_L'Annam.1909_098.jpg",
+      "source_id": "1TegPvd2wpl_-kOSgZ7jVJY12sULhDLHb",
+      "source_sha256": "bb698ba3689c068641396da3028449a03a8e3489b6ac268c3680426312677e6b",
+      "crop_box": [
+        0,
+        0,
+        3616,
+        3045
+      ],
+      "width": 2400,
+      "height": 2021,
+      "operations": "Xén lề trắng; xoay 90° thuận chiều kim đồng hồ với tổng mặt bằng LXVII; thu nhỏ giữ tỷ lệ. Không vẽ lại, không tăng nét bằng AI.",
+      "rights_status": "public_domain_original",
+      "rights_record": {
+        "assessment_date": "2026-11-04",
+        "original_work_status": "public_domain_under_standard_france_life_plus_70_term",
+        "author": "Henri Parmentier",
+        "death_year": 1949,
+        "basis": "INHA xác nhận năm mất 1949; Điều L123-1 quy định năm mất và 70 năm tiếp theo. Phân loại này dành cho tác phẩm gốc, không gán giấy phép CC cho bản số.",
+        "evidence_urls": [
+          "https://agorha.inha.fr/detail/684",
+          "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006278937/2026-10-29"
+        ],
+        "digital_copy_source": "Bản số do Lê Trí Công cung cấp cho dự án; ghi chú EFEO theo bản nhận được khi có.",
+        "digital_copy_license": "not_independently_verified",
+        "reuse_notice": "Ghi tác giả, số bản và nguồn bản số; không tuyên bố kho cung cấp đã cấp giấy phép mở."
+      }
+    },
+    {
+      "id": "parmentier-102",
+      "group": "E",
+      "title": "Nhóm E–F — mặt bằng chung",
+      "plate": "LXXXVII",
+      "src": "assets/my-son/parmentier/parmentier-102.webp",
+      "credit": "H. Parmentier, bản LXXXVII; bản số do Lê Trí Công cung cấp.",
+      "source_file": "Monuments_Čams_de_L'Annam.1909_102.jpg",
+      "source_id": "1yR3J69cx7Q0CB23bJb2u5Z3x2BkVJdYT",
+      "source_sha256": "e6aeaadf653c90cc575ff36e4707ce7bb7225ee9297b98f6db2585bea66e78b0",
+      "crop_box": [
+        253,
+        165,
+        2935,
+        2201
+      ],
+      "width": 2400,
+      "height": 1822,
+      "operations": "Xén lề trắng; xoay 90° thuận chiều kim đồng hồ với tổng mặt bằng LXVII; thu nhỏ giữ tỷ lệ. Không vẽ lại, không tăng nét bằng AI.",
+      "rights_status": "public_domain_original",
+      "rights_record": {
+        "assessment_date": "2026-11-04",
+        "original_work_status": "public_domain_under_standard_france_life_plus_70_term",
+        "author": "Henri Parmentier",
+        "death_year": 1949,
+        "basis": "INHA xác nhận năm mất 1949; Điều L123-1 quy định năm mất và 70 năm tiếp theo. Phân loại này dành cho tác phẩm gốc, không gán giấy phép CC cho bản số.",
+        "evidence_urls": [
+          "https://agorha.inha.fr/detail/684",
+          "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006278937/2026-10-29"
+        ],
+        "digital_copy_source": "Bản số do Lê Trí Công cung cấp cho dự án; ghi chú EFEO theo bản nhận được khi có.",
+        "digital_copy_license": "not_independently_verified",
+        "reuse_notice": "Ghi tác giả, số bản và nguồn bản số; không tuyên bố kho cung cấp đã cấp giấy phép mở."
+      }
+    },
+    {
+      "id": "parmentier-100",
+      "group": "D",
+      "title": "Nhóm D — D1 và kiến trúc phụ",
+      "plate": "LXXXV",
+      "src": "assets/my-son/parmentier/parmentier-100.webp",
+      "credit": "H. Parmentier, bản LXXXV; bản số do Lê Trí Công cung cấp.",
+      "source_file": "Monuments_Čams_de_L'Annam.1909_100.jpg",
+      "source_id": "1wt7JmTWLC7b_W0gYX_iwH_ktoSK9BBuf",
+      "source_sha256": "a58dc6e64c45f4f3d533056eaa1b23d93b00e91c95c812a98deb36df224c6329",
+      "crop_box": [
+        0,
+        0,
+        3751,
+        3045
+      ],
+      "width": 2400,
+      "height": 1948,
+      "operations": "Xén lề trắng; xoay 90° thuận chiều kim đồng hồ với tổng mặt bằng LXVII; thu nhỏ giữ tỷ lệ. Không vẽ lại, không tăng nét bằng AI.",
+      "rights_status": "public_domain_original",
+      "rights_record": {
+        "assessment_date": "2026-11-04",
+        "original_work_status": "public_domain_under_standard_france_life_plus_70_term",
+        "author": "Henri Parmentier",
+        "death_year": 1949,
+        "basis": "INHA xác nhận năm mất 1949; Điều L123-1 quy định năm mất và 70 năm tiếp theo. Phân loại này dành cho tác phẩm gốc, không gán giấy phép CC cho bản số.",
+        "evidence_urls": [
+          "https://agorha.inha.fr/detail/684",
+          "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006278937/2026-10-29"
+        ],
+        "digital_copy_source": "Bản số do Lê Trí Công cung cấp cho dự án; ghi chú EFEO theo bản nhận được khi có.",
+        "digital_copy_license": "not_independently_verified",
+        "reuse_notice": "Ghi tác giả, số bản và nguồn bản số; không tuyên bố kho cung cấp đã cấp giấy phép mở."
+      }
+    },
+    {
+      "id": "parmentier-095",
+      "group": "B",
+      "title": "Nhóm B — B3, B4, B6",
+      "plate": "LXXX",
+      "src": "assets/my-son/parmentier/parmentier-095.webp",
+      "credit": "H. Parmentier, bản LXXX; bản số do Lê Trí Công cung cấp.",
+      "source_file": "Monuments_Čams_de_L'Annam.1909_095.jpg",
+      "source_id": "1RBLrRQByEoXxOOz-_waZ4NrZsolFHrJD",
+      "source_sha256": "899f110b0496cde3e903aecd26007929bc19302521b1c88958da8579e5db3987",
+      "crop_box": [
+        47,
+        39,
+        3139,
+        3729
+      ],
+      "width": 2011,
+      "height": 2400,
+      "operations": "Xén lề trắng; xoay 90° thuận chiều kim đồng hồ với tổng mặt bằng LXVII; thu nhỏ giữ tỷ lệ. Không vẽ lại, không tăng nét bằng AI.",
+      "rights_status": "public_domain_original",
+      "rights_record": {
+        "assessment_date": "2026-11-04",
+        "original_work_status": "public_domain_under_standard_france_life_plus_70_term",
+        "author": "Henri Parmentier",
+        "death_year": 1949,
+        "basis": "INHA xác nhận năm mất 1949; Điều L123-1 quy định năm mất và 70 năm tiếp theo. Phân loại này dành cho tác phẩm gốc, không gán giấy phép CC cho bản số.",
+        "evidence_urls": [
+          "https://agorha.inha.fr/detail/684",
+          "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006278937/2026-10-29"
+        ],
+        "digital_copy_source": "Bản số do Lê Trí Công cung cấp cho dự án; ghi chú EFEO theo bản nhận được khi có.",
+        "digital_copy_license": "not_independently_verified",
+        "reuse_notice": "Ghi tác giả, số bản và nguồn bản số; không tuyên bố kho cung cấp đã cấp giấy phép mở."
+      }
+    },
+    {
+      "id": "parmentier-111",
+      "group": "GHK",
+      "title": "Nhóm G — mặt bằng và mặt cắt",
+      "plate": "XCVI",
+      "src": "assets/my-son/parmentier/parmentier-111.webp",
+      "credit": "H. Parmentier, bản XCVI; bản số do Lê Trí Công cung cấp.",
+      "source_file": "Monuments_Čams_de_L'Annam.1909_111.jpg",
+      "source_id": "14ddv-GjV31FG-u99Lv9ugdHp8E27wcgb",
+      "source_sha256": "4a0ba0392fa79b58d83daf8e09b4b37e781f9adf04c28529e2db368ec051f795",
+      "crop_box": [
+        0,
+        0,
+        3448,
+        2976
+      ],
+      "width": 2400,
+      "height": 2071,
+      "operations": "Xén lề trắng; xoay 90° thuận chiều kim đồng hồ với tổng mặt bằng LXVII; thu nhỏ giữ tỷ lệ. Không vẽ lại, không tăng nét bằng AI.",
+      "rights_status": "public_domain_original",
+      "rights_record": {
+        "assessment_date": "2026-11-04",
+        "original_work_status": "public_domain_under_standard_france_life_plus_70_term",
+        "author": "Henri Parmentier",
+        "death_year": 1949,
+        "basis": "INHA xác nhận năm mất 1949; Điều L123-1 quy định năm mất và 70 năm tiếp theo. Phân loại này dành cho tác phẩm gốc, không gán giấy phép CC cho bản số.",
+        "evidence_urls": [
+          "https://agorha.inha.fr/detail/684",
+          "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006278937/2026-10-29"
+        ],
+        "digital_copy_source": "Bản số do Lê Trí Công cung cấp cho dự án; ghi chú EFEO theo bản nhận được khi có.",
+        "digital_copy_license": "not_independently_verified",
+        "reuse_notice": "Ghi tác giả, số bản và nguồn bản số; không tuyên bố kho cung cấp đã cấp giấy phép mở."
+      }
+    },
+    {
+      "id": "parmentier-106",
+      "group": "E",
+      "title": "E4 — mặt đứng",
+      "plate": "XCI",
+      "src": "assets/my-son/parmentier/parmentier-106.webp",
+      "credit": "H. Parmentier, bản XCI; bản số do Lê Trí Công cung cấp.",
+      "source_file": "Monuments_Čams_de_L'Annam.1909_106.jpg",
+      "source_id": "1Y7glL6G6lNO_jZL3GNWITUwKEyGbHOjP",
+      "source_sha256": "edc237fb9312251d7fef1e1a5338ac8fec083e81f1ddecaca5605faeb26cf4e1",
+      "crop_box": [
+        341,
+        217,
+        2862,
+        2166
+      ],
+      "width": 2400,
+      "height": 1855,
+      "operations": "Xén lề trắng; xoay 90° thuận chiều kim đồng hồ với tổng mặt bằng LXVII; thu nhỏ giữ tỷ lệ. Không vẽ lại, không tăng nét bằng AI.",
+      "rights_status": "public_domain_original",
+      "rights_record": {
+        "assessment_date": "2026-11-04",
+        "original_work_status": "public_domain_under_standard_france_life_plus_70_term",
+        "author": "Henri Parmentier",
+        "death_year": 1949,
+        "basis": "INHA xác nhận năm mất 1949; Điều L123-1 quy định năm mất và 70 năm tiếp theo. Phân loại này dành cho tác phẩm gốc, không gán giấy phép CC cho bản số.",
+        "evidence_urls": [
+          "https://agorha.inha.fr/detail/684",
+          "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006278937/2026-10-29"
+        ],
+        "digital_copy_source": "Bản số do Lê Trí Công cung cấp cho dự án; ghi chú EFEO theo bản nhận được khi có.",
+        "digital_copy_license": "not_independently_verified",
+        "reuse_notice": "Ghi tác giả, số bản và nguồn bản số; không tuyên bố kho cung cấp đã cấp giấy phép mở."
+      }
+    },
+    {
+      "id": "parmentier-110",
+      "group": "GHK",
+      "title": "Nhóm G–H — mặt bằng chung",
+      "plate": "XCV",
+      "src": "assets/my-son/parmentier/parmentier-110.webp",
+      "credit": "H. Parmentier, bản XCV; bản số do Lê Trí Công cung cấp.",
+      "source_file": "Monuments_Čams_de_L'Annam.1909_110.jpg",
+      "source_id": "1Vp9aHr6l7cL8KaZIk3oD1j9gU4WfEmD2",
+      "source_sha256": "d30a10e7a07e52146ab601f2ebea9a17cf3b210281c9e9f5bc26b1c3b012f710",
+      "crop_box": [
+        305,
+        141,
+        2056,
+        3047
+      ],
+      "width": 1446,
+      "height": 2400,
+      "operations": "Xén lề trắng; xoay 90° thuận chiều kim đồng hồ với tổng mặt bằng LXVII; thu nhỏ giữ tỷ lệ. Không vẽ lại, không tăng nét bằng AI.",
+      "rights_status": "public_domain_original",
+      "rights_record": {
+        "assessment_date": "2026-11-04",
+        "original_work_status": "public_domain_under_standard_france_life_plus_70_term",
+        "author": "Henri Parmentier",
+        "death_year": 1949,
+        "basis": "INHA xác nhận năm mất 1949; Điều L123-1 quy định năm mất và 70 năm tiếp theo. Phân loại này dành cho tác phẩm gốc, không gán giấy phép CC cho bản số.",
+        "evidence_urls": [
+          "https://agorha.inha.fr/detail/684",
+          "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006278937/2026-10-29"
+        ],
+        "digital_copy_source": "Bản số do Lê Trí Công cung cấp cho dự án; ghi chú EFEO theo bản nhận được khi có.",
+        "digital_copy_license": "not_independently_verified",
+        "reuse_notice": "Ghi tác giả, số bản và nguồn bản số; không tuyên bố kho cung cấp đã cấp giấy phép mở."
+      }
+    },
+    {
+      "id": "parmentier-108",
+      "group": "F",
+      "title": "F1 — mặt bằng",
+      "plate": "XCIII",
+      "src": "assets/my-son/parmentier/parmentier-108.webp",
+      "credit": "H. Parmentier, bản XCIII; bản số do Lê Trí Công cung cấp.",
+      "source_file": "Monuments_Čams_de_L'Annam.1909_108.jpg",
+      "source_id": "1s0wTpir-U_x2kRAHfQXanmXohh7WdfAv",
+      "source_sha256": "b9000048f065fe800ba22129173e2290f0c884152e3092f6eb36a5afa842927e",
+      "crop_box": [
+        231,
+        247,
+        2127,
+        2946
+      ],
+      "width": 1686,
+      "height": 2400,
+      "operations": "Xén lề trắng; xoay 90° thuận chiều kim đồng hồ với tổng mặt bằng LXVII; thu nhỏ giữ tỷ lệ. Không vẽ lại, không tăng nét bằng AI.",
+      "rights_status": "public_domain_original",
+      "rights_record": {
+        "assessment_date": "2026-11-04",
+        "original_work_status": "public_domain_under_standard_france_life_plus_70_term",
+        "author": "Henri Parmentier",
+        "death_year": 1949,
+        "basis": "INHA xác nhận năm mất 1949; Điều L123-1 quy định năm mất và 70 năm tiếp theo. Phân loại này dành cho tác phẩm gốc, không gán giấy phép CC cho bản số.",
+        "evidence_urls": [
+          "https://agorha.inha.fr/detail/684",
+          "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006278937/2026-10-29"
+        ],
+        "digital_copy_source": "Bản số do Lê Trí Công cung cấp cho dự án; ghi chú EFEO theo bản nhận được khi có.",
+        "digital_copy_license": "not_independently_verified",
+        "reuse_notice": "Ghi tác giả, số bản và nguồn bản số; không tuyên bố kho cung cấp đã cấp giấy phép mở."
+      }
+    },
+    {
+      "id": "parmentier-109",
+      "group": "F",
+      "title": "Nhóm F — mặt đứng và mặt cắt",
+      "plate": "XCIV",
+      "src": "assets/my-son/parmentier/parmentier-109.webp",
+      "credit": "H. Parmentier, bản XCIV; bản số do Lê Trí Công cung cấp.",
+      "source_file": "Monuments_Čams_de_L'Annam.1909_109.jpg",
+      "source_id": "1b9Zr4HCh_M3lL463vvIpLapn0K1SeObg",
+      "source_sha256": "0ea2e81c70d71d931182b0f0551340c8043fff1f08426482c33573efa41ee6f9",
+      "crop_box": [
+        151,
+        119,
+        2233,
+        3097
+      ],
+      "width": 1678,
+      "height": 2400,
+      "operations": "Xén lề trắng; xoay 90° thuận chiều kim đồng hồ với tổng mặt bằng LXVII; thu nhỏ giữ tỷ lệ. Không vẽ lại, không tăng nét bằng AI.",
+      "rights_status": "public_domain_original",
+      "rights_record": {
+        "assessment_date": "2026-11-04",
+        "original_work_status": "public_domain_under_standard_france_life_plus_70_term",
+        "author": "Henri Parmentier",
+        "death_year": 1949,
+        "basis": "INHA xác nhận năm mất 1949; Điều L123-1 quy định năm mất và 70 năm tiếp theo. Phân loại này dành cho tác phẩm gốc, không gán giấy phép CC cho bản số.",
+        "evidence_urls": [
+          "https://agorha.inha.fr/detail/684",
+          "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006278937/2026-10-29"
+        ],
+        "digital_copy_source": "Bản số do Lê Trí Công cung cấp cho dự án; ghi chú EFEO theo bản nhận được khi có.",
+        "digital_copy_license": "not_independently_verified",
+        "reuse_notice": "Ghi tác giả, số bản và nguồn bản số; không tuyên bố kho cung cấp đã cấp giấy phép mở."
+      }
+    },
+    {
+      "id": "parmentier-094",
+      "group": "B",
+      "title": "Nhóm B — B1, B2 và mặt cắt",
+      "plate": "LXXIX",
+      "src": "assets/my-son/parmentier/parmentier-094.webp",
+      "credit": "H. Parmentier, bản LXXIX; bản số do Lê Trí Công cung cấp.",
+      "source_file": "Monuments_Čams_de_L'Annam.1909_094.jpg",
+      "source_id": "18kSu8bY6X9KMS4m1pR65YPYgDNWyT9Py",
+      "source_sha256": "241ed1c2cea8634835f3da92dc8096a5c2017bf3a5ab1c1279b4bf05983c864e",
+      "crop_box": [
+        0,
+        0,
+        3673,
+        3108
+      ],
+      "width": 2400,
+      "height": 2031,
+      "operations": "Xén lề trắng; xoay 90° thuận chiều kim đồng hồ với tổng mặt bằng LXVII; thu nhỏ giữ tỷ lệ. Không vẽ lại, không tăng nét bằng AI.",
+      "rights_status": "public_domain_original",
+      "rights_record": {
+        "assessment_date": "2026-11-04",
+        "original_work_status": "public_domain_under_standard_france_life_plus_70_term",
+        "author": "Henri Parmentier",
+        "death_year": 1949,
+        "basis": "INHA xác nhận năm mất 1949; Điều L123-1 quy định năm mất và 70 năm tiếp theo. Phân loại này dành cho tác phẩm gốc, không gán giấy phép CC cho bản số.",
+        "evidence_urls": [
+          "https://agorha.inha.fr/detail/684",
+          "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006278937/2026-10-29"
+        ],
+        "digital_copy_source": "Bản số do Lê Trí Công cung cấp cho dự án; ghi chú EFEO theo bản nhận được khi có.",
+        "digital_copy_license": "not_independently_verified",
+        "reuse_notice": "Ghi tác giả, số bản và nguồn bản số; không tuyên bố kho cung cấp đã cấp giấy phép mở."
+      }
+    },
+    {
+      "id": "parmentier-105",
+      "group": "E",
+      "title": "E4 — mặt cắt",
+      "plate": "XC",
+      "src": "assets/my-son/parmentier/parmentier-105.webp",
+      "credit": "H. Parmentier, bản XC; bản số do Lê Trí Công cung cấp.",
+      "source_file": "Monuments_Čams_de_L'Annam.1909_105.jpg",
+      "source_id": "1Zcem9KtGEa4BKaR6lYbTkJ1jNLP1gGl3",
+      "source_sha256": "4e7c7c55f7fab5c5ccff7c12ce901097d48aafa880448c3eb1b2c556b3b6b106",
+      "crop_box": [
+        467,
+        287,
+        2722,
+        2073
+      ],
+      "width": 2255,
+      "height": 1786,
+      "operations": "Xén lề trắng; xoay 90° thuận chiều kim đồng hồ với tổng mặt bằng LXVII; thu nhỏ giữ tỷ lệ. Không vẽ lại, không tăng nét bằng AI.",
+      "rights_status": "public_domain_original",
+      "rights_record": {
+        "assessment_date": "2026-11-04",
+        "original_work_status": "public_domain_under_standard_france_life_plus_70_term",
+        "author": "Henri Parmentier",
+        "death_year": 1949,
+        "basis": "INHA xác nhận năm mất 1949; Điều L123-1 quy định năm mất và 70 năm tiếp theo. Phân loại này dành cho tác phẩm gốc, không gán giấy phép CC cho bản số.",
+        "evidence_urls": [
+          "https://agorha.inha.fr/detail/684",
+          "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006278937/2026-10-29"
+        ],
+        "digital_copy_source": "Bản số do Lê Trí Công cung cấp cho dự án; ghi chú EFEO theo bản nhận được khi có.",
+        "digital_copy_license": "not_independently_verified",
+        "reuse_notice": "Ghi tác giả, số bản và nguồn bản số; không tuyên bố kho cung cấp đã cấp giấy phép mở."
+      }
+    },
+    {
+      "id": "parmentier-097",
+      "group": "C",
+      "title": "Nhóm C — C1 và nhà phụ",
+      "plate": "LXXXII",
+      "src": "assets/my-son/parmentier/parmentier-097.webp",
+      "credit": "H. Parmentier, bản LXXXII; bản số do Lê Trí Công cung cấp.",
+      "source_file": "Monuments_Čams_de_L'Annam.1909_097.jpg",
+      "source_id": "1aERbIjkxMhwVNt3wyyZP-0ldWG1iqfp6",
+      "source_sha256": "5f408ca6c6c1bbaf5ef19450368d8f7df87bbac3aa5f0ff42e4de5a31519b90e",
+      "crop_box": [
+        0,
+        0,
+        3640,
+        3030
+      ],
+      "width": 2400,
+      "height": 1998,
+      "operations": "Xén lề trắng; xoay 90° thuận chiều kim đồng hồ với tổng mặt bằng LXVII; thu nhỏ giữ tỷ lệ. Không vẽ lại, không tăng nét bằng AI.",
+      "rights_status": "public_domain_original",
+      "rights_record": {
+        "assessment_date": "2026-11-04",
+        "original_work_status": "public_domain_under_standard_france_life_plus_70_term",
+        "author": "Henri Parmentier",
+        "death_year": 1949,
+        "basis": "INHA xác nhận năm mất 1949; Điều L123-1 quy định năm mất và 70 năm tiếp theo. Phân loại này dành cho tác phẩm gốc, không gán giấy phép CC cho bản số.",
+        "evidence_urls": [
+          "https://agorha.inha.fr/detail/684",
+          "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006278937/2026-10-29"
+        ],
+        "digital_copy_source": "Bản số do Lê Trí Công cung cấp cho dự án; ghi chú EFEO theo bản nhận được khi có.",
+        "digital_copy_license": "not_independently_verified",
+        "reuse_notice": "Ghi tác giả, số bản và nguồn bản số; không tuyên bố kho cung cấp đã cấp giấy phép mở."
+      }
+    },
+    {
+      "id": "nhom-g-mat-bang",
+      "group": "G",
+      "title": "Nhóm G — phần cắt mặt bằng",
+      "plate": "XCV",
+      "src": "assets/my-son/parmentier/nhom-g-mat-bang.webp",
+      "credit": "H. Parmentier, bản XCV; phần cắt từ bản số do Lê Trí Công cung cấp. Xem bản toàn tờ để đối chiếu tỷ lệ và ký hiệu.",
+      "source_file": "Monuments_Čams_de_L'Annam.1909_110.jpg",
+      "source_id": "1Vp9aHr6l7cL8KaZIk3oD1j9gU4WfEmD2",
+      "source_sha256": "d30a10e7a07e52146ab601f2ebea9a17cf3b210281c9e9f5bc26b1c3b012f710",
+      "crop_box": [
+        590,
+        1514,
+        1724,
+        2884
+      ],
+      "width": 1134,
+      "height": 1370,
+      "operations": "Cắt một phần bản vẽ, giữ tỷ lệ; không vẽ lại.",
+      "rights_status": "public_domain_original",
+      "rights_record": {
+        "assessment_date": "2026-11-04",
+        "original_work_status": "public_domain_under_standard_france_life_plus_70_term",
+        "author": "Henri Parmentier",
+        "death_year": 1949,
+        "basis": "INHA xác nhận năm mất 1949; Điều L123-1 quy định năm mất và 70 năm tiếp theo. Phân loại này dành cho tác phẩm gốc, không gán giấy phép CC cho bản số.",
+        "evidence_urls": [
+          "https://agorha.inha.fr/detail/684",
+          "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006278937/2026-10-29"
+        ],
+        "digital_copy_source": "Bản số do Lê Trí Công cung cấp cho dự án; ghi chú EFEO theo bản nhận được khi có.",
+        "digital_copy_license": "not_independently_verified",
+        "reuse_notice": "Ghi tác giả, số bản và nguồn bản số; không tuyên bố kho cung cấp đã cấp giấy phép mở."
+      }
+    },
+    {
+      "id": "nhom-h-mat-bang",
+      "group": "H",
+      "title": "Nhóm H — phần cắt mặt bằng",
+      "plate": "XCV",
+      "src": "assets/my-son/parmentier/nhom-h-mat-bang.webp",
+      "credit": "H. Parmentier, bản XCV; phần cắt từ bản số do Lê Trí Công cung cấp. Xem bản toàn tờ để đối chiếu tỷ lệ và ký hiệu.",
+      "source_file": "Monuments_Čams_de_L'Annam.1909_110.jpg",
+      "source_id": "1Vp9aHr6l7cL8KaZIk3oD1j9gU4WfEmD2",
+      "source_sha256": "d30a10e7a07e52146ab601f2ebea9a17cf3b210281c9e9f5bc26b1c3b012f710",
+      "crop_box": [
+        638,
+        494,
+        1677,
+        1466
+      ],
+      "width": 1039,
+      "height": 972,
+      "operations": "Cắt một phần bản vẽ, giữ tỷ lệ; không vẽ lại.",
+      "rights_status": "public_domain_original",
+      "rights_record": {
+        "assessment_date": "2026-11-04",
+        "original_work_status": "public_domain_under_standard_france_life_plus_70_term",
+        "author": "Henri Parmentier",
+        "death_year": 1949,
+        "basis": "INHA xác nhận năm mất 1949; Điều L123-1 quy định năm mất và 70 năm tiếp theo. Phân loại này dành cho tác phẩm gốc, không gán giấy phép CC cho bản số.",
+        "evidence_urls": [
+          "https://agorha.inha.fr/detail/684",
+          "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006278937/2026-10-29"
+        ],
+        "digital_copy_source": "Bản số do Lê Trí Công cung cấp cho dự án; ghi chú EFEO theo bản nhận được khi có.",
+        "digital_copy_license": "not_independently_verified",
+        "reuse_notice": "Ghi tác giả, số bản và nguồn bản số; không tuyên bố kho cung cấp đã cấp giấy phép mở."
+      }
+    },
+    {
+      "id": "k-mat-cat",
+      "group": "K",
+      "title": "K — mặt cắt",
+      "plate": "XCVII",
+      "src": "assets/my-son/parmentier/k-mat-cat.webp",
+      "credit": "H. Parmentier, bản XCVII; phần cắt từ bản số do Lê Trí Công cung cấp. Xem bản toàn tờ để đối chiếu tỷ lệ và ký hiệu.",
+      "source_file": "Monuments_Čams_de_L'Annam.1909_112.jpg",
+      "source_id": "1wz8r1TxnQ7mKkWfxaMnWTwPCaMVyhW_1",
+      "source_sha256": "cf501a65f41b052e1941de600652f786f7a4c435904b992c92fc34f90e38282b",
+      "crop_box": [
+        196,
+        167,
+        1023,
+        1149
+      ],
+      "width": 827,
+      "height": 982,
+      "operations": "Cắt một phần bản vẽ, giữ tỷ lệ; không vẽ lại.",
+      "rights_status": "public_domain_original",
+      "rights_record": {
+        "assessment_date": "2026-11-04",
+        "original_work_status": "public_domain_under_standard_france_life_plus_70_term",
+        "author": "Henri Parmentier",
+        "death_year": 1949,
+        "basis": "INHA xác nhận năm mất 1949; Điều L123-1 quy định năm mất và 70 năm tiếp theo. Phân loại này dành cho tác phẩm gốc, không gán giấy phép CC cho bản số.",
+        "evidence_urls": [
+          "https://agorha.inha.fr/detail/684",
+          "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006278937/2026-10-29"
+        ],
+        "digital_copy_source": "Bản số do Lê Trí Công cung cấp cho dự án; ghi chú EFEO theo bản nhận được khi có.",
+        "digital_copy_license": "not_independently_verified",
+        "reuse_notice": "Ghi tác giả, số bản và nguồn bản số; không tuyên bố kho cung cấp đã cấp giấy phép mở."
+      }
+    },
+    {
+      "id": "k-mat-bang",
+      "group": "K",
+      "title": "K — mặt bằng",
+      "plate": "XCVII",
+      "src": "assets/my-son/parmentier/k-mat-bang.webp",
+      "credit": "H. Parmentier, bản XCVII; phần cắt từ bản số do Lê Trí Công cung cấp. Xem bản toàn tờ để đối chiếu tỷ lệ và ký hiệu.",
+      "source_file": "Monuments_Čams_de_L'Annam.1909_112.jpg",
+      "source_id": "1wz8r1TxnQ7mKkWfxaMnWTwPCaMVyhW_1",
+      "source_sha256": "cf501a65f41b052e1941de600652f786f7a4c435904b992c92fc34f90e38282b",
+      "crop_box": [
+        1038,
+        723,
+        1956,
+        1501
+      ],
+      "width": 918,
+      "height": 778,
+      "operations": "Cắt một phần bản vẽ, giữ tỷ lệ; không vẽ lại.",
+      "rights_status": "public_domain_original",
+      "rights_record": {
+        "assessment_date": "2026-11-04",
+        "original_work_status": "public_domain_under_standard_france_life_plus_70_term",
+        "author": "Henri Parmentier",
+        "death_year": 1949,
+        "basis": "INHA xác nhận năm mất 1949; Điều L123-1 quy định năm mất và 70 năm tiếp theo. Phân loại này dành cho tác phẩm gốc, không gán giấy phép CC cho bản số.",
+        "evidence_urls": [
+          "https://agorha.inha.fr/detail/684",
+          "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006278937/2026-10-29"
+        ],
+        "digital_copy_source": "Bản số do Lê Trí Công cung cấp cho dự án; ghi chú EFEO theo bản nhận được khi có.",
+        "digital_copy_license": "not_independently_verified",
+        "reuse_notice": "Ghi tác giả, số bản và nguồn bản số; không tuyên bố kho cung cấp đã cấp giấy phép mở."
+      }
+    },
+    {
+      "id": "k-mat-dung",
+      "group": "K",
+      "title": "K — mặt đứng",
+      "plate": "XCVII",
+      "src": "assets/my-son/parmentier/k-mat-dung.webp",
+      "credit": "H. Parmentier, bản XCVII; phần cắt từ bản số do Lê Trí Công cung cấp. Xem bản toàn tờ để đối chiếu tỷ lệ và ký hiệu.",
+      "source_file": "Monuments_Čams_de_L'Annam.1909_112.jpg",
+      "source_id": "1wz8r1TxnQ7mKkWfxaMnWTwPCaMVyhW_1",
+      "source_sha256": "cf501a65f41b052e1941de600652f786f7a4c435904b992c92fc34f90e38282b",
+      "crop_box": [
+        1986,
+        241,
+        2738,
+        1149
+      ],
+      "width": 752,
+      "height": 908,
+      "operations": "Cắt một phần bản vẽ, giữ tỷ lệ; không vẽ lại.",
+      "rights_status": "public_domain_original",
+      "rights_record": {
+        "assessment_date": "2026-11-04",
+        "original_work_status": "public_domain_under_standard_france_life_plus_70_term",
+        "author": "Henri Parmentier",
+        "death_year": 1949,
+        "basis": "INHA xác nhận năm mất 1949; Điều L123-1 quy định năm mất và 70 năm tiếp theo. Phân loại này dành cho tác phẩm gốc, không gán giấy phép CC cho bản số.",
+        "evidence_urls": [
+          "https://agorha.inha.fr/detail/684",
+          "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006278937/2026-10-29"
+        ],
+        "digital_copy_source": "Bản số do Lê Trí Công cung cấp cho dự án; ghi chú EFEO theo bản nhận được khi có.",
+        "digital_copy_license": "not_independently_verified",
+        "reuse_notice": "Ghi tác giả, số bản và nguồn bản số; không tuyên bố kho cung cấp đã cấp giấy phép mở."
+      }
+    }
+  ],
+  "excluded": [
+    {
+      "file": "Monuments_Čams_de_L'Annam.1909_085.jpg",
+      "reason": "Bản nguồn bị cụt nửa dưới; không dùng."
+    },
+    {
+      "id": "tong-mat-bang-ban-quan-ly",
+      "source_file": "Tong_mat_bang_BQL.jpg",
+      "reason": "Tạm ẩn bản tổng mặt bằng hiện đại do chưa có phép công bố được ghi nhận."
+    }
+  ],
+  "notes": [
+    "Tên tệp 083–112 là tên ảnh, không phải số trang in. Số bản được đọc trên tờ gốc.",
+    "Tờ XCVII dùng ký hiệu K và L lịch sử; không đồng nhất tự động với nhóm L khai quật năm 2025."
+  ]
+}

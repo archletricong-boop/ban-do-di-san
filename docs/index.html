@@ -1,0 +1,256 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Bản đồ Di sản Sa Huỳnh–Champa · Óc Eo–Phù Nam · Cát Tiên · Cổng tra cứu học thuật</title><link rel="stylesheet" href="navigation-back.css"><script src="navigation-back.js"></script>
+<meta name="description" content="Cổng tra cứu học thuật về di sản Sa Huỳnh và Champa. Tra di tích, hiện vật, văn khắc và tài liệu cùng hồ sơ nguồn và mức kiểm chứng.">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data: blob: https://services.arcgisonline.com; font-src 'self' data:; connect-src 'self'; object-src 'none'; base-uri 'none'; form-action 'none'; frame-src 'none'; worker-src 'none'; manifest-src 'self'; upgrade-insecure-requests">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<link rel="stylesheet" href="atlas-core/vendor/leaflet/leaflet.css">
+<link rel="stylesheet" href="atlas-core/css/atlas-core.css">
+<link rel="stylesheet" href="theme.css">
+<link rel="stylesheet" href="atlas-interface.css">
+<link rel="icon" type="image/svg+xml" href="assets/branding/identity-v2/logos/app-icon-micro-brick.svg"><link rel="apple-touch-icon" href="assets/branding/identity-v2/apple-touch.png"><link rel="stylesheet" href="identity.css"><link rel="stylesheet" href="atlas-upgrade.css"></head>
+<body>
+<a class="skip" href="#tabs">Bỏ qua bản đồ, tới danh sách</a>
+<header>
+  <a class="brand brand-home" href="./" aria-label="Về trang chủ Bản đồ Di sản Sa Huỳnh–Champa · Óc Eo–Phù Nam · Cát Tiên">
+    <img class="brand-logo" src="assets/branding/identity-v1/logos/mark-do-gach.svg" alt="" width="32" height="50" decoding="async">
+    <div><small>CỔNG TRA CỨU HỌC THUẬT</small><b><span class="brand-main"><span>Bản đồ Di sản</span> <span>Sa Huỳnh–Champa</span></span><span class="brand-extension">Óc Eo–Phù Nam · Cát Tiên</span></b></div>
+  </a>
+  <div class="head-right">
+    <span class="pill research-only" id="pill"></span>
+    <button type="button" class="btn atlas-search-trigger" id="openContentSearch" aria-haspopup="dialog" aria-controls="contentSearchDialog" aria-label="Tra cứu toàn văn"><span class="identity-ui-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="10" cy="10" r="6"/><path d="M15 15L21 21"/></g></svg></span> Tra cứu toàn văn</button>
+    <div class="mode" role="group" aria-label="Chế độ xem">
+      <button type="button" id="modeResearch" aria-pressed="true">Nghiên cứu</button>
+      <button type="button" id="modePublic" aria-pressed="false">Tham quan</button>
+    </div>
+    <div class="mode language" role="group" aria-label="Ngôn ngữ / Language"><button id="langVI" type="button" lang="vi" aria-pressed="true">VI</button><button id="langEN" type="button" lang="en" aria-pressed="false">EN</button></div>
+  </div>
+</header>
+<dialog id="contentSearchDialog" class="content-search-dialog" aria-labelledby="contentSearchTitle">
+  <div class="content-search-heading"><h2 id="contentSearchTitle">Tìm trong nội dung bản đồ</h2><button type="button" class="btn ghost" id="closeContentSearch" aria-label="Đóng tìm kiếm">×</button></div>
+  <div class="content-search-modes" role="group" aria-label="Chế độ tìm kiếm">
+    <button type="button" id="searchModeExact" aria-pressed="true">Từ khóa</button>
+    <button type="button" id="searchModeAI" aria-pressed="false"><span aria-hidden="true">↔</span> Mở rộng</button>
+  </div>
+  <form id="contentSearchForm" role="search"><label class="sr-only" for="contentSearchInput">Từ khóa tìm kiếm</label><div class="content-search-field"><input id="contentSearchInput" type="search" autocomplete="off" placeholder="Tên di tích, điêu khắc, mã bia, thần danh…"><button class="btn" type="submit">Tìm</button></div></form>
+  <p class="acc" id="contentSearchHelp">Tra toàn bộ hồ sơ, không phụ thuộc bộ lọc. Có thể gõ có dấu hoặc không dấu.</p>
+  <p class="search-catalogue"><a id="searchCatalogue" href="encyclopedia/">Tra mục từ Bách khoa ↗</a></p>
+  <p id="contentSearchStatus" role="status" aria-live="polite"></p>
+  <div id="contentSearchResults" class="content-search-results"></div>
+</dialog>
+<main>
+  <nav id="workspaceNav" class="workspace-nav" aria-label="Chọn bản đồ">
+    <a href="?ban-do=tong-hop" data-workspace="tong-hop">Tổng hợp</a>
+    <a href="?ban-do=sa-huynh" data-workspace="sa-huynh">Sa Huỳnh</a>
+    <a href="?ban-do=champa" data-workspace="champa" aria-current="page">Champa</a>
+    <a href="?ban-do=bao-tang" data-workspace="bao-tang">Bảo tàng</a>
+    <a href="?ban-do=canh-quan" data-workspace="canh-quan">Cảnh quan</a>
+    <a href="?ban-do=gieng-cham" data-workspace="gieng-cham">Giếng Chăm</a>
+    <a href="?ban-do=cat-tien" data-workspace="cat-tien" data-reserved>Cát Tiên</a>
+    <a href="?ban-do=oc-eo-phu-nam" data-workspace="oc-eo-phu-nam" data-reserved>Óc Eo – Phù Nam – Chân Lạp</a>
+    <a class="workspace-network" href="khao-co-mang.html">Khảo cổ mạng</a>
+  </nav>
+  <nav class="portal-nav" id="portalNav" aria-label="Danh mục tra cứu">
+    <a href="encyclopedia/">Bách Khoa</a>
+    <a href="encyclopedia/?type=object">Hiện vật</a>
+    <a href="encyclopedia/?type=inscription">Văn khắc</a>
+    <a href="encyclopedia/?type=reference">Tài liệu</a>
+  </nav>
+  <aside aria-label="Tìm và chọn di tích">
+    <h1 id="workspaceTitle" tabindex="-1">Danh mục di tích</h1>
+    <details class="intro-guides"><summary>Giới thiệu và hướng dẫn</summary>
+    <p class="lede" id="workspaceIntro">Đọc hồ sơ và đối chiếu vị trí, niên đại, nguồn và mức chứng cứ.</p>
+    <nav class="portal-guides" aria-label="Hướng dẫn tra cứu"><a href="tong-quan-sa-huynh.html">Tổng quan Sa Huỳnh</a><a href="tong-quan-champa.html">Tổng quan Champa</a><a href="phuong-phap.html">Phương pháp và trích dẫn</a></nav>
+    <nav id="champaResearch" class="portal-guides" aria-label="Tổng quan nghiên cứu Champa" hidden>
+      <a href="tong-quan-champa.html#lich-su">Lịch sử và địa tầng</a>
+      <a href="tong-quan-champa.html#van-khac">Văn khắc và niên đại</a>
+      <a href="tong-quan-champa.html#bao-ton">Khảo cổ và bảo tồn</a>
+    </nav>
+    <nav id="saHuynhResearch" class="portal-guides" aria-label="Tổng quan nghiên cứu Sa Huỳnh" hidden>
+      <a href="tong-quan-sa-huynh.html#nien-dai">Niên đại và địa tầng</a>
+      <a href="tong-quan-sa-huynh.html#cap-nhat">Tư liệu khảo cổ 2026</a>
+      <a href="tong-quan-sa-huynh.html#bao-ton">Bảo tồn và bộ sưu tập</a>
+    </nav>
+    <nav id="wellResearch" class="portal-guides" aria-label="Nghiên cứu giếng Chăm" hidden>
+      <a href="tong-quan-gieng-cham.html">Tổng quan Giếng Chăm</a>
+      <a href="tong-quan-gieng-cham.html#toa-do">Cách đọc tọa độ</a>
+    </nav>
+    <nav id="catTienResearch" class="portal-guides" aria-label="Nghiên cứu Cát Tiên" hidden>
+      <a href="tong-quan-cat-tien.html">Tổng quan học thuật Cát Tiên</a>
+      <a href="tong-quan-cat-tien.html#nien-dai">Niên đại và địa tầng</a>
+    </nav>
+    <nav id="ocEoResearch" class="portal-guides" aria-label="Nghiên cứu Óc Eo – Phù Nam – Chân Lạp" hidden>
+      <a href="tong-quan-oc-eo-phu-nam-chan-lap.html">Tổng quan học thuật Óc Eo – Phù Nam – Chân Lạp</a>
+      <a href="tong-quan-oc-eo-phu-nam-chan-lap.html#van-khac">Thư tịch và văn khắc</a>
+      <a href="tong-quan-oc-eo-phu-nam-chan-lap.html#doi-chieu-diem">Rà soát địa điểm theo Hình 12</a>
+    </nav>
+    </details>
+    <button class="research-only relation-entry" id="openRelations" type="button">Quan hệ và biến đổi ↗</button>
+
+    <details id="museumCatalogue" class="open-data-panel" hidden>
+      <summary>Tra hiện vật và văn khắc</summary>
+      <div id="collectionSearch"></div>
+    </details>
+    <details id="landscapeNotes" class="open-data-panel" hidden>
+      <summary>Dữ liệu cảnh quan và phân tích</summary>
+      <p>Lớp Giếng phân biệt tọa độ dự án, điểm tham chiếu và hồ sơ chờ định vị. Các lớp phân tích địa hình và thủy văn đang chờ dữ liệu.</p>
+    </details>
+
+    <p class="notice" id="comparisonNotice" hidden>Đang chờ hồ sơ nguồn và tọa độ để đưa vào bản đồ.</p>
+<div class="sidebar-tool-row"><details class="map-layers" name="sidebar-tool">
+      <summary><span class="identity-ui-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 8L12 3L21 8L12 13ZM3 13L12 18L21 13M3 18L12 23L21 18"/></g></svg></span>Lớp</summary><div class="sidebar-tool-panel">
+      <div class="layer-actions"><button type="button" class="btn ghost small" id="layersAll">Bật toàn bộ</button><button type="button" class="btn ghost small" id="layersNone">Tắt toàn bộ</button></div>
+      <div id="mapLayerControls" class="layer-grid" role="group" aria-label="Bật tắt lớp bản đồ"></div>
+      <label class="layer-check research-only" id="rowLayerControl"><input type="checkbox" id="rowToggle"> Điểm KMZ đề xuất cho dòng nguồn</label>
+      <p class="acc layer-note" id="workspaceLayerNote">Hồ sơ chờ tọa độ vẫn có trong danh sách.</p>
+    </div></details><details name="sidebar-tool" id="symbolConvention" class="symbol-convention"></details><details class="research-only research-tools" name="sidebar-tool"><summary>Công cụ</summary><div class="sidebar-tool-panel">    <details id="relationsPanel" class="relations-panel research-only">
+      <summary><span id="relationsTitle" tabindex="-1">Quan hệ và biến đổi</span> · Thí điểm</summary>
+      <p>Tra quan hệ xuất xứ và lưu giữ hiện vật theo hồ sơ hiện có. Các ghi nhận có thời gian riêng; chưa dựng lịch sử vận chuyển hoặc một mạng cổ.</p>
+      <label class="check"><input id="relationsToggle" type="checkbox"> Bật các đường liên hệ trên bản đồ</label>
+      <p class="relation-map-key"><span>┄</span> Có nguồn trong hồ sơ · <span class="candidate-key">···</span> Cần bổ sung nguồn</p>
+      <div class="relation-filters">
+        <label>Tìm hiện vật<input id="relationSearch" type="search" placeholder="Tên hoặc nơi phát hiện…"></label>
+        <label>Loại quan hệ<select id="relationKind"><option value="">Mọi loại đã có</option></select></label>
+        <label>Địa điểm liên quan<select id="relationPlace"><option value="">Mọi địa điểm</option></select></label>
+        <label>Mức chứng cứ<select id="relationStatus"><option value="recorded_with_source">Có nguồn trong hồ sơ</option><option value="project_record_needs_source">Cần bổ sung nguồn</option><option value="">Cả hai mức</option></select></label>
+        <label>Lọc theo mốc<select id="relationTime"><option value="source_year">Năm nguồn ghi nơi lưu giữ</option><option value="discovery_year">Năm phát hiện đã nhập</option></select></label>
+        <div class="relation-years"><label>Từ năm<input id="relationFrom" type="number" step="1" placeholder="…"></label><label>Đến năm<input id="relationTo" type="number" step="1" placeholder="…"></label></div>
+        <label class="check"><input id="relationUnknown" type="checkbox" checked> Bao gồm quan hệ chưa rõ năm</label>
+      </div>
+      <p class="acc">Năm nguồn không phải ngày bắt đầu lưu giữ. Năm phát hiện không phải năm di chuyển. Đường nối dùng vị trí đại diện của hồ sơ, không phải lộ trình.</p>
+      <p id="relationCount" role="status"></p><div class="relation-actions"><button type="button" id="relationReset">Đặt lại bộ lọc</button><button type="button" id="relationExport">Tải quan hệ đã lọc</button></div>
+      <div id="relationList"></div>
+      <p class="acc">Các loại chưa mã hóa: bảo trợ/hiến cúng, quản lý tài sản, nghi lễ, chuyển tuyến/tái đan. Chỉ bổ sung khi có chứng cứ và thời gian tương ứng.</p>
+      <p><a href="encyclopedia/dan-mang.html">Đọc mục từ Đan–Mạng →</a></p>
+    </details>
+
+    <p class="research-only"><a href="kmz-review.html">Rà soát KMZ và đối chiếu nguồn ↗</a></p>
+    <section class="tools research-only" aria-labelledby="toolsTitle">
+      <h2 id="toolsTitle">Dữ liệu tọa độ</h2>
+      <p>Nhập CSV, GeoJSON hoặc KML. Hồ sơ biên soạn khớp theo <code>id</code> hoặc tên chính xác, duy nhất; dòng nguồn chỉ khớp theo mã <code>BDS-…</code> (không khớp mờ theo tên). Tọa độ nhập chỉ lưu trong trình duyệt này.</p>
+      <label class="sr-only" for="importStatus">Loại tọa độ trong tệp</label>
+      <select id="importStatus"></select>
+      <div class="row-btns">
+        <label class="btn file">Nhập tệp tọa độ<input id="importFile" type="file" accept=".csv,.geojson,.json,.kml"></label>
+        <button class="btn ghost" type="button" id="exportGeo">Tải GeoJSON</button>
+        <button class="btn ghost" type="button" id="exportCsv">Tải CSV tọa độ</button>
+        <button class="btn" type="button" id="exportPatch">Tải bản vá hiệu đính</button>
+        <button class="btn ghost" type="button" id="clearImport">Xóa tọa độ đã nhập</button>
+      </div>
+      <div id="importReport" aria-live="polite"></div>
+    </section>
+    <details class="open-data-panel research-only">
+      <summary>Dữ liệu mở &amp; tích hợp</summary>
+      <p>Gói trao đổi độc lập, có phiên bản và SHA-256. Điểm tọa độ không được coi là đường bao; tình trạng bảo tồn chưa có đánh giá cấu trúc không được suy diễn.</p>
+      <div class="open-data-links">
+        <a href="open-data/heritage-atlas.json" download>JSON đầy đủ</a>
+        <a href="open-data/places.geojson" download>GeoJSON GIS</a>
+        <a href="open-data/places.csv" download>CSV hồ sơ</a>
+        <a href="open-data/conservation.csv" download>CSV bảo tồn</a>
+        <a href="open-data/release.json">Phiên bản &amp; SHA-256</a>
+        <a href="schemas/heritage-exchange.schema.json">Lược đồ tích hợp</a>
+      </div>
+    </details>
+    <details class="open-data-panel research-only">
+      <summary>Tư liệu bổ sung và lớp so sánh</summary>
+      <ul>
+        <li><b>Ảnh và bản vẽ</b> · Ghi tác giả, xuất xứ, quyền sử dụng và đối tượng trong đề xuất của hồ sơ.</li>
+        <li><b>Nguồn Pháp</b> · <a href="https://www.efeo.fr/ressources/ressources-numeriques/bases-de-donnees-de-recherche/">Tài nguyên số EFEO</a>. Khi bổ sung trích dẫn, ghi rõ trang, hình hoặc số lưu trữ.</li>
+        <li><b>Corpus văn khắc</b> · <a href="https://isaw.nyu.edu/publications/inscriptions/campa/index.html">Corpus des inscriptions du Campā</a>. Dùng mã C. để đối chiếu ấn bản, bản dập và bản dịch.</li>
+
+      </ul>
+    </details>
+    <details class="open-data-panel">
+      <summary>Đối chiếu</summary>
+      <ul>
+        <li><a href="?ban-do=cat-tien" data-workspace="cat-tien">Cát Tiên</a></li>
+        <li><a href="?ban-do=oc-eo-phu-nam" data-workspace="oc-eo-phu-nam">Óc Eo – Phù Nam – Chân Lạp</a></li>
+      </ul>
+    </details>
+    <details class="portal-about research-only">
+      <summary>Thông tin dữ liệu bản đồ</summary>
+      <div class="about" id="about"></div>
+    </details>
+    <p class="about research-only"><a href="Ban_Do_Di_San.html" download>Tải bản đồ HTML để mở trên máy</a></p></div></details></div>
+    <div class="tabs" id="tabs" role="tablist" aria-label="Loại dữ liệu">
+      <button type="button" role="tab" id="tabP" aria-controls="panelP" aria-selected="true"></button>
+      <button type="button" role="tab" class="research-only" id="tabR" aria-controls="panelR" aria-selected="false" tabindex="-1"></button>
+    </div>
+    <label class="sr-only" for="search">Tìm kiếm</label>
+    <input id="search" type="search" autocomplete="off">
+
+    <div id="panelP" role="tabpanel" aria-labelledby="tabP">
+      <details class="filter-drawer"><summary>Bộ lọc</summary><div class="filters">
+        <label class="sr-only" for="kind">Loại di tích</label><select id="kind"><option value="">Mọi loại hình</option></select>
+        <label class="sr-only research-only" for="kindStatus">Tình trạng định danh</label><select id="kindStatus" class="research-only" aria-describedby="kindStatusHelp"><option value="">Mọi tình trạng định danh</option><option value="settled">Không có dấu hiệu cần kiểm trong nhãn</option><option value="unsettled">Cần kiểm hoặc theo tin báo</option></select>
+        <label class="sr-only" for="theme">Chủ đề</label><select id="theme"><option value="">Mọi chủ đề</option></select>
+        <label class="sr-only" for="dateQuery">Niên đại ghi trong hồ sơ</label><input id="dateQuery" type="search" placeholder="Niên đại…" title="Ví dụ: VII, 875, Sắt sớm" autocomplete="off">
+        <label class="sr-only" for="inscriptionQuery">Mã, tên hoặc nội dung văn khắc</label><input id="inscriptionQuery" type="search" placeholder="Văn khắc…" title="Ví dụ: C.211, tên hoặc nội dung" autocomplete="off">
+        <label class="sr-only research-only" for="oldprov">Tỉnh/thành trước 7/2025</label><select class="research-only" id="oldprov"><option value="">Mọi tỉnh (cũ)</option></select>
+        <label class="sr-only research-only" for="coord">Mức kiểm tọa độ</label><select id="coord" class="research-only"><option value="">Mọi mức tọa độ</option></select>
+        <label class="sr-only research-only" for="evidence">Cấp chứng cứ</label><select id="evidence" class="research-only"><option value="">Mọi cấp chứng cứ</option></select>
+      </div><p id="kindStatusHelp" class="acc research-only">Tình trạng định danh tạm suy từ nhãn loại hình, không phải mức xác nhận học thuật.</p><p class="acc filter-note">Niên đại lọc theo cách ghi trong hồ sơ. Hồ sơ chưa định niên vẫn hiện khi bỏ lọc.</p></details>
+      <div class="count" id="pcount" aria-live="polite"></div>
+      <div id="plist" class="list" role="list"></div>
+    </div>
+
+    <div id="panelR" role="tabpanel" aria-labelledby="tabR" hidden>
+      <details class="filter-drawer"><summary>Bộ lọc</summary><div class="filters">
+        <label class="sr-only" for="rprov">Tỉnh theo sách</label><select id="rprov"><option value="">Mọi tỉnh (theo sách)</option></select>
+        <label class="sr-only" for="rtable">Bảng trong sách</label><select id="rtable"><option value="">Cả hai bảng</option></select>
+        <label class="sr-only research-only" for="rkmz">Liên kết KMZ</label><select id="rkmz" class="research-only"><option value="">Mọi trạng thái KMZ</option></select>
+        <label class="sr-only" for="rprov25">Tỉnh hiện nay</label><select id="rprov25"><option value="">Mọi tỉnh (hiện nay)</option></select>
+      </div></details>
+
+      <label class="check research-only"><input type="checkbox" id="rissue"> Chỉ dòng có vấn đề đang mở</label>
+      <div class="count" id="rcount" aria-live="polite"></div>
+      <div class="row-btns"><button class="btn ghost small" type="button" id="openTable">Xem dạng bảng</button></div>
+      <div id="rlist" class="list" role="list"></div>
+    </div>
+
+
+  </aside>
+
+  <section class="maparea" id="maparea" aria-label="Bản đồ di tích">
+    <div id="map"></div>
+    <div id="fallback"><b>Bản đồ nền chưa tải được.</b><p>Vẫn có thể chọn hồ sơ để xem.</p><div id="fallbacklist"></div></div>
+
+  </section>
+
+  <section class="tableview" id="tableview" aria-label="Bảng dữ liệu" hidden>
+    <div class="tbar">
+      <label class="sr-only" for="tset">Bảng</label><select id="tset"></select>
+      <label class="sr-only" for="tsearch">Lọc bảng</label><input id="tsearch" type="search" placeholder="Lọc trong bảng (không phân biệt dấu)…" autocomplete="off">
+      <span class="tcount" id="tcount" aria-live="polite"></span>
+      <button class="btn ghost small" type="button" id="tcsv">Tải CSV (đang lọc)</button>
+      <button class="btn small" type="button" id="tclose">Về bản đồ</button>
+    </div>
+    <p class="tnote" id="tnote"></p>
+    <div class="twrap"><table class="data" id="tdata"><thead></thead><tbody></tbody></table></div>
+  </section>
+
+  <article class="detail" id="detail" hidden aria-labelledby="dTitle"></article>
+</main>
+<div id="mapMetadata" hidden><div class="maptop"><b id="maptopTitle">Thông tin bản đồ</b><span id="maptopNote"></span></div><div class="legend" id="legend" aria-label="Chú giải mức kiểm tọa độ"></div></div>
+<div class="sr-only" id="announce" aria-live="polite"></div>
+<script src="atlas-core/vendor/leaflet/leaflet.js"></script>
+<script src="atlas-core/js/atlas-core.js"></script>
+<script src="atlas.config.js"></script>
+<script src="data/ban-do-data.js"></script>
+<script src="data/encyclopedia-index.js"></script>
+<script src="data/northern-profiles.js"></script>
+<script src="data/fortifications.js"></script>
+<script src="northern-reader.js"></script>
+<script src="atlas-symbols.js"></script>
+<script src="kind-groups.js"></script>
+<script src="data/relations-data.js"></script>
+<script src="atlas-relations.js"></script>
+<script src="i18n.js"></script>
+<script src="map-image.js"></script>
+<script src="app.js"></script>
+<script src="atlas-interface.js"></script>
+</body>
+</html>

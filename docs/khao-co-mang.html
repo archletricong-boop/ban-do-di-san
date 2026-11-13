@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Khảo cổ mạng · Bản đồ Di sản</title><link rel="stylesheet" href="navigation-back.css"><script src="navigation-back.js" defer data-return-fallback="./"></script>
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data: blob: https://services.arcgisonline.com; font-src 'self' data:; connect-src 'self'; object-src 'none'; base-uri 'none'; form-action 'none'; frame-src 'none'; worker-src 'none'; manifest-src 'self'; upgrade-insecure-requests">
+<link rel="icon" href="assets/branding/identity-v2/logos/app-icon-micro-brick.svg">
+<link rel="stylesheet" href="atlas-core/vendor/leaflet/leaflet.css">
+<link rel="stylesheet" href="network-map.css">
+</head>
+<body>
+<header><a href="./">Bản đồ Di sản</a><a href="encyclopedia/">Bách Khoa</a><a href="encyclopedia/dan-mang.html">Đan–Mạng</a></header>
+<main>
+  <h1>Khảo cổ mạng</h1>
+  <p>Phân tích quan hệ giữa nơi phát hiện và nơi lưu giữ hiện vật đã được ghi trong cổng.</p>
+  <div class="network-filters">
+    <label>Phạm vi chứng cứ<select id="network-scope"><option value="documented">Có nguồn trong hồ sơ</option><option value="extended">Thêm bản ghi chờ đối chiếu</option></select></label>
+    <label>Chỉ số<select id="network-metric"><option value="degree">Sức mạnh liên kết</option><option value="rank">PageRank có trọng số</option><option value="bridge">Tính trung gian Brandes</option></select></label>
+    <label>Năm nguồn từ<input id="network-from" type="number" min="1" max="9999"></label>
+    <label>Đến năm<input id="network-to" type="number" min="1" max="9999"></label>
+    <label class="check"><input id="network-unknown" type="checkbox" checked> Gồm nguồn chưa rõ năm</label>
+  </div>
+  <p id="network-status" role="status"></p>
+  <div class="network-layout">
+    <div id="network-map" aria-label="Bản đồ các quan hệ đã ghi"></div>
+    <section aria-labelledby="rank-title"><h2 id="rank-title">Xếp hạng trong tập đang chọn</h2>
+      <table><thead><tr><th scope="col">Địa điểm</th><th scope="col">Điểm</th><th scope="col">Thành phần</th></tr></thead><tbody id="network-ranks"></tbody></table>
+    </section>
+  </div>
+  <details class="method"><summary>Dữ liệu, thuật toán và giới hạn</summary>
+    <p><strong>Dữ liệu.</strong> Mỗi quan hệ nối hai mã địa điểm. Hiện vật được đếm một lần trong từng cặp. Năm lọc là năm nguồn công bố. Mạng khởi đầu chỉ gồm bản ghi có nguồn trong hồ sơ.</p>
+    <p><strong>Phân tích.</strong> Sức mạnh liên kết là tổng trọng số các cạnh kề. PageRank dùng trọng số số hiện vật, hệ số 0,85 và tính trên mạng vô hướng để so sánh cả nơi phát hiện lẫn nơi lưu giữ. Brandes đo trung gian trên mạng vô hướng theo số bước, chuẩn hóa theo quy mô toàn mạng. Các thành phần liên thông được tính lại sau khi lọc.</p>
+    <p><strong>Suy luận.</strong> Đường nối biểu thị hai đầu mối trong hồ sơ. Nét đứt đánh dấu cặp có bản ghi chờ đối chiếu. Điểm số phản ánh cấu trúc của tập hồ sơ đang chọn. So sánh hai phạm vi chứng cứ để thấy mức thay đổi do dữ liệu chờ đối chiếu.</p>
+    <p><a href="https://www.research-collection.ethz.ch/entities/publication/d0b4ba26-0eb4-4dae-aea6-bdc3b929a83c">Brandes · thuật toán trung gian</a> · <a href="https://www.cambridge.org/core/books/abs/network-science-in-archaeology/quantifying-uncertainty-in-archaeological-networks/65F9F2DFF74CD15B46194A01043BFFBB">Brughmans và Peeples · độ bất định trong mạng khảo cổ</a></p>
+  </details>
+  <section aria-labelledby="edge-title"><h2 id="edge-title">Quan hệ và hồ sơ nguồn</h2><div id="network-edges"></div></section>
+</main>
+<script src="atlas-core/vendor/leaflet/leaflet.js"></script>
+<script src="atlas-core/js/atlas-core.js"></script>
+<script src="atlas.config.js"></script>
+<script src="data/ban-do-data.js"></script>
+<script src="data/relations-data.js"></script>
+<script src="network-map.js"></script>
+</body>
+</html>

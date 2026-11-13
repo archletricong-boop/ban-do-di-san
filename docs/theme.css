@@ -1,0 +1,164 @@
+/* Champa · theme riêng của bản đồ (nạp sau atlas-core.css).
+   Màu theo loại địa điểm, trạng thái KMZ/tọa độ, lớp Quan hệ và biến đổi,
+   và các quy ước biên tập riêng (Đồng Dương giữ ký hiệu nhỏ, thánh địa nền đỏ). */
+.relation-card>summary::before{display:none}
+.atlas-intro-link{margin:8px 0 12px}
+.atlas-intro-link a{min-height:40px}
+.project-intro{margin:12px 0;padding:0;background:var(--accent-50);border:1px solid #ecd2c1;border-radius:var(--r-md);font-size:13px;line-height:1.6}
+.project-intro>summary{display:flex;align-items:center;min-height:40px;padding:0 12px;font-weight:650;color:var(--accent-700)}
+.project-intro>p,.project-intro>a{margin:0 14px 10px}
+.project-intro a{display:inline-flex;align-items:center;min-height:36px;font-weight:650;color:var(--accent-700)}
+.sw.coord-only{width:18px;height:18px;margin:0 3px;flex-basis:var(--ic-md);background:#fff;border:2px solid #52645b}
+.sw.coord-only.minh_hoa,.sw.coord-only.ung_vien{border-style:dashed}
+.sw.coord-only.do_dac{border:3px double #52645b}
+.sw.coord-only.kmz_tac_gia{border-color:#12a87c}
+.sw.coord-only.tham_chieu,.sw.coord-only.tac_gia_cung_cap{border-color:#086ab8}
+.sw.coord-only.gps_thuc_dia{border-color:#b9441a}
+.sw.ung_vien_duy_nhat{background:#fff;border:2px solid #2f655a}
+.sw.nhieu_ung_vien_can_chon{background:#fff;border:2px dashed #a4641c}
+.sw.mot_diem_cho_nhieu_dong{background:#ddd5f0;border:2px solid #5b4a8a}
+.sw.cho_giai_quyet_V-001{background:#f6dede;border:2px solid #9a2a2a}
+.sw.nhap{background:var(--rust-bg);border:2px solid #fff;box-shadow:0 0 0 1px var(--rust-bg)}
+.symbol-di_tich{--symbol-fill:#E21D2D;--symbol-text:#fff;--symbol-edge:#9F101B}
+.symbol-thanh{--symbol-fill:#b65b2a;--symbol-text:#fff;--symbol-edge:#803c1d}
+.atlas-marker.site-tra-kieu{--symbol-fill:#c62828;--symbol-text:#fff;--symbol-edge:#941e25}
+.symbol-bao_tang{--symbol-fill:#086bc1;--symbol-text:#fff;--symbol-edge:#064c8b}
+.symbol-phe_tich{--symbol-fill:#B4238A;--symbol-text:#fff;--symbol-edge:#74145A}
+.symbol-nui_thieng{--symbol-fill:#b34b32;--symbol-text:#fff;--symbol-edge:#853723}
+.symbol-song_thieng{--symbol-fill:#74c9e8;--symbol-text:#16445b;--symbol-edge:#216784}
+.symbol-mixed{--symbol-fill:#fff;--symbol-text:#36453c;--symbol-edge:#63756b}
+.atlas-marker.important-ruin{--symbol-fill:#b11f2e;--symbol-text:#fff;--symbol-edge:#891522}
+.atlas-marker svg[data-map-symbol]{--mk-scale:1}
+.symbol-phe_tich:not(.important-ruin) .marker-number{text-shadow:none}
+/* Neutral double keyline: 2.5px white separator and 1px dark outer edge. */
+.atlas-marker .symbol-outer{fill:none;stroke:#171717;stroke-width:8.6;stroke-linejoin:round}
+.atlas-marker .symbol-halo,.atlas-marker.selected .symbol-halo,.leaflet-marker-icon.atlas-marker:hover .symbol-halo{stroke:#fff;stroke-width:6.6}
+.atlas-marker .symbol-outer>*,.atlas-marker .symbol-halo>*{vector-effect:non-scaling-stroke}
+.num.atlas-marker .symbol-outer{stroke-width:6.4}
+.num.atlas-marker .symbol-halo{stroke-width:4.8}
+.legend .atlas-marker .symbol-outer,.symbol-key-grid .atlas-marker .symbol-outer{stroke-width:4.4}
+.legend .atlas-marker .symbol-halo,.symbol-key-grid .atlas-marker .symbol-halo{stroke-width:3.2}
+.mk.sec .symbol-outer,.rp .symbol-outer{stroke-width:3}
+.mk.sec .symbol-halo,.rp .symbol-halo{stroke-width:2}
+/* Tiêu đề Việt có dấu chồng: dùng sans để glyph đồng nhất */
+.dbody[data-place="dong-duong"] h2,.dbody[data-place="dong-duong"] h3{font-family:var(--font-sans);letter-spacing:normal;word-spacing:normal;font-kerning:normal;line-height:1.3;text-align:left}
+/* ---------- Quan hệ và biến đổi ---------- */
+.relation-entry{display:flex;align-items:center;justify-content:center;width:100%;min-height:40px;margin:4px 0 12px;padding:0 12px;background:#174c65;color:#fff;border:1px solid #174c65;border-radius:var(--r-md);font-weight:650;box-shadow:var(--sh-1)}
+.relation-entry:hover{background:#123d52}
+.relations-panel{padding:0 12px 12px;margin:14px 0;border:1px solid #b7cdd6;border-radius:var(--r-md);background:#f4f9fb;font-size:13px;line-height:1.6;scroll-margin-top:16px}
+.relations-panel>summary{display:flex;align-items:center;min-height:44px;font-size:14px;font-weight:650;color:#174c65}
+.relation-filters{display:grid;gap:9px}
+.relation-filters label{display:grid;gap:4px;font-weight:600;font-size:12.5px;color:var(--ink-2)}
+.relation-filters input,.relation-filters select{width:100%;max-width:100%;height:38px;margin:0;border:1px solid #c2d3da;border-radius:var(--r-sm);padding:0 10px;font:inherit;font-weight:400;background-color:#fff;color:#193d49}
+.relation-filters input[type=search]{padding-left:34px}
+.relation-filters .check{display:flex;align-items:center;font-weight:450}
+.relation-filters .check input{width:16px;height:16px}
+.relation-years{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+.relation-card{padding:10px 12px;margin:10px 0;border:1px solid #cfdde3;border-radius:var(--r-sm);background:#fff}
+.relation-card summary{font-weight:650}
+.relation-card summary small{display:block;color:#526871;font-weight:450;font-size:12px;margin-top:4px}
+.relation-card p{margin:9px 0}
+.relation-card.active{border-color:#b4692b;box-shadow:0 0 0 2px #b4692b33}
+.relation-card a{overflow-wrap:anywhere}
+.relation-status{display:inline-block;margin-top:9px;padding:2px 8px;background:#dceff5;color:#174c65;border-radius:var(--r-pill);font-size:11px}
+.relation-status.needs-source{background:#f4e5ef;color:#75415e}
+.relation-actions{display:flex;flex-wrap:wrap;gap:6px}
+.relation-actions button{font:600 12px var(--font-sans);height:34px;padding:0 12px;border:1px solid #9fbccb;border-radius:var(--r-sm);background:#fff;color:#19475c}
+.relation-actions button:hover{background:#eaf4f8}
+.relation-map-key span{font-size:18px;color:#156a8a;vertical-align:-2px}
+.relation-map-key .candidate-key{color:#8b6377}
+
+/* Preserve v39: full title and equal-height cards on compact screens. */
+@media(max-width:600px){.brand b{white-space:normal;overflow:visible;text-overflow:clip;line-height:1.2}#plist{align-items:stretch}#plist .card{height:auto;min-height:88px}#plist .card b{white-space:normal;overflow:visible;text-overflow:clip}#plist .card small{display:block;-webkit-line-clamp:unset;overflow:visible}}
+
+/* Mỹ Sơn: bản vẽ theo nhóm */
+.myson-drawing-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,250px),1fr));gap:20px;align-items:start}.myson-drawing-grid figure{margin:0;border:1px solid #d9d3c7;background:#fff;padding:12px;border-radius:8px}.myson-drawing-grid img{display:block;width:100%;height:280px;object-fit:contain;background:#f4f2ed}.myson-drawing-grid figcaption{font-size:13px;line-height:1.6;margin-top:12px;overflow-wrap:anywhere}.myson-group summary{font-weight:700}.myson-drawing-link{margin:20px 0;font-weight:700}@media(max-width:600px){.myson-drawing-grid{grid-template-columns:1fr}.myson-drawing-grid img{height:auto;max-height:430px}}
+
+/* Northern Champa articles share the atlas typography and navigation. */
+.north-profile{margin:22px 0;padding-top:14px;border-top:1px solid #d6ded7}.north-profile h3{font-size:1.12rem;line-height:1.5}.north-lead{font-size:1.08rem;line-height:1.75}.north-section{margin:24px 0;scroll-margin-top:24px}.north-section p{line-height:1.8}.north-toc{display:grid;gap:7px;padding:15px;background:#f4f2e9;border-radius:10px;font-size:.9rem}.north-references{padding-left:24px}.north-references li{scroll-margin-top:25px;overflow-wrap:anywhere;margin-bottom:18px}.north-profile details section{margin:16px 0}.north-profile .grid2 dd{overflow-wrap:anywhere}
+/* Văn khắc: dropdown nguồn công bố trực tiếp, dùng được bằng bàn phím. */
+.topic-dropdown{display:inline-block;margin:0;vertical-align:top}
+.topic-dropdown>summary{cursor:pointer;list-style:none;display:inline-flex;align-items:center;gap:7px}
+.topic-dropdown>summary::-webkit-details-marker{display:none}
+.topic-dropdown>summary::after{content:"▾";font-size:11px}
+.topic-dropdown[open]{flex-basis:100%;width:100%}
+.topic-dropdown[open]>summary::after{content:"▴"}
+.inscription-source-menu{margin:8px 0 4px;padding:6px;background:#fff;border:1px solid #d6dce4;border-radius:10px;max-height:320px;overflow:auto}
+.inscription-source-row{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:10px;border-radius:6px;font-size:13px;text-decoration:none;color:#234d79}
+.inscription-source-row:hover,.inscription-source-row:focus-visible{background:#edf4fc}
+.inscription-source-row>span{font-size:12px}
+span.inscription-source-row{color:#737b84}
+.inscription-source-menu>.topic-link{margin:6px 4px}
+.inscription-source-menu>p{padding:4px 10px;font-size:13px}
+
+/* Lớp Bắc Champa: giữ hình và màu theo loại, vùng chạm 40px. */
+.north-map-controls{padding:12px;margin:12px 0;border:1px solid #b9ce96;border-radius:10px;background:#f2f7e9}.north-map-controls .check{display:flex;align-items:center;gap:8px;font-weight:650}.north-map-controls .btn{margin-top:8px;white-space:normal;height:auto;min-height:40px}.north-map-controls p{margin:8px 0 0;line-height:1.6}.leaflet-marker-icon.north-marker{--mk:32px;--num:14px;display:grid;place-items:center;width:40px;height:40px}.north-cluster{border-color:#708f43;background:#f3f9df;color:#294c25}.north-location{margin:12px 0;padding:12px;border:1px solid #cdd8c4;border-radius:8px;background:#f6f9f1}.north-location h3{margin:0 0 8px}.north-location p{line-height:1.7;overflow-wrap:anywhere}.north-location .btn{margin:4px 2px}.north-location details{font-size:12px;line-height:1.6}
+
+/* Separate visiting and research workspaces; language is independent of mode. */
+.workspace-label{display:inline-block;margin-top:10px;padding:4px 9px;border-radius:5px;background:#dcece4;color:#16533e;font-size:11px;font-weight:800;letter-spacing:.12em}
+body.research .workspace-label{background:#e0e9f6;color:#234d80}
+body.research #modeResearch[aria-pressed=true]{background:#234d80}
+body.research aside{border-top:4px solid #234d80}
+body:not(.research) aside{border-top:4px solid #317359}
+.language button{padding:0 10px;min-width:40px}
+.english-overview{padding:18px;background:var(--brand-50);border-radius:12px;margin:14px 0}
+.original-dossier{margin-top:16px;border-top:1px solid var(--line);padding-top:14px}
+.original-dossier>summary{font-weight:700;padding:8px 0}
+header .head-right{flex-wrap:wrap;justify-content:flex-end}
+@media(max-width:900px){header .pill{display:none}}
+@media(max-width:600px){:root{--header:112px}header{height:var(--header);display:flex;flex-wrap:wrap;padding:8px 12px;gap:4px}header .brand{width:100%}header .brand b{font-size:18px}header .brand small{font-size:9px}header .head-right{width:100%;justify-content:space-between;gap:6px}header .mode button{height:32px;padding:0 12px}header .language button{min-width:42px}body.research aside,body:not(.research) aside{border-top-width:3px}.english-overview{padding:12px}}
+
+/* Project-owned geographic labels over imagery; no drawn maritime boundaries. */
+.geographic-label{border:0;background:none;pointer-events:none!important;text-align:center;line-height:1.25;color:#fff;font-family:var(--font-sans);font-size:16px;font-weight:750;text-shadow:0 1px 3px #071a28,0 0 5px #071a28,1px 0 2px #071a28,-1px 0 2px #071a28}
+.geographic-label>div{position:absolute;top:50%;width:100%;transform:translateY(-50%)}
+.geographic-label small{display:block;font-size:13px;font-weight:650;margin-top:3px}
+.geographic-sea{font-size:9px;letter-spacing:.08em;color:#d4efff;font-style:italic;font-weight:650}
+.geographic-country{font-size:20px;letter-spacing:.12em}
+.geographic-labels-small .geographic-label{font-size:12px}
+.geographic-labels-small .geographic-label small{font-size:11px}
+.geographic-labels-small .geographic-sea{font-size:6.5px}
+@media(max-width:600px){.geographic-label{font-size:13px}.geographic-label small{font-size:11px}.geographic-sea{font-size:7px}}
+/* Half-size archipelago and country labels at every viewport and map zoom. */
+.geographic-archipelago>div,.geographic-country>div{transform:translateY(-50%) scale(.5);transform-origin:center center}
+
+/* Independent thematic layers, with visible multi-select state. */
+.map-layers{margin:12px 0;border:1px solid var(--line);border-radius:var(--r-md);background:var(--surface)}
+.map-layers>summary{min-height:40px;padding:10px 12px;font-weight:650;cursor:pointer}
+.layer-actions{display:flex;gap:8px;padding:0 12px 8px;flex-wrap:wrap}
+.layer-grid{display:grid;grid-template-columns:1fr 1fr;gap:4px 8px;padding:0 12px}
+.layer-check{display:flex;align-items:center;gap:6px;min-height:40px;cursor:pointer;font-size:13px}
+.layer-check input{accent-color:#99452d;width:17px;height:17px;flex:none}
+.layer-check small{margin-left:auto;color:var(--muted);font-variant-numeric:tabular-nums}
+.layer-note{padding:0 12px;margin:7px 0 10px;font-size:11.5px}
+.symbol-sa_huynh{--symbol-fill:#955600;--symbol-text:#fff;--symbol-edge:#673b00}
+.symbol-canh_quan{--symbol-fill:#39677b;--symbol-text:#fff;--symbol-edge:#26495a}
+.symbol-gieng{--symbol-fill:#87CEFA;--symbol-text:#163b51;--symbol-edge:#fff}
+.symbol-bia_ky{--symbol-fill:#006c68;--symbol-text:#fff;--symbol-edge:#003f3d}
+.leaflet-marker-icon.atlas-marker.landscape-marker{opacity:.76}
+.leaflet-marker-icon.landscape-marker:is(:hover,:focus-visible,.selected){opacity:1}
+@media(max-width:600px){.layer-check{min-height:44px}.map-layers>summary{min-height:44px}}
+
+.north-report-images figure{margin:16px 0;max-width:100%;min-width:0}.north-report-images img{display:block;width:100%;height:auto;max-height:320px;object-fit:contain;background:white;border:1px solid #d8e1d5;border-radius:8px}.north-report-images figcaption{font-size:.86rem;line-height:1.65;margin-top:8px;overflow-wrap:anywhere}.north-report-images figcaption .acc{display:block}
+
+/* Global content search, available in both viewing modes. */
+.atlas-search-trigger{white-space:nowrap;min-height:36px}.atlas-search-trigger>span{font-size:22px;line-height:1;vertical-align:middle;margin-right:4px}
+.content-search-dialog{box-sizing:border-box;width:min(720px,calc(100% - 24px));max-height:85dvh;border:1px solid #d5c7b5;border-radius:14px;padding:22px;color:#302a24;background:#fffdf8;box-shadow:0 20px 80px #0004}
+.content-search-dialog::backdrop{background:#19202899}.content-search-heading{display:flex;align-items:center;justify-content:space-between;gap:12px}.content-search-heading h2{font-size:21px;margin:0 0 16px}.content-search-heading button{align-self:flex-start;font-size:24px;min-width:40px;min-height:40px}
+.content-search-field{display:flex;gap:8px}.content-search-field input{min-width:0;flex:1;width:100%;padding:12px;border:1px solid #b7a995;border-radius:8px;font:inherit}.content-search-field .btn{min-width:64px}
+.content-search-modes{display:inline-flex;margin:0 0 14px;padding:3px;border:1px solid #c8d4df;border-radius:10px;background:#edf2f6}.content-search-modes button{min-height:34px;padding:5px 14px;border:0;border-radius:7px;background:transparent;color:#405365;font:inherit;font-size:13px;font-weight:700;cursor:pointer}.content-search-modes button[aria-pressed=true]{background:#fff;color:#234d80;box-shadow:0 1px 5px #24415d22}.content-search-modes span{color:#8b5b17}.ai-match-reason{width:max-content;max-width:100%;padding:3px 7px;border-radius:5px;background:#edf4fc;color:#234d80!important;font-weight:700}
+.content-search-results{display:grid;gap:8px}.content-search-result{display:grid;gap:5px;text-align:left;width:100%;padding:14px;border:1px solid #e2d8cb;border-radius:8px;background:#fff;color:inherit;font:inherit;cursor:pointer}.content-search-result:hover{background:#faf2e7;border-color:#a95736}.content-search-result:focus-visible{outline:3px solid #a95736;outline-offset:2px}.content-search-result b{font-size:17px;color:#8c3d27}.content-search-result small{color:#706352}.content-search-result span{font-size:14px;line-height:1.5}
+@media(max-width:600px){.atlas-search-trigger{font-size:13px;min-height:32px;padding:4px 9px}.content-search-dialog{padding:16px}.content-search-heading h2{font-size:18px}}
+
+/* Versioned exchange layer: independent from the editorial source model. */
+.open-data-panel{margin:16px 0;border:1px solid #b8c9d8;border-radius:10px;background:#f3f7fb}.open-data-panel>summary{cursor:pointer;padding:12px 14px;font-weight:750;color:#234d80}.open-data-panel>p{padding:0 14px;font-size:13px;line-height:1.65}.open-data-links{display:grid;grid-template-columns:1fr 1fr;gap:8px;padding:0 14px 14px}.open-data-links a{display:flex;align-items:center;min-height:40px;padding:8px 10px;border:1px solid #c9d6e1;border-radius:7px;background:#fff;text-decoration:none;font-size:13px;font-weight:650}.open-data-links a:hover{border-color:#234d80;background:#edf4fc}.exchange-status-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px}.exchange-status-grid>div{padding:12px;border:1px solid #d6dfe6;border-radius:8px;background:#f7fafc}.exchange-status-grid b{display:block;margin:5px 0;color:#254f6e}.exchange-status-grid p{margin:5px 0 0;font-size:13px;line-height:1.55}.exchange-label{font-size:11px;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:#66798a}.exchange-links{font-size:13px}.spatial-conservation{border-left:4px solid #507b9e}@media(max-width:600px){.open-data-links,.exchange-status-grid{grid-template-columns:1fr}}
+
+
+.profile-inscriptions .inscription-card {
+  margin: 0;
+  padding: .8rem 0;
+  border-top: 1px solid var(--line, #d6d9d8);
+}
+.profile-inscriptions .inscription-card h3 { margin: 0 0 .3rem; }
+.inscription-reading > p { margin: .35rem 0; }
+.inscription-references { margin-top: .45rem; font-size: .9em; }
+.inscription-references ul { margin: .2rem 0 .3rem; padding-inline-start: 1.25rem; }

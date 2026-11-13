@@ -1,0 +1,34 @@
+{
+  "northern_articles": 37,
+  "northern_article_version": "0.3.1",
+  "version": "1.1.0",
+  "date": "2026-11-04",
+  "source_rows": 148,
+  "northern_rows": 37,
+  "with_thesis_table_candidate": 34,
+  "not_located_in_selected_table": 3,
+  "awaiting_scholarly_crosscheck": 111,
+  "eclevi_index_leads": 16,
+  "profiles": 453,
+  "by_province": {
+    "Thừa Thiên Huế": 12,
+    "Quảng Nam": 28,
+    "Bình Định": 24,
+    "Phú Yên": 9,
+    "Khánh Hòa": 7,
+    "Ninh Thuận": 13,
+    "Bình Thuận": 13,
+    "Đắk Lắk": 1,
+    "Quảng Bình": 3,
+    "Quảng Trị": 22,
+    "Đà Nẵng": 6,
+    "Quảng Ngãi": 10
+  },
+  "limits": [
+    "148 là số dòng danh mục sách, không phải số công trình học thuật hoặc số di tích đã xác minh.",
+    "34 liên kết bảng luận án là ứng viên đối chiếu; 3 dòng chưa nối được ở bảng đã đọc.",
+    "Các niên đại và hiện trạng của luận án là nhận định theo nguồn và thời điểm khảo sát, không phải đánh giá hiện trạng năm 2026.",
+    "BAVH và BEFEO là hai tạp chí khác nhau; cần kiểm từng số, bài và ấn bản.",
+    "Không công bố bản PDF sách/luận án từ kho riêng trong gói dữ liệu công khai."
+  ]
+}

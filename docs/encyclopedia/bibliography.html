@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data: blob: https://services.arcgisonline.com; font-src 'self' data:; connect-src 'self'; object-src 'none'; base-uri 'none'; form-action 'none'; frame-src 'none'; worker-src 'none'; manifest-src 'self'; upgrade-insecure-requests">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Thư mục học thuật · Bách Khoa</title><link rel="stylesheet" href="../navigation-back.css"><script src="../navigation-back.js" defer data-return-fallback="./"></script>
+  <link rel="stylesheet" href="knowledge.css">
+  <script src="records.js" defer></script>
+  <script src="bibliography-data.js" defer></script>
+  <script src="bibliography.js" defer></script>
+</head>
+<body>
+  <header><a class="brand" href="./"><img src="../assets/branding/identity-v1/logos/mark-do-gach.svg" alt=""><span>CHAMPA HERITAGE ATLAS<br><b>Bách Khoa</b></span></a><a href="./">Tra cứu Bách khoa</a></header>
+  <main>
+    <p class="eyebrow">THƯ MỤC · NGUỒN · ĐỐI CHIẾU</p>
+    <h1>Thư mục học thuật liên thông</h1>
+    <p class="intro">Tra cứu ấn bản văn khắc, báo cáo khai quật, chuyên khảo và catalogue về Champa, Sa Huỳnh, giai đoạn chuyển tiếp và các nhóm tư liệu đối sánh.</p>
+    <div class="stats" id="bib-stats"></div>
+    <aside id="bib-notice" class="notice">Mức tiếp cận ghi loại tài liệu đã định vị. Để dẫn chứng, kiểm đúng ấn bản và định vị trang, hình, lớp khai quật hoặc dòng văn khắc.</aside>
+    <div id="bib-detail"></div>
+    <section class="searchbox" id="bib-search" aria-label="Tìm thư mục">
+      <div class="bib-search">
+        <label>Tìm nhan đề, tác giả hoặc mã<input id="bib-q" type="search" placeholder="Lai Nghi, Parmentier, C.213, CB-034…"></label>
+        <label>Nhóm thư mục<select id="bib-collection"><option value="">Tất cả</option><option value="champa">Champa</option><option value="sa-huynh">Sa Huỳnh</option><option value="sa-huynh-champa">Sa Huỳnh – Champa / đối sánh</option><option value="oe-fc">Óc Eo – Phù Nam – Chân Lạp</option><option value="gieng-cham">Giếng Chăm</option></select></label>
+        <label>Lĩnh vực<select id="bib-domain"><option value="">Tất cả</option></select></label>
+      </div>
+      <div class="filters">
+        <label>Đối chiếu và tiếp cận<select id="bib-status">
+          <option value="">Tất cả</option>
+          <optgroup label="Đối chiếu Bách khoa">
+            <option value="EXACT_CITATION_PRESENT">Có mục tham khảo tương ứng</option>
+            <option value="RELATED_EDITION_ONLY">Có ấn bản liên quan</option>
+            <option value="UNMATCHED_REFERENCE">Chưa xác nhận mục tương ứng</option>
+          </optgroup>
+          <optgroup label="Mức tiếp cận nguồn Óc Eo – Phù Nam – Chân Lạp">
+            <option>Bản đọc hoặc hồ sơ số</option>
+            <option>Tóm tắt hoặc biểu ghi</option>
+            <option>Dẫn chiếu cần đối bản</option>
+          </optgroup>
+        </select></label>
+        <label>Mức rà tài liệu<select id="bib-review"><option value="">Tất cả</option></select></label>
+      </div>
+      <p class="source-note"><a href="bibliography.json" download>Tải dữ liệu thư mục JSON</a></p>
+    </section>
+    <section id="bib-topics" hidden>
+      <details class="panel"><summary>Hướng dẫn nguồn theo mục từ</summary><div id="bib-topic-results" class="results"></div></details>
+    </section>
+    <p id="bib-count" role="status" aria-live="polite"></p>
+    <div id="bib-results" class="results"></div>
+    <noscript>Bật JavaScript để tìm kiếm. <a href="bibliography.json">Tải danh mục JSON</a>.</noscript>
+  </main>
+  <footer><a href="../phuong-phap.html">Phương pháp và trích dẫn</a></footer>
+</body>
+</html>

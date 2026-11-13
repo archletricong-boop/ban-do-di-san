@@ -1,0 +1,48 @@
+:root {
+  color-scheme: light;
+  --paper: #fbf6ed;
+  --ink: #29241e;
+  --brick: #8f3f2b;
+  --rule: #e0d3c1;
+  background: var(--paper);
+  color: var(--ink);
+  font: 17px/1.7 system-ui, sans-serif;
+}
+* { box-sizing: border-box; }
+body { margin: 0; }
+a { color: var(--brick); text-underline-offset: .18em; }
+a:focus-visible { outline: 2px solid var(--brick); outline-offset: 3px; }
+.site-bar, footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: .5rem 1.25rem;
+  padding: .7rem max(1rem, calc((100% - 56rem) / 2));
+  background: #f3e8d9;
+  font-size: .85rem;
+}
+.site-bar a:first-child { display: flex; align-items: center; gap: .6rem; font-weight: 700; }
+.site-bar .back { white-space: nowrap; }
+main { max-width: 58rem; padding: 0 1rem 2.5rem; margin-inline: auto; }
+.hero { padding-top: clamp(1.6rem, 5vw, 3.5rem); }
+.kicker { margin: 0 0 .3rem; color: var(--brick); text-transform: uppercase; letter-spacing: .12em; font-weight: 700; font-size: .76rem; }
+h1, h2 { font-family: Georgia, serif; line-height: 1.2; }
+h1 { margin: 0; font-size: clamp(2.25rem, 7vw, 4.45rem); }
+h2 { margin: 0 0 .75rem; font-size: clamp(1.45rem, 3vw, 2rem); }
+.lead { max-width: 45rem; font-size: clamp(1.08rem, 2.1vw, 1.25rem); }
+figure { margin: 1.4rem 0 0; }
+figure img { display: block; width: 100%; height: clamp(12rem, 38vw, 23rem); object-fit: cover; object-position: center 57%; border-radius: .45rem; }
+figcaption { margin-top: .25rem; color: #5b5147; font-size: .8rem; }
+.contents { display: flex; flex-wrap: wrap; gap: .3rem 1.15rem; padding: .65rem 0; margin: 1.3rem 0; border-block: 1px solid var(--rule); }
+.contents a { font-size: .88rem; font-weight: 650; }
+section { max-width: 45rem; margin: 2rem 0 0; scroll-margin-top: 1rem; }
+section p { margin: .55rem 0 1rem; }
+.ref { font-size: .75em; white-space: nowrap; }
+.explore { max-width: none; padding: 1rem; border: 1px solid var(--rule); background: #f6edde; border-radius: .45rem; }
+.explore ul { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 19rem), 1fr)); gap: .35rem 1.75rem; padding-left: 1.2rem; }
+.explore p:last-child { margin-bottom: 0; }
+.sources { font-size: .88rem; }
+.sources ol { padding-left: 1.35rem; }
+.sources li { margin-bottom: .65rem; }
+.sources li:target { background: #f3e8d9; }

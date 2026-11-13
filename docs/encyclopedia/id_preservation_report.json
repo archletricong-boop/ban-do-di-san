@@ -1,0 +1,42 @@
+{
+  "date": "2026-11-12",
+  "baseline_counts": {
+    "entities": 168,
+    "statements": 57,
+    "relations": 366,
+    "media": 30
+  },
+  "current_counts": {
+    "entities": 1607,
+    "statements": 163,
+    "relations": 3314,
+    "media": 160
+  },
+  "missing_ids": {
+    "entities": [],
+    "statements": [],
+    "relations": [],
+    "media": []
+  },
+  "retired_ids": {
+    "relations": [
+      "CHP-RELATION-07a6e07e0dfa5679",
+      "CHP-RELATION-d881e16c3c0a53e1",
+      "CHP-RELATION-7e879a42dd725b94",
+      "CHP-RELATION-519316f932155c99",
+      "CHP-RELATION-ef1b6e7a32b35f06",
+      "CHP-RELATION-70751b58c8ff5b6c",
+      "CHP-RELATION-01c849c4e81a5661",
+      "CHP-RELATION-ba1d051e9b64596d",
+      "CHP-RELATION-03d83df30dd85993",
+      "CHP-RELATION-231fc0518d3c5198",
+      "CHP-RELATION-a937b43dd93b51a2",
+      "CHP-RELATION-1c9f69ebe7d25b3c"
+    ],
+    "media": [
+      "CHP-MEDIA-0cf83827e6975201",
+      "CHP-MEDIA-34b041552bf45393"
+    ]
+  },
+  "replacement_policy": "No equivalent record: replaced_by=[] with explicit retirement reason; do not equate historic and modern plans."
+}

@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0.0",
+  "data_version": "2026.11.10",
+  "released_at": "2026-11-10",
+  "dataset_id": "champa",
+  "title": "Bản đồ Di sản Sa Huỳnh–Champa · Óc Eo–Phù Nam · Cát Tiên",
+  "site_url": "https://ban-do-di-san-champa.arch-letricong.chatgpt.site",
+  "license": {
+    "metadata": "CC BY 4.0",
+    "media": "Theo quyền ghi tại từng tài nguyên"
+  },
+  "geometry_policy": "Chỉ Polygon/MultiPolygon có nguồn và trạng thái kiểm chứng mới được coi là đường bao; Point chỉ là điểm đại diện hoặc mốc đối chiếu.",
+  "conservation_policy": "Không suy diễn tình trạng hay rủi ro từ văn bản tự do; chưa có đánh giá cấu trúc được ghi là not_assessed/unknown.",
+  "counts": {
+    "places": 453,
+    "names": 730,
+    "locations": 340,
+    "geometries": 340,
+    "boundaries": 0,
+    "conservation_assessments": 453,
+    "connections": 1813,
+    "sources": 799,
+    "objects": 253,
+    "inscriptions": 67
+  },
+  "files": {
+    "heritage-atlas.json": {
+      "sha256": "0da3628df89b4a225bd3cf2ec9a3db8c72ea0953029a46d5ee5fdd03bab7b9e5",
+      "bytes": 4358494
+    },
+    "places.geojson": {
+      "sha256": "1909b06f0a92985e4904c266bc181ca14655a268553aa8af3b6b8a9c83b6b1b1",
+      "bytes": 253396
+    },
+    "places.csv": {
+      "sha256": "0bc530c489a6d2e2e67cf9d80adbc19436179aa79f336c713b1e72c649dc64b7",
+      "bytes": 174365
+    },
+    "conservation.csv": {
+      "sha256": "60e2bd3170d3d9b5c3d24fd8bff2009ec4b2a2935344da442680ecce444b7143",
+      "bytes": 78913
+    }
+  }
+}

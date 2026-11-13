@@ -1,0 +1,444 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:champa:encyclopedia:schema:1.0.4",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "dataset_version",
+    "title",
+    "updated_at",
+    "language",
+    "scope_note",
+    "entities",
+    "relations",
+    "media",
+    "spatial_records",
+    "statements"
+  ],
+  "properties": {
+    "schema_version": {
+      "type": "string"
+    },
+    "dataset_version": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "updated_at": {
+      "type": "string"
+    },
+    "language": {
+      "type": "string"
+    },
+    "scope_note": {
+      "type": "string"
+    },
+    "entities": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "type",
+          "title",
+          "aliases",
+          "identifiers",
+          "editorial_status",
+          "evidence_status",
+          "updated_at",
+          "data"
+        ],
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "type": {
+            "enum": [
+              "place",
+              "structure",
+              "object",
+              "inscription",
+              "reference",
+              "institution",
+              "topic"
+            ]
+          },
+          "title": {
+            "type": "string"
+          },
+          "aliases": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "identifiers": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": [
+                "scheme",
+                "value"
+              ],
+              "properties": {
+                "scheme": {
+                  "type": "string"
+                },
+                "value": {
+                  "type": "string"
+                }
+              },
+              "additionalProperties": false
+            }
+          },
+          "editorial_status": {
+            "enum": [
+              "draft",
+              "imported_needs_review",
+              "reviewed",
+              "published",
+              "retired"
+            ]
+          },
+          "evidence_status": {
+            "enum": [
+              "retained_from_source"
+            ]
+          },
+          "updated_at": {
+            "type": "string"
+          },
+          "data": {
+            "type": "object"
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "relations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "type",
+          "source",
+          "target",
+          "reference_ids",
+          "status",
+          "basis",
+          "note"
+        ],
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "source": {
+            "type": "string"
+          },
+          "target": {
+            "type": "string"
+          },
+          "status": {
+            "type": "string"
+          },
+          "basis": {
+            "type": "string"
+          },
+          "note": {
+            "type": "string"
+          },
+          "type": {
+            "enum": [
+              "cites",
+              "documents",
+              "associated_with_place",
+              "part_of",
+              "held_by",
+              "exhibited_at",
+              "illustrated_by",
+              "numbered_reference"
+            ]
+          },
+          "reference_ids": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "replaced_by": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "retired_at": {
+            "type": "string"
+          },
+          "retirement_reason": {
+            "type": "string"
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "media": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "title",
+          "path",
+          "sha256",
+          "credit",
+          "rights_status",
+          "original_filename",
+          "source_record"
+        ],
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "title": {
+            "type": "string"
+          },
+          "path": {
+            "type": "string"
+          },
+          "credit": {
+            "type": "string"
+          },
+          "sha256": {
+            "type": "string",
+            "pattern": "^[0-9a-f]{64}$"
+          },
+          "rights_status": {
+            "enum": [
+              "not_assessed",
+              "permission_recorded",
+              "public_domain_verified",
+              "licensed",
+              "public_domain_original",
+              "review_required",
+              "permission_pending"
+            ]
+          },
+          "original_filename": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "source_record": {
+            "type": "object"
+          },
+          "status": {
+            "enum": [
+              "active",
+              "retired"
+            ]
+          },
+          "rights_record": {
+            "type": "object"
+          },
+          "replaced_by": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "retired_at": {
+            "type": "string"
+          },
+          "retirement_reason": {
+            "type": "string"
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "spatial_records": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "entity_id",
+          "crs",
+          "latitude",
+          "longitude",
+          "role",
+          "primary",
+          "verification_status",
+          "accuracy_m",
+          "reference_ids",
+          "navigation_approved",
+          "source_record"
+        ],
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "entity_id": {
+            "type": "string"
+          },
+          "role": {
+            "type": "string"
+          },
+          "crs": {
+            "enum": [
+              "EPSG:4326"
+            ]
+          },
+          "latitude": {
+            "type": "number",
+            "minimum": -90,
+            "maximum": 90
+          },
+          "longitude": {
+            "type": "number",
+            "minimum": -180,
+            "maximum": 180
+          },
+          "primary": {
+            "type": "boolean"
+          },
+          "verification_status": {
+            "enum": [
+              "chua_dinh_vi",
+              "do_dac",
+              "gps_thuc_dia",
+              "kmz_tac_gia",
+              "minh_hoa",
+              "tac_gia_cung_cap",
+              "tham_chieu",
+              "tu_tai_lieu",
+              "ung_vien"
+            ]
+          },
+          "accuracy_m": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "reference_ids": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "navigation_approved": {
+            "type": "boolean"
+          },
+          "source_record": {
+            "type": "object"
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "statements": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "entity_id",
+          "text",
+          "epistemic_layer",
+          "support_status",
+          "reference_ids",
+          "source_locators",
+          "review_note",
+          "legacy_id"
+        ],
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "entity_id": {
+            "type": "string"
+          },
+          "text": {
+            "type": "string"
+          },
+          "review_note": {
+            "type": "string"
+          },
+          "legacy_id": {
+            "type": "string"
+          },
+          "support_status": {
+            "enum": [
+              "SUPPORTED_WITHIN_SCOPE",
+              "PARTIALLY_SUPPORTED",
+              "UNRESOLVED",
+              "CONTRADICTED_WITHIN_SCOPE",
+              "UNASSESSED"
+            ]
+          },
+          "epistemic_layer": {
+            "enum": [
+              "data",
+              "analysis",
+              "inference",
+              "hypothesis",
+              "unclassified"
+            ]
+          },
+          "reference_ids": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "source_locators": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": [
+                "reference_id",
+                "locator"
+              ],
+              "properties": {
+                "reference_id": {
+                  "type": "string"
+                },
+                "locator": {
+                  "type": "string"
+                }
+              },
+              "additionalProperties": false
+            }
+          }
+        },
+        "additionalProperties": false,
+        "allOf": [
+          {
+            "if": {
+              "properties": {
+                "support_status": {
+                  "pattern": "^(SUPPORTED|PARTIALLY)"
+                }
+              },
+              "required": [
+                "support_status"
+              ]
+            },
+            "then": {
+              "properties": {
+                "reference_ids": {
+                  "minItems": 1
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "additionalProperties": false
+}

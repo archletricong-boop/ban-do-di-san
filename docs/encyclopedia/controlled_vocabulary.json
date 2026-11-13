@@ -1,0 +1,90 @@
+{
+  "entity_types": {
+    "place": "Địa điểm",
+    "structure": "Kiến trúc",
+    "object": "Hiện vật",
+    "inscription": "Văn khắc",
+    "reference": "Tài liệu tham khảo",
+    "institution": "Cơ quan lưu giữ",
+    "topic": "Chủ đề / Phương pháp"
+  },
+  "planned_entity_types": {
+    "person": "Nhân vật",
+    "event": "Sự kiện"
+  },
+  "relation_types": {
+    "cites": {
+      "inverse": "cited_by",
+      "label": "Dẫn tài liệu"
+    },
+    "documents": {
+      "inverse": "documented_in",
+      "label": "Hồ sơ giới thiệu"
+    },
+    "associated_with_place": {
+      "inverse": "has_associated_record",
+      "label": "Gắn với địa điểm"
+    },
+    "part_of": {
+      "inverse": "has_part",
+      "label": "Thuộc công trình/di tích"
+    },
+    "held_by": {
+      "inverse": "holds",
+      "label": "Lưu giữ tại"
+    },
+    "exhibited_at": {
+      "inverse": "exhibited",
+      "label": "Từng trưng bày tại (xem thời gian)"
+    },
+    "illustrated_by": {
+      "inverse": "illustrates",
+      "label": "Có tư liệu ảnh"
+    },
+    "numbered_reference": {
+      "inverse": "numbered_in",
+      "label": "Mục trích dẫn đánh số"
+    }
+  },
+  "epistemic_layers": [
+    "data",
+    "analysis",
+    "inference",
+    "hypothesis",
+    "unclassified"
+  ],
+  "editorial_statuses": [
+    "draft",
+    "imported_needs_review",
+    "reviewed",
+    "published",
+    "retired"
+  ],
+  "rights_statuses": [
+    "not_assessed",
+    "permission_recorded",
+    "public_domain_verified",
+    "licensed",
+    "public_domain_original",
+    "review_required",
+    "permission_pending"
+  ],
+  "coordinate_statuses": [
+    "chua_dinh_vi",
+    "do_dac",
+    "gps_thuc_dia",
+    "kmz_tac_gia",
+    "minh_hoa",
+    "tac_gia_cung_cap",
+    "tham_chieu",
+    "tu_tai_lieu",
+    "ung_vien"
+  ],
+  "support_statuses": [
+    "SUPPORTED_WITHIN_SCOPE",
+    "PARTIALLY_SUPPORTED",
+    "UNRESOLVED",
+    "CONTRADICTED_WITHIN_SCOPE",
+    "UNASSESSED"
+  ]
+}

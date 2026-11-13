@@ -1,0 +1,220 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ban-do-di-san-champa.arch-letricong.chatgpt.site/schemas/heritage-exchange.schema.json",
+  "title": "Champa Heritage Exchange",
+  "description": "Khung trao đổi độc lập cho hồ sơ, tên gọi, vị trí, hình học, liên kết và bảo tồn.",
+  "type": "object",
+  "required": [
+    "release",
+    "counts",
+    "places",
+    "names",
+    "locations",
+    "geometries",
+    "conservation_assessments",
+    "connections",
+    "sources",
+    "objects",
+    "inscriptions"
+  ],
+  "properties": {
+    "release": {
+      "type": "object",
+      "required": [
+        "schema_version",
+        "data_version",
+        "released_at",
+        "dataset_id"
+      ]
+    },
+    "counts": {
+      "type": "object"
+    },
+    "places": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/place"
+      }
+    },
+    "names": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/namedResource"
+      }
+    },
+    "locations": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/location"
+      }
+    },
+    "geometries": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/geometry"
+      }
+    },
+    "conservation_assessments": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/conservation"
+      }
+    },
+    "connections": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "from_id",
+          "relation",
+          "to_id"
+        ]
+      }
+    },
+    "sources": {
+      "type": "array"
+    },
+    "objects": {
+      "type": "array"
+    },
+    "inscriptions": {
+      "type": "array"
+    }
+  },
+  "$defs": {
+    "resource": {
+      "type": "object",
+      "required": [
+        "id",
+        "uri"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "uri": {
+          "type": "string",
+          "format": "uri"
+        }
+      }
+    },
+    "place": {
+      "allOf": [
+        {
+          "$ref": "#/$defs/resource"
+        },
+        {
+          "type": "object",
+          "required": [
+            "name",
+            "location_ids",
+            "geometry_ids",
+            "conservation_assessment_id"
+          ]
+        }
+      ]
+    },
+    "namedResource": {
+      "allOf": [
+        {
+          "$ref": "#/$defs/resource"
+        },
+        {
+          "type": "object",
+          "required": [
+            "place_id",
+            "value",
+            "status"
+          ]
+        }
+      ]
+    },
+    "location": {
+      "allOf": [
+        {
+          "$ref": "#/$defs/resource"
+        },
+        {
+          "type": "object",
+          "required": [
+            "place_id",
+            "latitude",
+            "longitude",
+            "crs",
+            "geometry_id"
+          ],
+          "properties": {
+            "latitude": {
+              "type": "number",
+              "minimum": -90,
+              "maximum": 90
+            },
+            "longitude": {
+              "type": "number",
+              "minimum": -180,
+              "maximum": 180
+            }
+          }
+        }
+      ]
+    },
+    "geometry": {
+      "allOf": [
+        {
+          "$ref": "#/$defs/resource"
+        },
+        {
+          "type": "object",
+          "required": [
+            "place_id",
+            "geometry",
+            "role",
+            "is_boundary"
+          ],
+          "properties": {
+            "geometry": {
+              "type": "object",
+              "required": [
+                "type",
+                "coordinates"
+              ],
+              "properties": {
+                "type": {
+                  "enum": [
+                    "Point",
+                    "Polygon",
+                    "MultiPolygon"
+                  ]
+                },
+                "coordinates": {
+                  "type": "array"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "conservation": {
+      "allOf": [
+        {
+          "$ref": "#/$defs/resource"
+        },
+        {
+          "type": "object",
+          "required": [
+            "place_id",
+            "assessment_status",
+            "condition",
+            "risk_level",
+            "hazards",
+            "interventions",
+            "source_ids"
+          ]
+        }
+      ]
+    }
+  }
+}

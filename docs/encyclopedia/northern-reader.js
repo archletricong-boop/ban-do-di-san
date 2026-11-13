@@ -1,0 +1,27 @@
+'use strict';
+(()=>{
+ const N=window.CHAMPA_NORTH;if(!N)return;
+ const esc=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+ const safe=v=>{try{const u=new URL(v);return ['http:','https:'].includes(u.protocol)?esc(v):'#';}catch{return '#';}};
+ const basis={single_secondary_source:'Một nguồn thứ cấp',single_secondary_with_disambiguation:'Một nguồn thứ cấp; có đối chiếu để loại nhầm địa danh',secondary_multiple:'Nhiều nguồn thứ cấp',secondary_with_primary_crosscheck:'Có đối chiếu nguồn gốc cho một số mệnh đề'};
+ const relations={xac_nhan:'Xác nhận',bo_sung:'Bổ sung',khac_biet:'Khác biệt',can_kiem:'Cần kiểm'};
+ const inventory={confirmed:'Đã khớp số trong danh mục',candidate:'Ứng viên xuất xứ',unresolved:'Chưa giải quyết xuất xứ'};
+ function render(id,{map=false}={}){
+  const a=N.articles[id];if(!a)return '';const pre='north-'+id+'-';
+  const cite=t=>esc(t).replace(/\[(\d+)([^\]]*)\]/g,(_,n,rest)=>`<a href="#${pre}ref${n}" class="citation">[${n}${rest}]</a>`);
+  const route=rid=>map?'#'+rid:'record.html?id='+encodeURIComponent(rid);
+  let h=`<section class="north-profile" aria-label="Bài giới thiệu ${esc(a.name)}"><p class="eyebrow">BẮC CHAMPA · HỒ SƠ BIÊN SOẠN</p><h3>${esc(a.subtitle)}</h3><p class="north-lead">${esc(a.lead)}</p><p class="acc">Bản thảo biên soạn ${esc(N.version)} · ${esc(a.id)}. Các nhận định giữ chú dẫn và phạm vi kiểm nguồn.</p>`;
+  if(a.identity_note)h+=`<p class="notice">${esc(a.identity_note)}</p>`;
+  if(a.report_images?.length)h+=`<section class="north-report-images" aria-label="Ảnh Liễu Cốc và tư liệu khảo cổ"><h3>Ảnh Liễu Cốc và tư liệu khảo cổ</h3>${a.report_images.map(im=>{if(!/^[a-z0-9-]+\.jpg$/.test(im.file))return '';const src=(map?'':'../')+'assets/lieu-coc/'+im.file;return `<figure style="margin:16px 0"><a href="${src}" target="_blank" rel="noopener noreferrer" aria-label="Mở ảnh lớn: ${esc(im.title)}"><img src="${src}" alt="${esc(im.alt)}" loading="lazy" style="display:block;width:100%;height:auto;max-height:320px;object-fit:contain;background:#fff;border:1px solid #d8e1d5;border-radius:8px"></a><figcaption><strong>${esc(im.title)}</strong><br>${esc(im.caption)} <span class="acc">${esc(im.credit)}</span> <a href="${src}" target="_blank" rel="noopener noreferrer">Mở ảnh lớn ↗</a></figcaption></figure>`;}).join('')}</section>`;
+  h+=`<nav class="north-toc" aria-label="Nội dung hồ sơ">${a.sections.map((s,i)=>`<a href="#${pre}m${i+1}">${i+1}. ${esc(s.title)}</a>`).join('')}</nav>`;
+  h+=a.sections.map((s,i)=>`<section id="${pre}m${i+1}" class="north-section"><h3>${i+1}. ${esc(s.title)}</h3><p>${cite(s.text)}</p></section>`).join('');
+  if(a.measurement_table)h+=`<details class="sec panel"><summary>${esc(a.measurement_table.title)}</summary><div style="overflow-x:auto"><table><caption>${esc(a.measurement_table.caption)}</caption><thead><tr>${a.measurement_table.headers.map(v=>`<th scope="col">${esc(v)}</th>`).join('')}</tr></thead><tbody>${a.measurement_table.rows.map(row=>`<tr>${row.map((v,i)=>i===0?`<th scope="row">${esc(v)}</th>`:`<td>${esc(v)}</td>`).join('')}</tr>`).join('')}</tbody></table></div><p>${cite(a.measurement_table.locator)}</p></details>`;
+  if(a.excavation_phases?.length)h+=`<details class="sec panel"><summary>Các đợt khai quật theo nguồn</summary>${a.excavation_phases.map(ph=>`<section><h4>${esc(ph.date)}</h4><dl class="grid2">${[['actor','Người thực hiện'],['area','Phần được mở'],['architecture','Kiến trúc'],['finds','Hiện vật'],['measurements','Số đo theo nguồn']].map(([key,label])=>`<dt>${label}</dt><dd>${esc(ph[key])}</dd>`).join('')}</dl><p>${cite(ph.locator)}</p></section>`).join('')}</details>`;
+  if(a.primary_crosscheck?.length)h+=`<details class="sec panel"><summary>Đối chiếu các nguồn (${a.primary_crosscheck.length})</summary>${a.primary_crosscheck.map(x=>`<section><h4>${relations[x.relation]||'Đối chiếu'} · <a href="#${pre}ref${x.source}">[${x.source}]</a> ${esc(x.locator)}</h4><p>${esc(x.data)}</p><p class="acc">${esc(x.note)}</p></section>`).join('')}</details>`;
+  if(a.inventory_links?.length)h+=`<details class="sec panel"><summary>Hiện vật và số kiểm kê (${a.inventory_links.length})</summary>${a.inventory_links.map(v=>`<section><h4>BTC ${esc(v.BTC)} · Parmentier ${esc(v.P)}</h4><p>${inventory[v.status]||esc(v.status)}</p><p>${esc(v.basis)}</p><p class="acc">${esc(v.source_row||'')}</p></section>`).join('')}<p class="acc">Khớp số kiểm kê chưa xác nhận vị trí trưng bày hiện nay.</p></details>`;
+  h+=`<details class="sec panel"><summary>Nguồn tham khảo và phạm vi kiểm (${a.references.length})</summary><p class="acc">${esc(basis[a.source_basis?.level]||'Phạm vi nguồn đang được biên tập')}. Mức này mô tả loại nguồn hiện có, không xác minh toàn bộ bài. Các tài liệu được dùng cho từng mệnh đề theo chú dẫn, không có một tác giả đại diện cho toàn hồ sơ.</p><ol class="north-references">${a.references.map(s=>`<li value="${s.number}" id="${pre}ref${s.number}"><p>${esc(s.title)}${s.url?` <a href="${safe(s.url)}" target="_blank" rel="noopener noreferrer">Mở nguồn ↗</a>`:''}</p><p class="acc">${esc(s.scope)}</p></li>`).join('')}</ol></details>`;
+  h+=`<h3>Hồ sơ liên quan</h3><p class="acc">Gợi ý đọc và so sánh; chưa phải quan hệ lịch sử đã xác lập.</p><div class="network-links links">${a.related_ids.map(rid=>`<a href="${route(rid)}">${esc(N.articles[rid]?.name||rid)}</a>`).join('')}</div></section>`;
+  return h;
+ }
+ window.ChampaNorth={render};
+})();

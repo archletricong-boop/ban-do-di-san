@@ -1,0 +1,75 @@
+{
+  "version": "2026-11-07-v5",
+  "neutral": {
+    "ink": "#26343B",
+    "paper": "#F5F1E9",
+    "stone": "#E6E1D8"
+  },
+  "types": {
+    "di_tich": {
+      "label": "Đền tháp",
+      "name": "Đỏ tươi",
+      "fill": "#E21D2D",
+      "edge": "#9F101B",
+      "text": "#FFFFFF",
+      "text_contrast": 4.722
+    },
+    "sa_huynh": {
+      "label": "Sa Huỳnh",
+      "name": "Đất son",
+      "fill": "#94692A",
+      "edge": "#67491D",
+      "text": "#FFFFFF",
+      "text_contrast": 4.869
+    },
+    "thanh": {
+      "label": "Thành cổ",
+      "name": "Vàng",
+      "fill": "#E4B640",
+      "edge": "#8D6814",
+      "text": "#26343B",
+      "text_contrast": 6.76
+    },
+    "bao_tang": {
+      "label": "Bảo tàng",
+      "name": "Tím trầm",
+      "fill": "#70548C",
+      "edge": "#503B66",
+      "text": "#FFFFFF",
+      "text_contrast": 6.295
+    },
+    "phe_tich": {
+      "label": "Phế tích",
+      "name": "Đỏ tím nổi bật",
+      "fill": "#B4238A",
+      "edge": "#74145A",
+      "text": "#FFFFFF",
+      "text_contrast": 5.919
+    },
+    "nui_thieng": {
+      "label": "Núi / đỉnh núi",
+      "name": "Xám xanh",
+      "fill": "#526F7D",
+      "edge": "#354D59",
+      "text": "#FFFFFF",
+      "text_contrast": 5.345
+    },
+    "song_thieng": {
+      "label": "Đầm · hồ · sông",
+      "name": "Lam",
+      "fill": "#2C6878",
+      "edge": "#1E4853",
+      "text": "#FFFFFF",
+      "text_contrast": 6.253
+    },
+    "canh_quan": {
+      "label": "Đảo và cảnh quan",
+      "name": "Lục đá",
+      "fill": "#526B60",
+      "edge": "#394B43",
+      "text": "#FFFFFF",
+      "text_contrast": 5.784
+    }
+  },
+  "text_standard": "WCAG SC 1.4.3, minimum 4.5:1 for normal text; this is a palette check, not a full accessibility audit."
+}

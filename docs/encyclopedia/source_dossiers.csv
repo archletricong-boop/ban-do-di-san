@@ -1,0 +1,149 @@
+﻿id,name,province_source,address_source,printed_page,review_status,thesis_name,thesis_locator,observation,eclevi_url,coordinate_status
+BDS-0001,Liễu Cốc,Thừa Thiên Huế,,60,table_comparison_candidate,Liễu Cốc,"Bảng 2.3, STT 13, tr.86 (PDF tr.90)",Bảng ghi còn tường hai đền–tháp; phân loại của luận án khác nhãn nhóm tháp còn đứng của sách atlas.,,not_promoted
+BDS-0002,Mỹ Khánh,Thừa Thiên Huế,,60,table_comparison_candidate,Mỹ Khánh,"Bảng 2.3, STT 1, tr.84 (PDF tr.88)",Bảng ghi khai quật 2001 và 2005; phân biệt Kalan còn lại với nền tháp lửa.,,not_promoted
+BDS-0003,Bằng An,Quảng Nam,,60,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0004,Chiên Đàn,Quảng Nam,,60,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0005,Khương Mỹ,Quảng Nam,,60,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0006,Mỹ Sơn,Quảng Nam,,60,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0007,Bánh Ít,Bình Định,,60,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0008,Thủ Thiện,Bình Định,,60,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0009,Phú Lốc,Bình Định,,60,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0010,Bình Lâm,Bình Định,,60,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0011,Cánh Tiên,Bình Định,,60,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0012,Dương Long,Bình Định,,60,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0013,Tháp Đôi,Bình Định,,61,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0014,Tháp Nhạn,Phú Yên,,61,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0015,Pô Nagar,Khánh Hòa,,61,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0016,Hòa Lai,Ninh Thuận,,61,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0017,Pô Klong Garai,Ninh Thuận,,61,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0018,Pô Rômê,Ninh Thuận,,61,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0019,Pô Sah Inư,Bình Thuận,,61,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0020,Pô Dam,Bình Thuận,,61,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0021,Yang Prong,Đắk Lắk,,61,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0022,Mỹ Đức,Quảng Bình,Sơn Thủy - Lệ Thủy,62,table_comparison_candidate,Mỹ Đức,"Bảng 2.1, STT 2, tr.48 (PDF tr.52)",Bảng ghi khai quật 1921–1922; dấu nền gạch và hiện vật phân tán nhiều bảo tàng.,,not_promoted
+BDS-0023,Đại Hữu (Quảng Bình),Quảng Bình,An Ninh - Quảng Ninh,62,table_comparison_candidate,Đại Hữu,"Bảng 2.1, STT 1, tr.48 (PDF tr.52)","Bảng ghi các đợt khai quật 1918, 1922, 1925; cần tách địa điểm và hiện vật lưu giữ.",,not_promoted
+BDS-0024,Vân Tập,Quảng Bình,Quảng Lưu - Quảng Trạch,62,table_comparison_candidate,Vân Tập,"Bảng 2.1, STT 7, tr.49 (PDF tr.53)",Bảng xếp vào nhóm còn gạch; niên đại để trống.,,not_promoted
+BDS-0025,An Xá,Quảng Trị,Trung Sơn - Gio Linh,63,table_comparison_candidate,An Xá,"Bảng 2.2, STT 2, tr.59 (PDF tr.63)",Bảng ghi khai quật 1994; bệ thờ và Linga–Yoni có phần đã chuyển bảo tàng.,https://psig.huma-num.fr/omeka-s/s/eclevi/page/thematiques,not_promoted
+BDS-0026,Duy Viên,Quảng Trị,Vĩnh Lâm - Vĩnh Linh,63,table_comparison_candidate,Duy Viên,"Bảng 2.2, STT 16, tr.61 (PDF tr.65)",Bảng ghi gạch tại di tích và một Linga tại Bảo tàng Quảng Trị.,,not_promoted
+BDS-0027,Huỳnh Xá,Quảng Trị,Vĩnh Sơn - Vĩnh Linh,63,table_comparison_candidate,Huỳnh Xá,"Bảng 2.2, STT 21, tr.62 (PDF tr.66)","Bảng ghi làng Huỳnh Thượng, xã Vĩnh Sơn; chỉ còn gạch theo đợt khảo sát.",,not_promoted
+BDS-0028,Nam Sơn,Quảng Trị,Vĩnh Sơn - Vĩnh Linh,63,not_located_in_selected_table,,"Bảng 2.2, tr.59–62",Chưa xác lập mục tương ứng trong bảng 2.2. Không coi việc chưa nối được tên là bằng chứng di tích không tồn tại.,,not_promoted
+BDS-0029,Phường Sỏi,Quảng Trị,Gio Phong - Gio Linh,63,table_comparison_candidate,Phường Sỏi,"Bảng 2.2, STT 18, tr.62 (PDF tr.66)","Bảng ghi Lòi Giàng, tiểu khu III, thị trấn Gio Linh; khác cách ghi địa chỉ trong bảng atlas.",,not_promoted
+BDS-0030,Hà Trung,Quảng Trị,Gio Châu - Gio Linh,63,table_comparison_candidate,Hà Trung,"Bảng 2.2, STT 7, tr.60 (PDF tr.64)","Bảng ghi chùa Bình Trung, làng Hà Trung, xã Gio Châu; hiện vật chia giữa di tích và bảo tàng.",https://psig.huma-num.fr/omeka-s/s/eclevi/page/thematiques,not_promoted
+BDS-0031,Lâm Lang,Quảng Trị,Cam Hiếu - Cam Lộ,63,table_comparison_candidate,Lâm Lang,"Bảng 2.2, STT 22, tr.62 (PDF tr.66)","Bảng ghi Cửa Đình, làng Lâm Lang, xã Cam Thủy; khác xã Cam Hiếu trong dòng nguồn.",,not_promoted
+BDS-0032,Trương Xá,Quảng Trị,Cam Hiếu - Cam Lộ,63,table_comparison_candidate,Trương Xá,"Bảng 2.2, STT 1, tr.59 (PDF tr.63)","Bảng ghi địa điểm ở phường 4, Đông Hà và khai quật năm 1911; khác địa chỉ Cam Hiếu trong dòng nguồn.",,not_promoted
+BDS-0033,Kim Đâu,Quảng Trị,Cam An - Cam Lộ,63,table_comparison_candidate,Kim Đâu,"Bảng 2.2, STT 8, tr.60 (PDF tr.64)","Bảng viết Kim Đâu, Cồn Giàng, xã Cam An; không tự chuẩn hóa thành tên hiện hành.",https://psig.huma-num.fr/omeka-s/s/eclevi/page/thematiques,not_promoted
+BDS-0034,Trà Liên,Quảng Trị,Triệu Giang - Triệu Phong,63,table_comparison_candidate,Trà Liên,"Bảng 2.2, STT 12, tr.61 (PDF tr.65)","Bảng ghi xóm Nam Bồi, xã Triệu Giang; bệ ốp tại chỗ, phù điêu và khối bệ ở bảo tàng.",https://psig.huma-num.fr/omeka-s/s/eclevi/item/721175,not_promoted
+BDS-0035,Dương Lệ,Quảng Trị,Triệu Thuận - Triệu Phong,63,table_comparison_candidate,Dương Lệ,"Bảng 2.2, STT 5, tr.60 (PDF tr.64)","Bảng ghi Cồn Giàng, làng Dương Lệ Đông; có hiện vật tại chỗ và tượng Uma ở bảo tàng.",https://psig.huma-num.fr/omeka-s/s/eclevi/page/thematiques,not_promoted
+BDS-0036,Quảng Điền,Quảng Trị,Triệu Đại - Triệu Phong,63,table_comparison_candidate,Quảng Điền,"Bảng 2.2, STT 10, tr.61 (PDF tr.65)","Bảng ghi Cồn Dưới, xã Triệu Đại; cấu kiện tại chỗ và Nandin ở bảo tàng.",https://psig.huma-num.fr/omeka-s/s/eclevi/page/thematiques,not_promoted
+BDS-0037,Bích La,Quảng Trị,Triệu Đông - Triệu Phong,63,table_comparison_candidate,Bích La,"Bảng 2.2, STT 3, tr.59 (PDF tr.63)","Bảng ghi Cồn Giàng, làng Bích La Trung; cần tách phù điêu tại Đà Nẵng khỏi di tích xuất xứ.",https://psig.huma-num.fr/omeka-s/s/eclevi/page/thematiques,not_promoted
+BDS-0038,Nhan Biều,Quảng Trị,Triệu Thượng - Triệu Phong,63,table_comparison_candidate,Nhan Biều,"Bảng 2.2, STT 11, tr.61 (PDF tr.65)","Bảng viết Nhan Biều, xóm Giàng, xã Triệu Thượng; không tự gộp với Đa Nghi.",https://psig.huma-num.fr/omeka-s/s/eclevi/page/thematiques,not_promoted
+BDS-0039,Đa Nghi,Quảng Trị,Cam Hiếu - Cam Lộ,63,table_comparison_candidate,Đa Nghi,"Bảng 2.2, STT 6, tr.60 (PDF tr.64)","Bảng ghi chùa Phật Lồi, thị trấn Ái Tử, Triệu Phong; khác địa chỉ Cam Hiếu trong dòng nguồn.",https://psig.huma-num.fr/omeka-s/s/eclevi/page/thematiques,not_promoted
+BDS-0040,Phương Sơn,Quảng Trị,Triệu Sơn - Triệu Phong,63,not_located_in_selected_table,,"Bảng 2.2, tr.59–62",Chưa xác lập mục tương ứng trong bảng 2.2. Không coi việc chưa nối được tên là bằng chứng di tích không tồn tại.,,not_promoted
+BDS-0041,Ngô Xá,Quảng Trị,Triệu Trung - Triệu Phong,63,table_comparison_candidate,Ngô Xá,"Bảng 2.2, STT 9, tr.60 (PDF tr.64)","Bảng ghi làng Ngô Xá Tây, xã Triệu Trung; không ghi niên đại trong ô bảng.",,not_promoted
+BDS-0042,Thạch Hãn,Quảng Trị,Thị xã Quảng Trị,63,table_comparison_candidate,Thạch Hãn,"Bảng 2.2, STT 15, tr.61 (PDF tr.65)","Bảng ghi nhà thờ Thạch Hãn, 27 Hai Bà Trưng; tác phẩm đã phân tán Huế và Đà Nẵng.",https://psig.huma-num.fr/omeka-s/s/eclevi/page/thematiques,not_promoted
+BDS-0043,Trà Lộc,Quảng Trị,Hải Xuân - Hải Lăng,63,table_comparison_candidate,Trà Lộc,"Bảng 2.2, STT 13, tr.61 (PDF tr.65)",Bảng ghi gạch và Yoni tại di tích; ô niên đại để trống.,https://psig.huma-num.fr/omeka-s/s/eclevi/page/thematiques,not_promoted
+BDS-0044,Câu Hoan,Quảng Trị,Hải Thiện - Hải Lăng,63,table_comparison_candidate,Cu Hoan,"Bảng 2.2, STT 4, tr.60 (PDF tr.64)","Luận án viết Cu Hoan, xóm Cồn Chùa, xã Hải Thiện; đối chiếu biến thể Câu Hoan của dòng sách.",,not_promoted
+BDS-0045,Trung Sơn,Quảng Trị,Hải Thành - Hải Lăng,63,not_located_in_selected_table,,"Bảng 2.2, tr.59–62",Chưa xác lập mục tương ứng trong bảng 2.2. Không coi việc chưa nối được tên là bằng chứng di tích không tồn tại.,,not_promoted
+BDS-0046,Trường Sanh,Quảng Trị,Hải Thành - Hải Lăng,63,table_comparison_candidate,Trường Sanh,"Bảng 2.2, STT 24, tr.62 (PDF tr.66)","Bảng ghi miếu Bà Lồi, xã Hải Trường; khác địa chỉ Hải Thành trong dòng nguồn.",https://psig.huma-num.fr/omeka-s/s/eclevi/page/thematiques,not_promoted
+BDS-0047,Đức Nhuận,Thừa Thiên Huế,Quảng Phú - Quảng Điền,64,table_comparison_candidate,Đức Nhuận,"Bảng 2.3, STT 9, tr.85 (PDF tr.89)",Bảng ghi dấu gạch tại chỗ và Nandin lưu giữ nơi khác; không suy niên đại cho từng hiện vật.,,not_promoted
+BDS-0048,Cổ Tháp,Thừa Thiên Huế,Quảng Vinh - Quảng Điền,64,table_comparison_candidate,Cổ Tháp,"Bảng 2.3, STT 15, tr.87 (PDF tr.91)","Bảng ghi thôn Phổ Lai, xã Quảng Vinh; hiện trạng còn gạch theo tác giả.",,not_promoted
+BDS-0049,Cồn Tháp,Thừa Thiên Huế,Phú Ốc - Hương Trà,64,table_comparison_candidate,Cồn Tháp,"Bảng 2.3, STT 14, tr.86 (PDF tr.90)","Bảng ghi làng Phú Ốc, thị trấn Tứ Hạ; cần giữ địa danh theo thời điểm nguồn.",,not_promoted
+BDS-0050,Vân Trạch Hòa,Thừa Thiên Huế,Phong Thu - Phong Điền,64,table_comparison_candidate,Vân Trạch Hòa,"Bảng 2.3, STT 2, tr.84 (PDF tr.88)",Bảng ghi khai quật 1997; tách nền kiến trúc khỏi đài thờ và cấu kiện tại bảo tàng.,https://psig.huma-num.fr/omeka-s/s/eclevi/item/721274,not_promoted
+BDS-0051,Ưu Điềm,Thừa Thiên Huế,Phú Trạch - Phong Điền,64,table_comparison_candidate,Ưu Điềm,"Bảng 2.3, STT 5, tr.85 (PDF tr.89)","Bảng ghi chùa Ưu Điềm, xã Phong Hòa; khác Phú Trạch trong dòng nguồn.",,not_promoted
+BDS-0052,Xuân Hòa,Thừa Thiên Huế,Phú Trạch - Phong Điền,64,table_comparison_candidate,Xuân Hoá/Xuân Huế,"Bảng 2.3, STT 10, tr.86 (PDF tr.90)","Luận án ghi Thủy Xuân, TP Huế; dòng sách ghi Phú Trạch, Phong Điền. Chỉ là ứng viên tên, chưa đồng nhất.",https://psig.huma-num.fr/omeka-s/s/eclevi/item/721285,not_promoted
+BDS-0053,Giám Biều,Thừa Thiên Huế,Long Hồ - Hương Trà,64,table_comparison_candidate,Nham Biều,"Bảng 2.3, STT 11, tr.86 (PDF tr.90)",Bảng ghi Nham Biều/Giam Biều và để dấu hỏi ở cột tọa độ; không tự gán điểm KMZ.,https://psig.huma-num.fr/omeka-s/s/eclevi/page/thematiques,not_promoted
+BDS-0054,Phước Tích,Thừa Thiên Huế,Phong Hòa - Phong Điền,64,table_comparison_candidate,Phước Tích,"Bảng 2.3, STT 6, tr.85 (PDF tr.89)",Bảng phân biệt miếu Quảng Tế với hiện vật tại bến Cây Bàng; không coi mọi vị trí là nguyên vị.,,not_promoted
+BDS-0055,Linh Thái,Thừa Thiên Huế,Vinh Hiền - Phú Lộc,64,table_comparison_candidate,Linh Thái,"Bảng 2.3, STT 3, tr.84 (PDF tr.88)",Bảng ghi thám sát 2016; cấu kiện tại núi và nhiều nhóm hiện vật lưu giữ ở Huế.,https://psig.huma-num.fr/omeka-s/s/eclevi/page/thematiques,not_promoted
+BDS-0056,Lương Hậu,Thừa Thiên Huế,Thủy Lương - Hương Thủy,64,table_comparison_candidate,Lương Hậu,"Bảng 2.3, STT 4, tr.85 (PDF tr.89)","Bảng ghi làng Lương Hậu, Thủy Lương; gạch và phù điêu Shiva tại di tích theo tác giả.",,not_promoted
+BDS-0057,Gò Cấm Mít,Đà Nẵng,Hòa Phong - Hòa Vang,65,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0058,An Sơn,Đà Nẵng,Hòa An - Cẩm Lệ,65,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0059,Quá Giáng,Đà Nẵng,Hòa Phước - Hòa Vang,65,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0060,Xuân Dương,Đà Nẵng,Hòa Hiệp Nam - Liên Chiểu,65,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0061,Phong Lệ,Đà Nẵng,Hòa Thọ Đông - Cẩm Lệ,65,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0062,Hóa Quê,Đà Nẵng,Khuê Trung - Hải Châu,65,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0063,Lạc Thành,Quảng Nam,Điện Hồng - Điện Bàn,65–66,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0064,Miếu Bà,Quảng Nam,Điện Hòa - Điện Bàn,65–66,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0065,Miếu Bà,Quảng Nam,Điện Hòa - Điện Bàn,65–66,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0066,Miếu Bà,Quảng Nam,Điện Phước - Điện Bàn,65–66,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0067,Gò Đình,Quảng Nam,Đại Quang - Đại Lộc,65–66,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0068,Miếu Bà Yang,Quảng Nam,Thanh Hà - Hội An,65–66,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0069,An Bang,Quảng Nam,Cẩm Hà - Hội An,65–66,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0070,Lăng Bà,Quảng Nam,Cẩm Thanh - Hội An,65–66,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0071,Gò Lồi,Quảng Nam,Duy Trinh - Duy Xuyên,65–66,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0072,Gò Gạch,Quảng Nam,Đại Nghĩa - Đại Lộc,65–66,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0073,Gò Chùa Vua,Quảng Nam,Duy Trinh - Duy Xuyên,65–66,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0074,Triền Tranh,Quảng Nam,Duy Trinh - Duy Xuyên,65–66,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0075,Trà Kiệu,Quảng Nam,Duy Trinh - Duy Xuyên,65–66,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0076,Hương Quế,Quảng Nam,Duy Trinh - Duy Xuyên,65–66,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0077,Đồng Dương,Quảng Nam,Duy Sơn - Duy Xuyên,65–66,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0078,An Thới,Quảng Nam,Quế Phú - Quế Sơn,65–66,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0079,An Thành,Quảng Nam,Bình Định - Thăng Bình,65–66,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0080,An Mỹ,Quảng Nam,Bình An - Thăng Bình,65–66,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0081,An Phú (tháp Lạn),Quảng Nam,Bình An - Thăng Bình,65–66,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0082,Rừng Ông Nay,Quảng Nam,Tam An - Phú Ninh,65–66,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0083,Rừng Cấm,Quảng Nam,Tam An - Phú Ninh,65–66,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0084,Bà Huỳnh,Quảng Nam,Tam An - Phú Ninh,65–66,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0085,Phú Hưng,Quảng Nam,Tam An - Phú Ninh,65–66,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0086,Gò Gạch,Quảng Nam,Tam An - Phú Ninh,65–66,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0087,Chánh Lộ,Quảng Ngãi,Nghĩa Lộ - TP. Quảng Ngãi,67,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0088,Khánh Vân,Quảng Ngãi,Tịnh Thọ - Sơn Tịnh,67,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0089,Núi Bút,Quảng Ngãi,TP. Quảng Ngãi,67,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0090,Gò Tháp,Quảng Ngãi,Nghĩa Kỳ - Tư Nghĩa,67,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0091,Phú Hòa,Quảng Ngãi,Tịnh An - Sơn Tịnh,67,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0092,Tiên Đào,Quảng Ngãi,Bình Trung - Bình Sơn,67,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0093,Giao Thủy,Quảng Ngãi,Bình Trung - Bình Sơn,67,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0094,Long Giang,Quảng Ngãi,Bình Lâm - Bình Sơn,67,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0095,Tiên Phước,Quảng Ngãi,Tịnh Phong - Sơn Tịnh,67,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0096,Núi Ông,Quảng Ngãi,TP. Quảng Ngãi,67,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0097,Long Triều,Bình Định,Phước Hiệp - Tuy Phước,67–68,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0098,Chà Cây,Bình Định,Phước Hiệp - Tuy Phước,67–68,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0099,Xuân Mỹ,Bình Định,Phước Hiệp - Tuy Phước,67–68,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0100,Khánh Vân,Bình Định,Phước Quang - Tuy Phước,67–68,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0101,Gò Chùa,Bình Định,Phước Quang - Tuy Phước,67–68,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0102,Tân Kiều,Bình Định,Nhơn Mỹ - An Nhơn,67–68,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0103,Chà Rây,Bình Định,Nhơn Lộc - An Nhơn,67–68,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0104,Khánh Lễ,Bình Định,Nhơn Khánh - An Nhơn,67–68,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0105,Thông Hòa,Bình Định,Nhơn Khánh - An Nhơn,67–68,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0106,An Hòa,Bình Định,Nhơn Khánh - An Nhơn,67–68,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0107,Châu Thành,Bình Định,Nhơn Thành - An Nhơn,67–68,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0108,Tam Tháp,Bình Định,Nhơn Hậu - An Nhơn,67–68,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0109,Thập Tháp,Bình Định,Nhơn Thành - An Nhơn,67–68,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0110,Tháp Mẫm,Bình Định,Nhơn Hậu - An Nhơn,67–68,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0111,Tháp Mẫm,Bình Định,Nhơn Khánh - An Nhơn,67–68,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0112,Rừng Cấm,Bình Định,Bình Nghi - Tây Sơn,67–68,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0113,Đại Hữu,Bình Định,Phù Cát,67–68,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0114,Núi Bà,Phú Yên,Hòa phong - Tuy Hòa,68–69,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0115,Phước Thành,Phú Yên,Hòa Định Đông - Phú Hòa,68–69,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0116,Gò Thành,Phú Yên,La Hai - Đồng Xuân,68–69,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0117,Xóm Bầu,Phú Yên,Hòa Định Đông - Phú Hòa,68–69,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0118,Hòn Mốc,Phú Yên,Hòa Định Tây - Phú Hòa,68–69,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0119,Phú Lâm,Phú Yên,Đông Tác - Tuy Hòa,68–69,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0120,Xuân Phu,Phú Yên,An Ninh Tây - Tuy An,68–69,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0121,Hòn Chùa,Phú Yên,Tuy Hòa,68–69,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0122,Phú Vinh,Khánh Hòa,Ninh Hòa?,69,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0123,Đồng Thành,Khánh Hòa,Ninh Hòa,69,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0124,Hòn Thị,Khánh Hòa,Ninh Hòa,69,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0125,Chợ Mới,Khánh Hòa,Ninh Hòa?,69,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0126,Núi Rồng - Ba Ngòi,Khánh Hòa,Cam Ranh,69,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0127,Hòn Tre,Khánh Hòa,Nha Trang,69,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0128,Phế tích Hòa Trinh,Ninh Thuận,Như Lâm - An Phước,70,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0129,Phế tích Glai Klong ANoc,Ninh Thuận,Như Lâm - An Phước,70,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0130,Pandarang,Ninh Thuận,Chương Mỹ - An Phước,70,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0131,PoNaga,Ninh Thuận,Mông Đức - An Phước,70,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0132,Po xa,Ninh Thuận,Vĩnh Thuận - An Phước,70,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0133,Glai La Mơ,Ninh Thuận,Vĩnh Thuận - An Phước,70,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0134,Yan Tikut,Ninh Thuận,Bình Chữ - An Phước,70,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0135,Tòa Công sứ,Ninh Thuận,Phan Rang,70,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0136,Ga Phan Rang,Ninh Thuận,Phan Rang,70,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0137,Lương Tri,Ninh Thuận,Lương Tri - An Phước,70,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0138,Phế tích Long Phước,Bình Thuận,Bình Thạnh - Tuy Phong,71,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0139,Thành cổ Sông Lũy,Bình Thuận,Vĩnh An - Hòa Đa,71,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0140,Trinh Tường,Bình Thuận,Thành phố Phan Thiết,71,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0141,Thuận Đồng,Bình Thuận,Lương Sơn - Hòa Đa,71,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0142,Po Panrong,Bình Thuận,Tốn Thành - Hòa Đa,71,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0143,Tố Lý,Bình Thuận,Tố Lý - Hòa Đa,71,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0144,Thanh Hiếu,Bình Thuận,Thanh Hiếu - Hòa Đa,71,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0145,Po Nơ rốp,Bình Thuận,Tùy Tịnh - Phan Rí,71,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0146,PoNaga Ta oét,Bình Thuận,Lạc Trị - Tuy Phong,71,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0147,Po Kabrah,Bình Thuận,Vĩnh Thanh - Tuy Phong,71,awaiting_scholarly_crosscheck,,,,,not_promoted
+BDS-0148,PoNaga TahaCak,Bình Thuận,Lang Phước - Tuy Phong,71,awaiting_scholarly_crosscheck,,,,,not_promoted

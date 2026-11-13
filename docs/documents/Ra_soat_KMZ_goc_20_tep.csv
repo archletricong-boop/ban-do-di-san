@@ -1,0 +1,51 @@
+﻿audit_id,file,name,geometry,coordinate_count,coordinates_valid,status,duplicate_of,note
+RAW-001,Miếu Âm Linh.kmz,Miếu Âm Linh,Point,1,True,thờ tự hoặc nơi lưu giữ cần nguồn,,Điểm tác giả cung cấp; hình thức thờ tự hiện nay không tự xác nhận nền tháp Champa.
+RAW-002,Giếng Thành Cung.kmz,Giếng Thành Cung,Point,1,True,thờ tự hoặc nơi lưu giữ cần nguồn,,Điểm tác giả cung cấp; hình thức thờ tự hiện nay không tự xác nhận nền tháp Champa.
+RAW-003,Tái định cư Nam Ô 2 .kmz,Tái định cư Nam Ô 2 ,Point,1,True,hạ tầng hiện đại hoặc đối sánh,,
+RAW-004,GPS_Nam_O.kmz,Đình làng Nam Ô,Point,1,True,thờ tự hoặc nơi lưu giữ cần nguồn,,Điểm tác giả cung cấp; hình thức thờ tự hiện nay không tự xác nhận nền tháp Champa.
+RAW-005,Giếng Lăng.kmz,Giếng Lăng,Point,1,True,thờ tự hoặc nơi lưu giữ cần nguồn,,Điểm tác giả cung cấp; hình thức thờ tự hiện nay không tự xác nhận nền tháp Champa.
+RAW-006,Tái định cư Nam Ô 1.kmz,Tái định cư Nam Ô 1,Point,1,True,hạ tầng hiện đại hoặc đối sánh,,
+RAW-007,GPS_Nam_O_15_dia_diem.kmz,Lăng Ông,Point,1,True,thờ tự hoặc nơi lưu giữ cần nguồn,,Điểm tác giả cung cấp; hình thức thờ tự hiện nay không tự xác nhận nền tháp Champa.
+RAW-008,GPS_Nam_O_15_dia_diem.kmz,Miếu Bà Bô Bô,Point,1,True,thờ tự hoặc nơi lưu giữ cần nguồn,,Điểm tác giả cung cấp; hình thức thờ tự hiện nay không tự xác nhận nền tháp Champa.
+RAW-009,GPS_Nam_O_15_dia_diem.kmz,Miếu Bà Liễu Hạnh,Point,1,True,thờ tự hoặc nơi lưu giữ cần nguồn,,Điểm tác giả cung cấp; hình thức thờ tự hiện nay không tự xác nhận nền tháp Champa.
+RAW-010,GPS_Nam_O_15_dia_diem.kmz,Miếu Âm Linh,Point,1,True,trùng bản lẻ hoặc bản gộp,RAW-001,
+RAW-011,GPS_Nam_O_15_dia_diem.kmz,Mộ Tiền Hiền,Point,1,True,thờ tự hoặc nơi lưu giữ cần nguồn,,Điểm tác giả cung cấp; hình thức thờ tự hiện nay không tự xác nhận nền tháp Champa.
+RAW-012,GPS_Nam_O_15_dia_diem.kmz,Nghĩa Trủng Nam Ô,Point,1,True,thờ tự hoặc nơi lưu giữ cần nguồn,,Điểm tác giả cung cấp; hình thức thờ tự hiện nay không tự xác nhận nền tháp Champa.
+RAW-013,GPS_Nam_O_15_dia_diem.kmz,Đình làng Nam Ô,Point,1,True,trùng bản lẻ hoặc bản gộp,RAW-004,
+RAW-014,GPS_Nam_O_15_dia_diem.kmz,Giếng Cồn Trò,Point,1,True,thờ tự hoặc nơi lưu giữ cần nguồn,,Điểm tác giả cung cấp; hình thức thờ tự hiện nay không tự xác nhận nền tháp Champa.
+RAW-015,GPS_Nam_O_15_dia_diem.kmz,Giếng Lăng,Point,1,True,trùng bản lẻ hoặc bản gộp,RAW-005,
+RAW-016,GPS_Nam_O_15_dia_diem.kmz,Giếng Thành Cung,Point,1,True,trùng bản lẻ hoặc bản gộp,RAW-002,
+RAW-017,GPS_Nam_O_15_dia_diem.kmz,Giếng bà Bang,Point,1,True,thờ tự hoặc nơi lưu giữ cần nguồn,,Điểm tác giả cung cấp; hình thức thờ tự hiện nay không tự xác nhận nền tháp Champa.
+RAW-018,GPS_Nam_O_15_dia_diem.kmz,Giếng Đình,Point,1,True,thờ tự hoặc nơi lưu giữ cần nguồn,,Điểm tác giả cung cấp; hình thức thờ tự hiện nay không tự xác nhận nền tháp Champa.
+RAW-019,GPS_Nam_O_15_dia_diem.kmz,Ga đường sắt cũ,Point,1,True,hạ tầng hiện đại hoặc đối sánh,,
+RAW-020,GPS_Nam_O_15_dia_diem.kmz,Tái định cư Nam Ô 1,Point,1,True,trùng bản lẻ hoặc bản gộp,RAW-006,
+RAW-021,GPS_Nam_O_15_dia_diem.kmz,Tái định cư Nam Ô 2,Point,1,True,trùng bản lẻ hoặc bản gộp,RAW-003,
+RAW-022,Miếu Bà Liễu Hạnh.kmz, Miếu Bà Liễu Hạnh,Point,1,True,trùng bản lẻ hoặc bản gộp,RAW-009,
+RAW-023,Miếu Bà Bô Bô.kmz,Miếu Bà Bô Bô,Point,1,True,trùng bản lẻ hoặc bản gộp,RAW-008,
+RAW-024,Nghĩa Trủng Nam Ô.kmz,Nghĩa Trủng Nam Ô,Point,1,True,trùng bản lẻ hoặc bản gộp,RAW-012,
+RAW-025,Giếng bà Bang.kmz,Giếng bà Bang,Point,1,True,trùng bản lẻ hoặc bản gộp,RAW-017,
+RAW-026,Khu công nghiệp .kmz,Khu công nghiệp ,Point,1,True,hạ tầng hiện đại hoặc đối sánh,,
+RAW-027,Giếng Đình.kmz,Giếng Đình,Point,1,True,trùng bản lẻ hoặc bản gộp,RAW-018,
+RAW-028,Hồ điều hòa .kmz,Hồ điều hòa ,Point,1,True,hạ tầng hiện đại hoặc đối sánh,,
+RAW-029,Mộ Tiền Hiền.kmz,Mộ Tiền Hiền,Point,1,True,trùng bản lẻ hoặc bản gộp,RAW-011,
+RAW-030,Đình làng Nam Ô.kmz,Đình làng Nam Ô,Point,1,True,trùng bản lẻ hoặc bản gộp,RAW-004,
+RAW-031,Lăng Ông.kmz,Lăng Ông,Point,1,True,trùng bản lẻ hoặc bản gộp,RAW-007,
+RAW-032,Ga đường sắt cũ.kmz,Ga đường sắt cũ,Point,1,True,trùng bản lẻ hoặc bản gộp,RAW-019,
+RAW-033,Giếng Cồn Trò.kmz,Giếng Cồn Trò,Point,1,True,trùng bản lẻ hoặc bản gộp,RAW-014,
+RAW-034,Amaravati_Tra_Kai_hai_he_truc_2026-09-24.kmz,Cà Tang,Point,1,True,mốc hoặc đường mô hình nghiên cứu,,Không tự coi giao điểm và đường giả thuyết là di tích hoặc tuyến cổ.
+RAW-035,Amaravati_Tra_Kai_hai_he_truc_2026-09-24.kmz,Răng Mèo,Point,1,True,mốc hoặc đường mô hình nghiên cứu,,Không tự coi giao điểm và đường giả thuyết là di tích hoặc tuyến cổ.
+RAW-036,Amaravati_Tra_Kai_hai_he_truc_2026-09-24.kmz,Đá Thế,Point,1,True,mốc hoặc đường mô hình nghiên cứu,,Không tự coi giao điểm và đường giả thuyết là di tích hoặc tuyến cổ.
+RAW-037,Amaravati_Tra_Kai_hai_he_truc_2026-09-24.kmz,Cù Lao Chàm,Point,1,True,mốc hoặc đường mô hình nghiên cứu,,Không tự coi giao điểm và đường giả thuyết là di tích hoặc tuyến cổ.
+RAW-038,Amaravati_Tra_Kai_hai_he_truc_2026-09-24.kmz,An Thái,Point,1,True,mốc hoặc đường mô hình nghiên cứu,,Không tự coi giao điểm và đường giả thuyết là di tích hoặc tuyến cổ.
+RAW-039,Amaravati_Tra_Kai_hai_he_truc_2026-09-24.kmz,Ngũ Hành Sơn (Thủy Sơn),Point,1,True,mốc hoặc đường mô hình nghiên cứu,,Không tự coi giao điểm và đường giả thuyết là di tích hoặc tuyến cổ.
+RAW-040,Amaravati_Tra_Kai_hai_he_truc_2026-09-24.kmz,Chóp Chài (Thăng Bình),Point,1,True,mốc hoặc đường mô hình nghiên cứu,,Không tự coi giao điểm và đường giả thuyết là di tích hoặc tuyến cổ.
+RAW-041,Amaravati_Tra_Kai_hai_he_truc_2026-09-24.kmz,Núi Quế,Point,1,True,mốc hoặc đường mô hình nghiên cứu,,Không tự coi giao điểm và đường giả thuyết là di tích hoặc tuyến cổ.
+RAW-042,Amaravati_Tra_Kai_hai_he_truc_2026-09-24.kmz,Trà Kai — GPS mới,Point,1,True,mốc hoặc đường mô hình nghiên cứu,,Không tự coi giao điểm và đường giả thuyết là di tích hoặc tuyến cổ.
+RAW-043,Amaravati_Tra_Kai_hai_he_truc_2026-09-24.kmz,Phật viện Đồng Dương — mốc cũ,Point,1,True,mốc hoặc đường mô hình nghiên cứu,,Không tự coi giao điểm và đường giả thuyết là di tích hoặc tuyến cổ.
+RAW-044,Amaravati_Tra_Kai_hai_he_truc_2026-09-24.kmz,I — giao điểm hai trục,Point,1,True,mốc hoặc đường mô hình nghiên cứu,,Không tự coi giao điểm và đường giả thuyết là di tích hoặc tuyến cổ.
+RAW-045,Amaravati_Tra_Kai_hai_he_truc_2026-09-24.kmz,A1 — Cà Tang – An Thái,LineString,215,True,mốc hoặc đường mô hình nghiên cứu,,Không tự coi giao điểm và đường giả thuyết là di tích hoặc tuyến cổ.
+RAW-046,Amaravati_Tra_Kai_hai_he_truc_2026-09-24.kmz,A2 — Chóp Chài – Núi Quế,LineString,94,True,mốc hoặc đường mô hình nghiên cứu,,Không tự coi giao điểm và đường giả thuyết là di tích hoặc tuyến cổ.
+RAW-047,Amaravati_Tra_Kai_hai_he_truc_2026-09-24.kmz,"Trà Kai – I : 382,7 m",LineString,3,True,mốc hoặc đường mô hình nghiên cứu,,Không tự coi giao điểm và đường giả thuyết là di tích hoặc tuyến cổ.
+RAW-048,Amaravati_Tra_Kai_hai_he_truc_2026-09-24.kmz,"Độ lệch Trà Kai – A1 : 354,8 m",LineString,3,True,mốc hoặc đường mô hình nghiên cứu,,Không tự coi giao điểm và đường giả thuyết là di tích hoặc tuyến cổ.
+RAW-049,Amaravati_Tra_Kai_hai_he_truc_2026-09-24.kmz,"Độ lệch Trà Kai – A2 : 198,9 m",LineString,2,True,mốc hoặc đường mô hình nghiên cứu,,Không tự coi giao điểm và đường giả thuyết là di tích hoặc tuyến cổ.
+RAW-050,Amaravati_Tra_Kai_hai_he_truc_2026-09-24.kmz,Trà Cai — điểm nguồn cũ,Point,1,True,mốc hoặc đường mô hình nghiên cứu,,Không tự coi giao điểm và đường giả thuyết là di tích hoặc tuyến cổ.

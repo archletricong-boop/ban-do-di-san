@@ -1,0 +1,1651 @@
+{
+  "date": "2026-11-12",
+  "media_counts": {
+    "permission_recorded": 45,
+    "public_domain_original": 7,
+    "review_required": 39,
+    "not_assessed": 67,
+    "permission_pending": 2
+  },
+  "active_media": 158,
+  "retired_media": 2,
+  "original_vs_digital_copy": "public_domain_original applies to the underlying work only; it is not a Creative Commons license for the supplied digital copy.",
+  "pending_media_ids": [
+    "CHP-MEDIA-5a8a6b9b91935e76",
+    "CHP-MEDIA-4ea22cae50ba59bf",
+    "CHP-MEDIA-2af2b6c47481529d",
+    "CHP-MEDIA-c2472bfea3d754b5",
+    "CHP-MEDIA-c1e96f44f62b5137",
+    "CHP-MEDIA-a86cbe6d906c50b6",
+    "CHP-MEDIA-11a90d0cd79e5ba5",
+    "CHP-MEDIA-a1b82a122fb35e64",
+    "CHP-MEDIA-c3ec4c0d23a55211",
+    "CHP-MEDIA-75776741ea5951a7",
+    "CHP-MEDIA-bcc6613cca275732",
+    "CHP-MEDIA-832a4c6f13e25286",
+    "CHP-MEDIA-6b99a81d636157d9",
+    "CHP-MEDIA-b1a07a9232d1519b",
+    "CHP-MEDIA-22d456aaca475bf9",
+    "CHP-MEDIA-5444515f641b5356",
+    "CHP-MEDIA-7876191cfcde5920",
+    "CHP-MEDIA-fcbdc1dcc13153e8",
+    "CHP-MEDIA-8af6daac3c5d54c7",
+    "CHP-MEDIA-9a046d63ec4f5f5d",
+    "CHP-MEDIA-e6c7d73e32125f8f",
+    "CHP-MEDIA-a4f3fc7be4145d14",
+    "CHP-MEDIA-80ccaa31e3405f53",
+    "CHP-MEDIA-647e82b703a255ec",
+    "CHP-MEDIA-75c6538a3a805e1e",
+    "CHP-MEDIA-716166db7c5f5d82",
+    "CHP-MEDIA-466be0a60c5b52e5",
+    "CHP-MEDIA-15f42c3b1a745191",
+    "CHP-MEDIA-7cfa40c0abb950c0",
+    "CHP-MEDIA-adfbe718d8905b61",
+    "CHP-MEDIA-02152dcd89485af2",
+    "CHP-MEDIA-32bc8b9aa5d35c52",
+    "CHP-MEDIA-95b5042521865386",
+    "CHP-MEDIA-67dd17e82edd5a73",
+    "CHP-MEDIA-0f58a287509c5662",
+    "CHP-MEDIA-40d137e1288f5a36",
+    "CHP-MEDIA-ea08dfa324405b9a",
+    "CHP-MEDIA-e8ecaadecf3a5cf3",
+    "CHP-MEDIA-a09b4bb7e64e53b7"
+  ],
+  "withheld_media_ids": [
+    "CHP-MEDIA-0cf83827e6975201",
+    "CHP-MEDIA-34b041552bf45393"
+  ],
+  "assessment_records": [
+    {
+      "id": "CHP-MEDIA-abfb00fe42cf59df",
+      "title": "Nhóm C và D",
+      "status": "active",
+      "rights_status": "permission_recorded",
+      "rights_record": {
+        "assessment_date": "2026-11-04",
+        "author": "Lê Trí Công",
+        "basis": "Ảnh ghi tác giả Lê Trí Công, do tác giả cung cấp và giao đưa vào bản đồ dự án.",
+        "permission_scope": "Sử dụng trong Bản đồ Di sản Champa; không gán giấy phép mở hoặc cho phép bên thứ ba tái sử dụng.",
+        "authorship_confirmation": "Người dùng xác nhận tác giả các ảnh màu đang hiển thị: Lê Trí Công, ngày 04/11/2026."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-b057b2c755f2566f",
+      "title": "Tháp B5",
+      "status": "active",
+      "rights_status": "permission_recorded",
+      "rights_record": {
+        "assessment_date": "2026-11-04",
+        "author": "Lê Trí Công",
+        "basis": "Ảnh ghi tác giả Lê Trí Công, do tác giả cung cấp và giao đưa vào bản đồ dự án.",
+        "permission_scope": "Sử dụng trong Bản đồ Di sản Champa; không gán giấy phép mở hoặc cho phép bên thứ ba tái sử dụng.",
+        "authorship_confirmation": "Người dùng xác nhận tác giả các ảnh màu đang hiển thị: Lê Trí Công, ngày 04/11/2026."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-43f7153ffed253e1",
+      "title": "Nhóm A",
+      "status": "active",
+      "rights_status": "permission_recorded",
+      "rights_record": {
+        "assessment_date": "2026-11-04",
+        "author": "Lê Trí Công",
+        "basis": "Ảnh ghi tác giả Lê Trí Công, do tác giả cung cấp và giao đưa vào bản đồ dự án.",
+        "permission_scope": "Sử dụng trong Bản đồ Di sản Champa; không gán giấy phép mở hoặc cho phép bên thứ ba tái sử dụng.",
+        "authorship_confirmation": "Người dùng xác nhận tác giả các ảnh màu đang hiển thị: Lê Trí Công, ngày 04/11/2026."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-25e0a8abca3f5db9",
+      "title": "Tháp E7",
+      "status": "active",
+      "rights_status": "permission_recorded",
+      "rights_record": {
+        "assessment_date": "2026-11-04",
+        "author": "Lê Trí Công",
+        "basis": "Ảnh ghi tác giả Lê Trí Công, do tác giả cung cấp và giao đưa vào bản đồ dự án.",
+        "permission_scope": "Sử dụng trong Bản đồ Di sản Champa; không gán giấy phép mở hoặc cho phép bên thứ ba tái sử dụng.",
+        "authorship_confirmation": "Người dùng xác nhận tác giả các ảnh màu đang hiển thị: Lê Trí Công, ngày 04/11/2026."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-09ae99e394f35e83",
+      "title": "Tháp F1",
+      "status": "active",
+      "rights_status": "permission_recorded",
+      "rights_record": {
+        "assessment_date": "2026-11-04",
+        "author": "Lê Trí Công",
+        "basis": "Ảnh ghi tác giả Lê Trí Công, do tác giả cung cấp và giao đưa vào bản đồ dự án.",
+        "permission_scope": "Sử dụng trong Bản đồ Di sản Champa; không gán giấy phép mở hoặc cho phép bên thứ ba tái sử dụng.",
+        "authorship_confirmation": "Người dùng xác nhận tác giả các ảnh màu đang hiển thị: Lê Trí Công, ngày 04/11/2026."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-ba5d2265c8a952c9",
+      "title": "Nhóm K",
+      "status": "active",
+      "rights_status": "permission_recorded",
+      "rights_record": {
+        "assessment_date": "2026-11-04",
+        "author": "Lê Trí Công",
+        "basis": "Ảnh ghi tác giả Lê Trí Công, do tác giả cung cấp và giao đưa vào bản đồ dự án.",
+        "permission_scope": "Sử dụng trong Bản đồ Di sản Champa; không gán giấy phép mở hoặc cho phép bên thứ ba tái sử dụng.",
+        "authorship_confirmation": "Người dùng xác nhận tác giả các ảnh màu đang hiển thị: Lê Trí Công, ngày 04/11/2026."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-25e1340257035414",
+      "title": "Nhóm G",
+      "status": "active",
+      "rights_status": "permission_recorded",
+      "rights_record": {
+        "assessment_date": "2026-11-04",
+        "author": "Lê Trí Công",
+        "basis": "Ảnh ghi tác giả Lê Trí Công, do tác giả cung cấp và giao đưa vào bản đồ dự án.",
+        "permission_scope": "Sử dụng trong Bản đồ Di sản Champa; không gán giấy phép mở hoặc cho phép bên thứ ba tái sử dụng.",
+        "authorship_confirmation": "Người dùng xác nhận tác giả các ảnh màu đang hiển thị: Lê Trí Công, ngày 04/11/2026."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-e9ee65e843ae5805",
+      "title": "Nhóm H",
+      "status": "active",
+      "rights_status": "permission_recorded",
+      "rights_record": {
+        "assessment_date": "2026-11-04",
+        "author": "Lê Trí Công",
+        "basis": "Ảnh ghi tác giả Lê Trí Công, do tác giả cung cấp và giao đưa vào bản đồ dự án.",
+        "permission_scope": "Sử dụng trong Bản đồ Di sản Champa; không gán giấy phép mở hoặc cho phép bên thứ ba tái sử dụng.",
+        "authorship_confirmation": "Người dùng xác nhận tác giả các ảnh màu đang hiển thị: Lê Trí Công, ngày 04/11/2026."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-87164014115a5229",
+      "title": "Tổng mặt bằng Mỹ Sơn — Parmentier",
+      "status": "active",
+      "rights_status": "public_domain_original",
+      "rights_record": {
+        "assessment_date": "2026-11-04",
+        "original_work_status": "public_domain_under_standard_france_life_plus_70_term",
+        "author": "Henri Parmentier",
+        "death_year": 1949,
+        "basis": "INHA xác nhận năm mất 1949; Điều L123-1 quy định năm mất và 70 năm tiếp theo. Phân loại này dành cho tác phẩm gốc, không gán giấy phép CC cho bản số.",
+        "evidence_urls": [
+          "https://agorha.inha.fr/detail/684",
+          "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006278937/2026-10-29"
+        ],
+        "digital_copy_source": "Bản số do Lê Trí Công cung cấp cho dự án; ghi chú EFEO theo bản nhận được khi có.",
+        "digital_copy_license": "not_independently_verified",
+        "reuse_notice": "Ghi tác giả, số bản và nguồn bản số; không tuyên bố kho cung cấp đã cấp giấy phép mở."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-5a8a6b9b91935e76",
+      "title": "Tổng mặt bằng Trà Kiệu",
+      "status": "active",
+      "rights_status": "review_required",
+      "rights_record": {
+        "assessment_date": "2026-11-04",
+        "basis": "Đã rà thông tin nguồn hiện có; chưa đủ xác định tác giả, thời hạn hoặc giấy phép của bản số.",
+        "source_credit": "EFEO — tư liệu do Lê Trí Công cung cấp",
+        "permission_scope": "not_established",
+        "publication_status": "existing_project_material_pending_rights_review"
+      }
+    },
+    {
+      "id": "CHP-MEDIA-4ea22cae50ba59bf",
+      "title": "Mặt bằng khảo cổ Trà Kiệu",
+      "status": "active",
+      "rights_status": "review_required",
+      "rights_record": {
+        "assessment_date": "2026-11-04",
+        "basis": "Đã rà thông tin nguồn hiện có; chưa đủ xác định tác giả, thời hạn hoặc giấy phép của bản số.",
+        "source_credit": "EFEO — tư liệu do Lê Trí Công cung cấp",
+        "permission_scope": "not_established",
+        "publication_status": "existing_project_material_pending_rights_review"
+      }
+    },
+    {
+      "id": "CHP-MEDIA-2af2b6c47481529d",
+      "title": "Khai quật Trà Kiệu — VIE00642",
+      "status": "active",
+      "rights_status": "review_required",
+      "rights_record": {
+        "assessment_date": "2026-11-04",
+        "basis": "Đã rà thông tin nguồn hiện có; chưa đủ xác định tác giả, thời hạn hoặc giấy phép của bản số.",
+        "source_credit": "EFEO — tư liệu do Lê Trí Công cung cấp",
+        "permission_scope": "not_established",
+        "publication_status": "existing_project_material_pending_rights_review"
+      }
+    },
+    {
+      "id": "CHP-MEDIA-c2472bfea3d754b5",
+      "title": "Di tích khảo cổ Trà Kiệu — VIE00666",
+      "status": "active",
+      "rights_status": "review_required",
+      "rights_record": {
+        "assessment_date": "2026-11-04",
+        "basis": "Đã rà thông tin nguồn hiện có; chưa đủ xác định tác giả, thời hạn hoặc giấy phép của bản số.",
+        "source_credit": "EFEO — tư liệu do Lê Trí Công cung cấp",
+        "permission_scope": "not_established",
+        "publication_status": "existing_project_material_pending_rights_review"
+      }
+    },
+    {
+      "id": "CHP-MEDIA-c1e96f44f62b5137",
+      "title": "Nền kiến trúc Trà Kiệu — VIE00667",
+      "status": "active",
+      "rights_status": "review_required",
+      "rights_record": {
+        "assessment_date": "2026-11-04",
+        "basis": "Đã rà thông tin nguồn hiện có; chưa đủ xác định tác giả, thời hạn hoặc giấy phép của bản số.",
+        "source_credit": "EFEO — tư liệu do Lê Trí Công cung cấp",
+        "permission_scope": "not_established",
+        "publication_status": "existing_project_material_pending_rights_review"
+      }
+    },
+    {
+      "id": "CHP-MEDIA-c96dd310ffce5f6a",
+      "title": "Đài thờ Trà Kiệu",
+      "status": "active",
+      "rights_status": "permission_recorded",
+      "rights_record": {
+        "assessment_date": "2026-11-04",
+        "author": "Lê Trí Công",
+        "basis": "Ảnh ghi tác giả Lê Trí Công, do tác giả cung cấp và giao đưa vào bản đồ dự án.",
+        "permission_scope": "Sử dụng trong Bản đồ Di sản Champa; không gán giấy phép mở hoặc cho phép bên thứ ba tái sử dụng.",
+        "authorship_confirmation": "Người dùng xác nhận tác giả các ảnh màu đang hiển thị: Lê Trí Công, ngày 04/11/2026."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-f5c00c5c18f65e7d",
+      "title": "Viṣṇu Trà Kiệu",
+      "status": "active",
+      "rights_status": "permission_recorded",
+      "rights_record": {
+        "assessment_date": "2026-11-04",
+        "author": "Lê Trí Công",
+        "basis": "Ảnh ghi tác giả Lê Trí Công, do tác giả cung cấp và giao đưa vào bản đồ dự án.",
+        "permission_scope": "Sử dụng trong Bản đồ Di sản Champa; không gán giấy phép mở hoặc cho phép bên thứ ba tái sử dụng.",
+        "authorship_confirmation": "Người dùng xác nhận tác giả các ảnh màu đang hiển thị: Lê Trí Công, ngày 04/11/2026."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-07e360f3933b5700",
+      "title": "Yakṣa Trà Kiệu",
+      "status": "active",
+      "rights_status": "permission_recorded",
+      "rights_record": {
+        "assessment_date": "2026-11-04",
+        "author": "Lê Trí Công",
+        "basis": "Ảnh ghi tác giả Lê Trí Công, do tác giả cung cấp và giao đưa vào bản đồ dự án.",
+        "permission_scope": "Sử dụng trong Bản đồ Di sản Champa; không gán giấy phép mở hoặc cho phép bên thứ ba tái sử dụng.",
+        "authorship_confirmation": "Người dùng xác nhận tác giả các ảnh màu đang hiển thị: Lê Trí Công, ngày 04/11/2026."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-9971c245ceda56ff",
+      "title": "Tổng mặt bằng Đồng Dương",
+      "status": "active",
+      "rights_status": "public_domain_original",
+      "rights_record": {
+        "assessment_date": "2026-11-04",
+        "original_work_status": "public_domain_under_standard_france_life_plus_70_term",
+        "author": "Henri Parmentier",
+        "death_year": 1949,
+        "basis": "INHA xác nhận năm mất 1949; Điều L123-1 quy định năm mất và 70 năm tiếp theo. Phân loại này dành cho tác phẩm gốc, không gán giấy phép CC cho bản số.",
+        "evidence_urls": [
+          "https://agorha.inha.fr/detail/684",
+          "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006278937/2026-10-29"
+        ],
+        "digital_copy_source": "Bản số do Lê Trí Công cung cấp cho dự án; ghi chú EFEO theo bản nhận được khi có.",
+        "digital_copy_license": "not_independently_verified",
+        "reuse_notice": "Ghi tác giả, số bản và nguồn bản số; không tuyên bố kho cung cấp đã cấp giấy phép mở."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-e00434e0588b5fc7",
+      "title": "Mặt đứng đền chính Khu I — bản vẽ khảo cổ, bản CIII",
+      "status": "active",
+      "rights_status": "public_domain_original",
+      "rights_record": {
+        "assessment_date": "2026-11-04",
+        "original_work_status": "public_domain_under_standard_france_life_plus_70_term",
+        "author": "Henri Parmentier",
+        "death_year": 1949,
+        "basis": "INHA xác nhận năm mất 1949; Điều L123-1 quy định năm mất và 70 năm tiếp theo. Phân loại này dành cho tác phẩm gốc, không gán giấy phép CC cho bản số.",
+        "evidence_urls": [
+          "https://agorha.inha.fr/detail/684",
+          "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006278937/2026-10-29"
+        ],
+        "digital_copy_source": "Bản số do Lê Trí Công cung cấp cho dự án; ghi chú EFEO theo bản nhận được khi có.",
+        "digital_copy_license": "not_independently_verified",
+        "reuse_notice": "Ghi tác giả, số bản và nguồn bản số; không tuyên bố kho cung cấp đã cấp giấy phép mở."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-a86cbe6d906c50b6",
+      "title": "Tháp Trung tâm — ảnh khảo cổ năm 1902",
+      "status": "active",
+      "rights_status": "review_required",
+      "rights_record": {
+        "assessment_date": "2026-11-04",
+        "basis": "Đã rà thông tin nguồn hiện có; chưa đủ xác định tác giả, thời hạn hoặc giấy phép của bản số.",
+        "source_credit": "EFEO — AP14697, ảnh 93; niên đại theo chú thích trên bản cung cấp",
+        "permission_scope": "not_established",
+        "publication_status": "existing_project_material_pending_rights_review"
+      }
+    },
+    {
+      "id": "CHP-MEDIA-11a90d0cd79e5ba5",
+      "title": "Hộ pháp tại cổng Khu II — ảnh khảo cổ năm 1902",
+      "status": "active",
+      "rights_status": "review_required",
+      "rights_record": {
+        "assessment_date": "2026-11-04",
+        "basis": "Đã rà thông tin nguồn hiện có; chưa đủ xác định tác giả, thời hạn hoặc giấy phép của bản số.",
+        "source_credit": "EFEO — AP14751, ảnh 71; chú thích gốc còn ghi điều chỉnh tháng chụp",
+        "permission_scope": "not_established",
+        "publication_status": "existing_project_material_pending_rights_review"
+      }
+    },
+    {
+      "id": "CHP-MEDIA-a1b82a122fb35e64",
+      "title": "Tượng Phật đá ngồi buông chân — ảnh khảo cổ",
+      "status": "active",
+      "rights_status": "review_required",
+      "rights_record": {
+        "assessment_date": "2026-11-04",
+        "basis": "Đã rà thông tin nguồn hiện có; chưa đủ xác định tác giả, thời hạn hoặc giấy phép của bản số.",
+        "source_credit": "EFEO — chưa xác nhận ngày chụp của bản ảnh được cung cấp",
+        "permission_scope": "not_established",
+        "publication_status": "existing_project_material_pending_rights_review"
+      }
+    },
+    {
+      "id": "CHP-MEDIA-c3ec4c0d23a55211",
+      "title": "Khối bệ Vihāra Khu III — ảnh khảo cổ năm 1902",
+      "status": "active",
+      "rights_status": "review_required",
+      "rights_record": {
+        "assessment_date": "2026-11-04",
+        "basis": "Đã rà thông tin nguồn hiện có; chưa đủ xác định tác giả, thời hạn hoặc giấy phép của bản số.",
+        "source_credit": "EFEO — AP14731, ảnh 67; giữ nguyên chú thích về việc ghép bệ trong bảo tàng",
+        "permission_scope": "not_established",
+        "publication_status": "existing_project_material_pending_rights_review"
+      }
+    },
+    {
+      "id": "CHP-MEDIA-75776741ea5951a7",
+      "title": "Khai quật Khu I — ảnh khảo cổ năm 1902",
+      "status": "active",
+      "rights_status": "review_required",
+      "rights_record": {
+        "assessment_date": "2026-11-04",
+        "basis": "Đã rà thông tin nguồn hiện có; chưa đủ xác định tác giả, thời hạn hoặc giấy phép của bản số.",
+        "source_credit": "EFEO — AP14692, ảnh 87; tháng 10–11/1902 theo chú thích trên bản cung cấp",
+        "permission_scope": "not_established",
+        "publication_status": "existing_project_material_pending_rights_review"
+      }
+    },
+    {
+      "id": "CHP-MEDIA-5a0fc4520d2e5f82",
+      "title": "Tháp Sáng — hiện trạng với hệ chống đỡ",
+      "status": "active",
+      "rights_status": "permission_recorded",
+      "rights_record": {
+        "assessment_date": "2026-11-04",
+        "author": "Lê Trí Công",
+        "basis": "Ảnh ghi tác giả Lê Trí Công, do tác giả cung cấp và giao đưa vào bản đồ dự án.",
+        "permission_scope": "Sử dụng trong Bản đồ Di sản Champa; không gán giấy phép mở hoặc cho phép bên thứ ba tái sử dụng.",
+        "authorship_confirmation": "Người dùng xác nhận tác giả các ảnh màu đang hiển thị: Lê Trí Công, ngày 04/11/2026."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-68843e0a3683583f",
+      "title": "Đài thờ Đồng Dương Khu I (22.24) — trưng bày tại bảo tàng",
+      "status": "active",
+      "rights_status": "permission_recorded",
+      "rights_record": {
+        "assessment_date": "2026-11-04",
+        "author": "Lê Trí Công",
+        "basis": "Ảnh ghi tác giả Lê Trí Công, do tác giả cung cấp và giao đưa vào bản đồ dự án.",
+        "permission_scope": "Sử dụng trong Bản đồ Di sản Champa; không gán giấy phép mở hoặc cho phép bên thứ ba tái sử dụng.",
+        "authorship_confirmation": "Người dùng xác nhận tác giả các ảnh màu đang hiển thị: Lê Trí Công, ngày 04/11/2026."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-d182fe61c5075bc0",
+      "title": "Bệ Vihāra Khu III (22.25) và tượng Phật đá — trưng bày tại bảo tàng",
+      "status": "active",
+      "rights_status": "permission_recorded",
+      "rights_record": {
+        "assessment_date": "2026-11-04",
+        "author": "Lê Trí Công",
+        "basis": "Ảnh ghi tác giả Lê Trí Công, do tác giả cung cấp và giao đưa vào bản đồ dự án.",
+        "permission_scope": "Sử dụng trong Bản đồ Di sản Champa; không gán giấy phép mở hoặc cho phép bên thứ ba tái sử dụng.",
+        "authorship_confirmation": "Người dùng xác nhận tác giả các ảnh màu đang hiển thị: Lê Trí Công, ngày 04/11/2026."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-79b81cb0c63c5ac9",
+      "title": "Tượng nữ đồng Đồng Dương (thường gọi Tārā)",
+      "status": "active",
+      "rights_status": "permission_recorded",
+      "rights_record": {
+        "assessment_date": "2026-11-04",
+        "author": "Lê Trí Công",
+        "basis": "Ảnh ghi tác giả Lê Trí Công, do tác giả cung cấp và giao đưa vào bản đồ dự án.",
+        "permission_scope": "Sử dụng trong Bản đồ Di sản Champa; không gán giấy phép mở hoặc cho phép bên thứ ba tái sử dụng.",
+        "authorship_confirmation": "Người dùng xác nhận tác giả các ảnh màu đang hiển thị: Lê Trí Công, ngày 04/11/2026."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-c95655e62a2159d4",
+      "title": "Tờ LX · Mặt bằng ba tháp",
+      "status": "active",
+      "rights_status": "public_domain_original",
+      "rights_record": {
+        "assessment_date": "2026-11-08",
+        "author": "Henri Parmentier",
+        "basis": "Bản vẽ in năm 1909 của Henri Parmentier (mất năm 1949). Bản số người dùng cung cấp; chưa xác định đơn vị số hóa.",
+        "permission_scope": "Không gán giấy phép riêng cho bản số."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-2fccedbc6d7e5ea0",
+      "title": "Tờ LXI · Mặt đứng chính phía Đông",
+      "status": "active",
+      "rights_status": "public_domain_original",
+      "rights_record": {
+        "assessment_date": "2026-11-08",
+        "author": "Henri Parmentier",
+        "basis": "Bản vẽ in năm 1909 của Henri Parmentier (mất năm 1949). Bản số người dùng cung cấp; chưa xác định đơn vị số hóa.",
+        "permission_scope": "Không gán giấy phép riêng cho bản số."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-d088d93cfdbc50ec",
+      "title": "Toàn cảnh ba tháp Chiên Đàn",
+      "status": "active",
+      "rights_status": "permission_recorded",
+      "rights_record": {
+        "assessment_date": "2026-11-08",
+        "author": "Lê Trí Công",
+        "basis": "Gói ảnh ghi bản quyền Lê Trí Công, do người dùng cung cấp để đăng vào hồ sơ Chiên Đàn.",
+        "permission_scope": "Công bố trong Bản Đồ Di Sản Sa Huỳnh – Champa. Không gán giấy phép mở."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-2b9d47428b6258be",
+      "title": "Dải phù điêu nhân vật múa và nhạc",
+      "status": "active",
+      "rights_status": "permission_recorded",
+      "rights_record": {
+        "assessment_date": "2026-11-08",
+        "author": "Lê Trí Công",
+        "basis": "Gói ảnh ghi bản quyền Lê Trí Công, do người dùng cung cấp để đăng vào hồ sơ Chiên Đàn.",
+        "permission_scope": "Công bố trong Bản Đồ Di Sản Sa Huỳnh – Champa. Không gán giấy phép mở."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-2623d7d92d015d00",
+      "title": "Hai nhân vật múa trên phù điêu",
+      "status": "active",
+      "rights_status": "permission_recorded",
+      "rights_record": {
+        "assessment_date": "2026-11-08",
+        "author": "Lê Trí Công",
+        "basis": "Gói ảnh ghi bản quyền Lê Trí Công, do người dùng cung cấp để đăng vào hồ sơ Chiên Đàn.",
+        "permission_scope": "Công bố trong Bản Đồ Di Sản Sa Huỳnh – Champa. Không gán giấy phép mở."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-e449f1c2e77254cd",
+      "title": "Phù điêu nhân vật trong các ô kiến trúc",
+      "status": "active",
+      "rights_status": "permission_recorded",
+      "rights_record": {
+        "assessment_date": "2026-11-08",
+        "author": "Lê Trí Công",
+        "basis": "Gói ảnh ghi bản quyền Lê Trí Công, do người dùng cung cấp để đăng vào hồ sơ Chiên Đàn.",
+        "permission_scope": "Công bố trong Bản Đồ Di Sản Sa Huỳnh – Champa. Không gán giấy phép mở."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-e1958db38a4451a8",
+      "title": "Tượng linh thú đá tại di tích",
+      "status": "active",
+      "rights_status": "permission_recorded",
+      "rights_record": {
+        "assessment_date": "2026-11-08",
+        "author": "Lê Trí Công",
+        "basis": "Gói ảnh ghi bản quyền Lê Trí Công, do người dùng cung cấp để đăng vào hồ sơ Chiên Đàn.",
+        "permission_scope": "Công bố trong Bản Đồ Di Sản Sa Huỳnh – Champa. Không gán giấy phép mở."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-ba3968fcb2d3550d",
+      "title": "Cấu kiện kiến trúc trang trí hoa văn",
+      "status": "active",
+      "rights_status": "permission_recorded",
+      "rights_record": {
+        "assessment_date": "2026-11-08",
+        "author": "Lê Trí Công",
+        "basis": "Gói ảnh ghi bản quyền Lê Trí Công, do người dùng cung cấp để đăng vào hồ sơ Chiên Đàn.",
+        "permission_scope": "Công bố trong Bản Đồ Di Sản Sa Huỳnh – Champa. Không gán giấy phép mở."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-b43b59d475e15a17",
+      "title": "Bi ký Chiên Đàn – C.64",
+      "status": "active",
+      "rights_status": "permission_recorded",
+      "rights_record": {
+        "assessment_date": "2026-11-08",
+        "author": "Lê Trí Công",
+        "basis": "Gói ảnh ghi bản quyền Lê Trí Công, do người dùng cung cấp để đăng vào hồ sơ Chiên Đàn.",
+        "permission_scope": "Công bố trong Bản Đồ Di Sản Sa Huỳnh – Champa. Không gán giấy phép mở."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-d02beec484045878",
+      "title": "Tượng Gajasimha, nhìn nghiêng",
+      "status": "active",
+      "rights_status": "permission_recorded",
+      "rights_record": {
+        "assessment_date": "2026-11-08",
+        "author": "Lê Trí Công",
+        "basis": "Gói ảnh ghi bản quyền Lê Trí Công, do người dùng cung cấp để đăng vào hồ sơ Chiên Đàn.",
+        "permission_scope": "Công bố trong Bản Đồ Di Sản Sa Huỳnh – Champa. Không gán giấy phép mở."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-d2cbc79354fd5889",
+      "title": "Tượng Gajasimha, nhìn chếch từ phía trước",
+      "status": "active",
+      "rights_status": "permission_recorded",
+      "rights_record": {
+        "assessment_date": "2026-11-08",
+        "author": "Lê Trí Công",
+        "basis": "Gói ảnh ghi bản quyền Lê Trí Công, do người dùng cung cấp để đăng vào hồ sơ Chiên Đàn.",
+        "permission_scope": "Công bố trong Bản Đồ Di Sản Sa Huỳnh – Champa. Không gán giấy phép mở."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-670c602d5efc5526",
+      "title": "Bệ đá nhiều cấp dưới mái che",
+      "status": "active",
+      "rights_status": "permission_recorded",
+      "rights_record": {
+        "assessment_date": "2026-11-08",
+        "author": "Lê Trí Công",
+        "basis": "Gói ảnh ghi bản quyền Lê Trí Công, do người dùng cung cấp để đăng vào hồ sơ Chiên Đàn.",
+        "permission_scope": "Công bố trong Bản Đồ Di Sản Sa Huỳnh – Champa. Không gán giấy phép mở."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-dead5808beb15d22",
+      "title": "Phù điêu linh thú trên cấu kiện đá",
+      "status": "active",
+      "rights_status": "permission_recorded",
+      "rights_record": {
+        "assessment_date": "2026-11-08",
+        "author": "Lê Trí Công",
+        "basis": "Gói ảnh ghi bản quyền Lê Trí Công, do người dùng cung cấp để đăng vào hồ sơ Chiên Đàn.",
+        "permission_scope": "Công bố trong Bản Đồ Di Sản Sa Huỳnh – Champa. Không gán giấy phép mở."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-d0e2e125fc855e98",
+      "title": "Dải phù điêu nhân vật và linh thú",
+      "status": "active",
+      "rights_status": "permission_recorded",
+      "rights_record": {
+        "assessment_date": "2026-11-08",
+        "author": "Lê Trí Công",
+        "basis": "Gói ảnh ghi bản quyền Lê Trí Công, do người dùng cung cấp để đăng vào hồ sơ Chiên Đàn.",
+        "permission_scope": "Công bố trong Bản Đồ Di Sản Sa Huỳnh – Champa. Không gán giấy phép mở."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-9307e7aa5030509d",
+      "title": "Chi tiết hai nhân vật phù điêu",
+      "status": "active",
+      "rights_status": "permission_recorded",
+      "rights_record": {
+        "assessment_date": "2026-11-08",
+        "author": "Lê Trí Công",
+        "basis": "Gói ảnh ghi bản quyền Lê Trí Công, do người dùng cung cấp để đăng vào hồ sơ Chiên Đàn.",
+        "permission_scope": "Công bố trong Bản Đồ Di Sản Sa Huỳnh – Champa. Không gán giấy phép mở."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-68bf9ef782c45eb0",
+      "title": "Chi tiết ba nhân vật và linh thú",
+      "status": "active",
+      "rights_status": "permission_recorded",
+      "rights_record": {
+        "assessment_date": "2026-11-08",
+        "author": "Lê Trí Công",
+        "basis": "Gói ảnh ghi bản quyền Lê Trí Công, do người dùng cung cấp để đăng vào hồ sơ Chiên Đàn.",
+        "permission_scope": "Công bố trong Bản Đồ Di Sản Sa Huỳnh – Champa. Không gán giấy phép mở."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-3c9f33ead98a507d",
+      "title": "Chi tiết dải phù điêu múa",
+      "status": "active",
+      "rights_status": "permission_recorded",
+      "rights_record": {
+        "assessment_date": "2026-11-08",
+        "author": "Lê Trí Công",
+        "basis": "Gói ảnh ghi bản quyền Lê Trí Công, do người dùng cung cấp để đăng vào hồ sơ Chiên Đàn.",
+        "permission_scope": "Công bố trong Bản Đồ Di Sản Sa Huỳnh – Champa. Không gán giấy phép mở."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-f2a75ca56c785c01",
+      "title": "Dải phù điêu múa và nhân vật đứng",
+      "status": "active",
+      "rights_status": "permission_recorded",
+      "rights_record": {
+        "assessment_date": "2026-11-08",
+        "author": "Lê Trí Công",
+        "basis": "Gói ảnh ghi bản quyền Lê Trí Công, do người dùng cung cấp để đăng vào hồ sơ Chiên Đàn.",
+        "permission_scope": "Công bố trong Bản Đồ Di Sản Sa Huỳnh – Champa. Không gán giấy phép mở."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-4f2519f5086c535e",
+      "title": "Mảng phù điêu vũ nữ và nhân vật đứng",
+      "status": "active",
+      "rights_status": "permission_recorded",
+      "rights_record": {
+        "assessment_date": "2026-11-08",
+        "author": "Lê Trí Công",
+        "basis": "Gói ảnh ghi bản quyền Lê Trí Công, do người dùng cung cấp để đăng vào hồ sơ Chiên Đàn.",
+        "permission_scope": "Công bố trong Bản Đồ Di Sản Sa Huỳnh – Champa. Không gán giấy phép mở."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-e7777affdefe59c0",
+      "title": "Tượng voi đá, góc nhìn thứ nhất",
+      "status": "active",
+      "rights_status": "permission_recorded",
+      "rights_record": {
+        "assessment_date": "2026-11-08",
+        "author": "Lê Trí Công",
+        "basis": "Gói ảnh ghi bản quyền Lê Trí Công, do người dùng cung cấp để đăng vào hồ sơ Chiên Đàn.",
+        "permission_scope": "Công bố trong Bản Đồ Di Sản Sa Huỳnh – Champa. Không gán giấy phép mở."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-bc4fed80d28a589b",
+      "title": "Hoẵng",
+      "status": "active",
+      "rights_status": "permission_recorded",
+      "rights_record": {
+        "assessment_date": "2026-11-08",
+        "author": "Lê Trí Công",
+        "basis": "Gói ảnh ghi bản quyền Lê Trí Công, do người dùng cung cấp để đăng vào hồ sơ Chiên Đàn.",
+        "permission_scope": "Công bố trong Bản Đồ Di Sản Sa Huỳnh – Champa. Không gán giấy phép mở."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-bcfbf8a28fda5809",
+      "title": "Tượng voi đá, góc nhìn chính diện",
+      "status": "active",
+      "rights_status": "permission_recorded",
+      "rights_record": {
+        "assessment_date": "2026-11-08",
+        "author": "Lê Trí Công",
+        "basis": "Gói ảnh ghi bản quyền Lê Trí Công, do người dùng cung cấp để đăng vào hồ sơ Chiên Đàn.",
+        "permission_scope": "Công bố trong Bản Đồ Di Sản Sa Huỳnh – Champa. Không gán giấy phép mở."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-7106bb3d31535a9a",
+      "title": "Tượng voi đá, góc nhìn ba phần tư",
+      "status": "active",
+      "rights_status": "permission_recorded",
+      "rights_record": {
+        "assessment_date": "2026-11-08",
+        "author": "Lê Trí Công",
+        "basis": "Gói ảnh ghi bản quyền Lê Trí Công, do người dùng cung cấp để đăng vào hồ sơ Chiên Đàn.",
+        "permission_scope": "Công bố trong Bản Đồ Di Sản Sa Huỳnh – Champa. Không gán giấy phép mở."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-caebaaaa6d8c5342",
+      "title": "Cấu kiện đá hình nhiều cánh",
+      "status": "active",
+      "rights_status": "permission_recorded",
+      "rights_record": {
+        "assessment_date": "2026-11-08",
+        "author": "Lê Trí Công",
+        "basis": "Gói ảnh ghi bản quyền Lê Trí Công, do người dùng cung cấp để đăng vào hồ sơ Chiên Đàn.",
+        "permission_scope": "Công bố trong Bản Đồ Di Sản Sa Huỳnh – Champa. Không gán giấy phép mở."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-31c5a57220795cef",
+      "title": "Đài sen đá – góc nhìn thứ nhất",
+      "status": "active",
+      "rights_status": "permission_recorded",
+      "rights_record": {
+        "assessment_date": "2026-11-08",
+        "author": "Lê Trí Công",
+        "basis": "Gói ảnh ghi bản quyền Lê Trí Công, do người dùng cung cấp để đăng vào hồ sơ Chiên Đàn.",
+        "permission_scope": "Công bố trong Bản Đồ Di Sản Sa Huỳnh – Champa. Không gán giấy phép mở."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-a110ccd0973451f3",
+      "title": "Phù điêu sư tử, mã trưng bày 2.38",
+      "status": "active",
+      "rights_status": "permission_recorded",
+      "rights_record": {
+        "assessment_date": "2026-11-08",
+        "author": "Lê Trí Công",
+        "basis": "Gói ảnh ghi bản quyền Lê Trí Công, do người dùng cung cấp để đăng vào hồ sơ Chiên Đàn.",
+        "permission_scope": "Công bố trong Bản Đồ Di Sản Sa Huỳnh – Champa. Không gán giấy phép mở."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-706a838a94955c2d",
+      "title": "Phù điêu Garuḍa, mã trưng bày 2.39",
+      "status": "active",
+      "rights_status": "permission_recorded",
+      "rights_record": {
+        "assessment_date": "2026-11-08",
+        "author": "Lê Trí Công",
+        "basis": "Gói ảnh ghi bản quyền Lê Trí Công, do người dùng cung cấp để đăng vào hồ sơ Chiên Đàn.",
+        "permission_scope": "Công bố trong Bản Đồ Di Sản Sa Huỳnh – Champa. Không gán giấy phép mở."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-7f6788d4ab885270",
+      "title": "Phù điêu sư tử, mã trưng bày 2.35",
+      "status": "active",
+      "rights_status": "permission_recorded",
+      "rights_record": {
+        "assessment_date": "2026-11-08",
+        "author": "Lê Trí Công",
+        "basis": "Gói ảnh ghi bản quyền Lê Trí Công, do người dùng cung cấp để đăng vào hồ sơ Chiên Đàn.",
+        "permission_scope": "Công bố trong Bản Đồ Di Sản Sa Huỳnh – Champa. Không gán giấy phép mở."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-46a1946082aa5291",
+      "title": "Phù điêu bò thần Nandin, mã trưng bày 2.37",
+      "status": "active",
+      "rights_status": "permission_recorded",
+      "rights_record": {
+        "assessment_date": "2026-11-08",
+        "author": "Lê Trí Công",
+        "basis": "Gói ảnh ghi bản quyền Lê Trí Công, do người dùng cung cấp để đăng vào hồ sơ Chiên Đàn.",
+        "permission_scope": "Công bố trong Bản Đồ Di Sản Sa Huỳnh – Champa. Không gán giấy phép mở."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-13650bfe32cf5670",
+      "title": "Phù điêu sư tử, mã trưng bày 2.34",
+      "status": "active",
+      "rights_status": "permission_recorded",
+      "rights_record": {
+        "assessment_date": "2026-11-08",
+        "author": "Lê Trí Công",
+        "basis": "Gói ảnh ghi bản quyền Lê Trí Công, do người dùng cung cấp để đăng vào hồ sơ Chiên Đàn.",
+        "permission_scope": "Công bố trong Bản Đồ Di Sản Sa Huỳnh – Champa. Không gán giấy phép mở."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-61a2d5c735145ca0",
+      "title": "Durgā Mahiṣāsuramardinī · Chiên Đàn II",
+      "status": "active",
+      "rights_status": "permission_recorded",
+      "rights_record": {
+        "assessment_date": "2026-11-08",
+        "author": "Lê Trí Công",
+        "basis": "Gói ảnh ghi bản quyền Lê Trí Công, do người dùng cung cấp để đăng vào hồ sơ Chiên Đàn.",
+        "permission_scope": "Công bố trong Bản Đồ Di Sản Sa Huỳnh – Champa. Không gán giấy phép mở."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-bd836d4329625038",
+      "title": "Đài sen đá – góc nhìn thứ hai",
+      "status": "active",
+      "rights_status": "permission_recorded",
+      "rights_record": {
+        "assessment_date": "2026-11-08",
+        "author": "Lê Trí Công",
+        "basis": "Gói ảnh ghi bản quyền Lê Trí Công, do người dùng cung cấp để đăng vào hồ sơ Chiên Đàn.",
+        "permission_scope": "Công bố trong Bản Đồ Di Sản Sa Huỳnh – Champa. Không gán giấy phép mở."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-5e9c24628eb45cbc",
+      "title": "Pô Nagar — tổng mặt bằng và mặt bằng tháp chính",
+      "status": "active",
+      "rights_status": "not_assessed",
+      "rights_record": {}
+    },
+    {
+      "id": "CHP-MEDIA-0fd55e597ff551c2",
+      "title": "Tháp chính — hình phục dựng theo Parmentier",
+      "status": "active",
+      "rights_status": "not_assessed",
+      "rights_record": {}
+    },
+    {
+      "id": "CHP-MEDIA-b41e35f35e775f21",
+      "title": "Pô Nagar — ảnh tư liệu quần thể",
+      "status": "active",
+      "rights_status": "not_assessed",
+      "rights_record": {}
+    },
+    {
+      "id": "CHP-MEDIA-c7842453878e5d3c",
+      "title": "Tượng nữ thần chủ điện — ảnh tư liệu",
+      "status": "active",
+      "rights_status": "not_assessed",
+      "rights_record": {}
+    },
+    {
+      "id": "CHP-MEDIA-23a05ff097f75577",
+      "title": "Nandin và phù điêu Śiva — ảnh toàn cảnh",
+      "status": "active",
+      "rights_status": "not_assessed",
+      "rights_record": {}
+    },
+    {
+      "id": "CHP-MEDIA-bcd75dd2d639526f",
+      "title": "Nandin và phù điêu Śiva — ảnh cận cảnh",
+      "status": "active",
+      "rights_status": "not_assessed",
+      "rights_record": {}
+    },
+    {
+      "id": "CHP-MEDIA-a9c507e239d559a0",
+      "title": "Các trụ đá sa thạch từ phế tích Phong Lệ",
+      "status": "active",
+      "rights_status": "not_assessed",
+      "rights_record": {}
+    },
+    {
+      "id": "CHP-MEDIA-20f3eb01dc245fa9",
+      "title": "Tổng mặt bằng kiến trúc Phong Lệ — Hình 3.6",
+      "status": "active",
+      "rights_status": "not_assessed",
+      "rights_record": {}
+    },
+    {
+      "id": "CHP-MEDIA-16f16af13f555f1c",
+      "title": "Mặt bằng hố nghi lễ — Hình 3.34",
+      "status": "active",
+      "rights_status": "not_assessed",
+      "rights_record": {}
+    },
+    {
+      "id": "CHP-MEDIA-5115613011e65f0e",
+      "title": "Hố nghi lễ trong quá trình khai quật — Hình 3.32–3.33",
+      "status": "active",
+      "rights_status": "not_assessed",
+      "rights_record": {}
+    },
+    {
+      "id": "CHP-MEDIA-1a14812847045322",
+      "title": "Các hốc và tám mảnh kim loại màu vàng — Hình 3.35–3.36",
+      "status": "active",
+      "rights_status": "not_assessed",
+      "rights_record": {}
+    },
+    {
+      "id": "CHP-MEDIA-50ee1ed9b3ab5041",
+      "title": "Phù điêu Śiva Phong Lệ",
+      "status": "active",
+      "rights_status": "not_assessed",
+      "rights_record": {}
+    },
+    {
+      "id": "CHP-MEDIA-d50db0cd62e55ca9",
+      "title": "Viṣṇu Phong Lệ — ảnh 1",
+      "status": "active",
+      "rights_status": "not_assessed",
+      "rights_record": {}
+    },
+    {
+      "id": "CHP-MEDIA-e5ccbb9bce3c5075",
+      "title": "Viṣṇu Phong Lệ — ảnh 2",
+      "status": "active",
+      "rights_status": "not_assessed",
+      "rights_record": {}
+    },
+    {
+      "id": "CHP-MEDIA-ec514fc971ab536c",
+      "title": "Nandin Phong Lệ",
+      "status": "active",
+      "rights_status": "not_assessed",
+      "rights_record": {}
+    },
+    {
+      "id": "CHP-MEDIA-e59f74931844554a",
+      "title": "Sư tử Phong Lệ",
+      "status": "active",
+      "rights_status": "not_assessed",
+      "rights_record": {}
+    },
+    {
+      "id": "CHP-MEDIA-2d27f43388975b4c",
+      "title": "Voi Phong Lệ",
+      "status": "active",
+      "rights_status": "not_assessed",
+      "rights_record": {}
+    },
+    {
+      "id": "CHP-MEDIA-bcc6613cca275732",
+      "title": "Avalokiteśvara · Chutiwongs Pl.172",
+      "status": "active",
+      "rights_status": "review_required",
+      "rights_record": {
+        "underlying_work": "Chutiwongs2002",
+        "digital_copy": "Trích bản sách do Lê Trí Công cung cấp; không tự gán giấy phép."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-832a4c6f13e25286",
+      "title": "Avalokiteśvara · Chutiwongs Pl.175",
+      "status": "active",
+      "rights_status": "review_required",
+      "rights_record": {
+        "underlying_work": "Chutiwongs2002",
+        "digital_copy": "Trích bản sách do Lê Trí Công cung cấp; không tự gán giấy phép."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-18e4509d9d5757a6",
+      "title": "Khỉ — phù điêu trong sưu tập Champa",
+      "status": "active",
+      "rights_status": "not_assessed",
+      "rights_record": {}
+    },
+    {
+      "id": "CHP-MEDIA-66b0b67b5ac25576",
+      "title": "Sư tử nhân — phù điêu trong sưu tập Champa",
+      "status": "active",
+      "rights_status": "not_assessed",
+      "rights_record": {}
+    },
+    {
+      "id": "CHP-MEDIA-35cb0071f1375b04",
+      "title": "Người múa/vũ công — phù điêu thứ nhất",
+      "status": "active",
+      "rights_status": "not_assessed",
+      "rights_record": {}
+    },
+    {
+      "id": "CHP-MEDIA-8b43ea50f566534b",
+      "title": "Người múa/vũ công — phù điêu thứ hai",
+      "status": "active",
+      "rights_status": "not_assessed",
+      "rights_record": {}
+    },
+    {
+      "id": "CHP-MEDIA-2870623224b25bf0",
+      "title": "Voi — phù điêu thứ nhất",
+      "status": "active",
+      "rights_status": "not_assessed",
+      "rights_record": {}
+    },
+    {
+      "id": "CHP-MEDIA-3949f53727e95e7e",
+      "title": "Voi — phù điêu thứ hai",
+      "status": "active",
+      "rights_status": "not_assessed",
+      "rights_record": {}
+    },
+    {
+      "id": "CHP-MEDIA-89a4b7b1b1135b8a",
+      "title": "Makara — phù điêu trong sưu tập Champa",
+      "status": "active",
+      "rights_status": "not_assessed",
+      "rights_record": {}
+    },
+    {
+      "id": "CHP-MEDIA-616d5c2ed9e9511c",
+      "title": "Đạo sĩ Bà-la-môn — theo nhãn trưng bày",
+      "status": "active",
+      "rights_status": "not_assessed",
+      "rights_record": {}
+    },
+    {
+      "id": "CHP-MEDIA-e09a7553eef05bc2",
+      "title": "Đạo sĩ có râu cầm chuỗi hạt",
+      "status": "active",
+      "rights_status": "not_assessed",
+      "rights_record": {}
+    },
+    {
+      "id": "CHP-MEDIA-f608108df1315dbb",
+      "title": "Đầu tượng thần (Deva) — theo nhãn trưng bày",
+      "status": "active",
+      "rights_status": "not_assessed",
+      "rights_record": {}
+    },
+    {
+      "id": "CHP-MEDIA-00910f3788c35577",
+      "title": "Thần Sấm sét Indra — theo nhãn trưng bày",
+      "status": "active",
+      "rights_status": "not_assessed",
+      "rights_record": {}
+    },
+    {
+      "id": "CHP-MEDIA-93563d3d644a5777",
+      "title": "Tượng nam mất đầu và hai tay — thần danh chưa xác định",
+      "status": "active",
+      "rights_status": "not_assessed",
+      "rights_record": {}
+    },
+    {
+      "id": "CHP-MEDIA-34ffee6437805195",
+      "title": "Agni — theo nhãn trưng bày",
+      "status": "active",
+      "rights_status": "not_assessed",
+      "rights_record": {}
+    },
+    {
+      "id": "CHP-MEDIA-d08a6261841d57d3",
+      "title": "Đầu linh thú — cấu kiện trang trí kiến trúc",
+      "status": "active",
+      "rights_status": "not_assessed",
+      "rights_record": {}
+    },
+    {
+      "id": "CHP-MEDIA-4cc68ccc14fd538d",
+      "title": "Cấu kiện kiến trúc chạm mặt Kala",
+      "status": "active",
+      "rights_status": "not_assessed",
+      "rights_record": {}
+    },
+    {
+      "id": "CHP-MEDIA-a994e336655d548c",
+      "title": "Hình người có cánh — phù điêu trong sưu tập Champa",
+      "status": "active",
+      "rights_status": "not_assessed",
+      "rights_record": {}
+    },
+    {
+      "id": "CHP-MEDIA-d937c3196f7b51e9",
+      "title": "Garuda — phù điêu trong sưu tập Champa",
+      "status": "active",
+      "rights_status": "not_assessed",
+      "rights_record": {}
+    },
+    {
+      "id": "CHP-MEDIA-f4e3aaeb2a9d5a03",
+      "title": "Linh thú trong tư thế đứng — phù điêu trang trí",
+      "status": "active",
+      "rights_status": "not_assessed",
+      "rights_record": {}
+    },
+    {
+      "id": "CHP-MEDIA-06c2a1aff54c579e",
+      "title": "Sư tử nhân — phù điêu thứ hai",
+      "status": "active",
+      "rights_status": "not_assessed",
+      "rights_record": {}
+    },
+    {
+      "id": "CHP-MEDIA-f9d81363314c5353",
+      "title": "Hình người đứng — phù điêu trên cấu kiện đá",
+      "status": "active",
+      "rights_status": "not_assessed",
+      "rights_record": {}
+    },
+    {
+      "id": "CHP-MEDIA-164a75957fb35a41",
+      "title": "Đầu tượng — thần danh chưa xác định",
+      "status": "active",
+      "rights_status": "not_assessed",
+      "rights_record": {}
+    },
+    {
+      "id": "CHP-MEDIA-89361c15c5115f06",
+      "title": "Hamsa — phù điêu chim trên nền hoa lá",
+      "status": "active",
+      "rights_status": "not_assessed",
+      "rights_record": {}
+    },
+    {
+      "id": "CHP-MEDIA-0a85333d6ad655ed",
+      "title": "Chóp tháp góc — Bình–Trị–Thiên(?), thế kỷ XI–XII, theo nhãn",
+      "status": "active",
+      "rights_status": "not_assessed",
+      "rights_record": {}
+    },
+    {
+      "id": "CHP-MEDIA-008ce5d2352550b6",
+      "title": "Cấu kiện đá chạm mặt người",
+      "status": "active",
+      "rights_status": "not_assessed",
+      "rights_record": {}
+    },
+    {
+      "id": "CHP-MEDIA-a06abe909b225ca6",
+      "title": "Sư tử — cấu kiện đỡ kiến trúc",
+      "status": "active",
+      "rights_status": "not_assessed",
+      "rights_record": {}
+    },
+    {
+      "id": "CHP-MEDIA-4a427dbf82785775",
+      "title": "Liṅga–yoni trong không gian trưng bày",
+      "status": "active",
+      "rights_status": "not_assessed",
+      "rights_record": {}
+    },
+    {
+      "id": "CHP-MEDIA-2cdd5afb0fc755da",
+      "title": "Liṅga ba phần trong không gian trưng bày",
+      "status": "active",
+      "rights_status": "not_assessed",
+      "rights_record": {}
+    },
+    {
+      "id": "CHP-MEDIA-6b99a81d636157d9",
+      "title": "Tổng mặt bằng Thành Lồi (Huế)",
+      "status": "active",
+      "rights_status": "review_required",
+      "rights_record": {
+        "source": "Ảnh trích dẫn do người dùng cung cấp",
+        "credit_basis": "Chú thích in dưới Sơ đồ 7",
+        "scope": "Hồ sơ Thành Lồi trên bản đồ và Bách khoa"
+      }
+    },
+    {
+      "id": "CHP-MEDIA-ec4ac92e498e50da",
+      "title": "Hình 38 · Bình đồ và mặt đứng bắc Chót Mạt",
+      "status": "active",
+      "rights_status": "public_domain_original",
+      "rights_record": {
+        "assessment_date": "2026-11-10",
+        "original_work_status": "public_domain_under_standard_france_life_plus_70_term",
+        "author": "Henri Parmentier",
+        "death_year": 1949,
+        "basis": "INHA xác nhận năm mất 1949; Điều L123-1 quy định năm mất và 70 năm tiếp theo. Phân loại này dành cho tác phẩm gốc, không gán giấy phép CC cho bản số.",
+        "evidence_urls": [
+          "https://agorha.inha.fr/detail/684",
+          "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006278937/2026-10-29"
+        ],
+        "digital_copy_source": "Hai bản quét JPEG từ BEFEO, do Lê Trí Công cung cấp ngày 10/11/2026.",
+        "digital_copy_license": "not_independently_verified",
+        "reuse_notice": "Ghi tác giả, số bản và nguồn bản số; không tuyên bố kho cung cấp đã cấp giấy phép mở."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-3a8ff79e74fc56eb",
+      "title": "Hình 39 · Biên dạng Chót Mạt và tư liệu đối chiếu",
+      "status": "active",
+      "rights_status": "public_domain_original",
+      "rights_record": {
+        "assessment_date": "2026-11-10",
+        "original_work_status": "public_domain_under_standard_france_life_plus_70_term",
+        "author": "Henri Parmentier",
+        "death_year": 1949,
+        "basis": "INHA xác nhận năm mất 1949; Điều L123-1 quy định năm mất và 70 năm tiếp theo. Phân loại này dành cho tác phẩm gốc, không gán giấy phép CC cho bản số.",
+        "evidence_urls": [
+          "https://agorha.inha.fr/detail/684",
+          "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006278937/2026-10-29"
+        ],
+        "digital_copy_source": "Hai bản quét JPEG từ BEFEO, do Lê Trí Công cung cấp ngày 10/11/2026.",
+        "digital_copy_license": "not_independently_verified",
+        "reuse_notice": "Ghi tác giả, số bản và nguồn bản số; không tuyên bố kho cung cấp đã cấp giấy phép mở."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-0ca84054ffc050e9",
+      "title": "Bản XXXVIII, nửa trái · Mặt đứng bên và phần trái mặt bằng tháp nam, trước can thiệp của Mauger",
+      "status": "active",
+      "rights_status": "not_assessed",
+      "rights_record": {}
+    },
+    {
+      "id": "CHP-MEDIA-415c1fbfeb5959e7",
+      "title": "Bản XXXVIII, nửa phải",
+      "status": "active",
+      "rights_status": "not_assessed",
+      "rights_record": {}
+    },
+    {
+      "id": "CHP-MEDIA-163fda7988425f6c",
+      "title": "Hình 9, tr",
+      "status": "active",
+      "rights_status": "not_assessed",
+      "rights_record": {}
+    },
+    {
+      "id": "CHP-MEDIA-4c19cbc98f325434",
+      "title": "Hình 23, tr",
+      "status": "active",
+      "rights_status": "not_assessed",
+      "rights_record": {}
+    },
+    {
+      "id": "CHP-MEDIA-23572e502cf2521b",
+      "title": "Hình 36, tr",
+      "status": "active",
+      "rights_status": "not_assessed",
+      "rights_record": {}
+    },
+    {
+      "id": "CHP-MEDIA-f0108a332e0a5e0c",
+      "title": "Bản CI · Tổng mặt bằng Pràsàt Aňkuň tại Prei Četr, gồm tháp A, tháp B, cổng và hào",
+      "status": "active",
+      "rights_status": "not_assessed",
+      "rights_record": {}
+    },
+    {
+      "id": "CHP-MEDIA-71aa7a65c8ec5863",
+      "title": "Bản CII",
+      "status": "active",
+      "rights_status": "not_assessed",
+      "rights_record": {}
+    },
+    {
+      "id": "CHP-MEDIA-51547737d69b58c3",
+      "title": "Bản CIVa",
+      "status": "active",
+      "rights_status": "not_assessed",
+      "rights_record": {}
+    },
+    {
+      "id": "CHP-MEDIA-316e18d27cc75058",
+      "title": "Bản XIV B",
+      "status": "active",
+      "rights_status": "not_assessed",
+      "rights_record": {}
+    },
+    {
+      "id": "CHP-MEDIA-dbfc9b47f3315b98",
+      "title": "Hình 40 · Mặt bằng Leach-veng",
+      "status": "active",
+      "rights_status": "not_assessed",
+      "rights_record": {}
+    },
+    {
+      "id": "CHP-MEDIA-80e686ce71fa5d02",
+      "title": "Hình 39M · Biên dạng Leach-veng",
+      "status": "active",
+      "rights_status": "not_assessed",
+      "rights_record": {}
+    },
+    {
+      "id": "CHP-MEDIA-e5ffe1acb27051fd",
+      "title": "Hình 39 · Thước tỷ lệ dùng kèm biên dạng M",
+      "status": "active",
+      "rights_status": "not_assessed",
+      "rights_record": {}
+    },
+    {
+      "id": "CHP-MEDIA-f78c130abfb851b6",
+      "title": "Hình 39E, tr",
+      "status": "active",
+      "rights_status": "not_assessed",
+      "rights_record": {}
+    },
+    {
+      "id": "CHP-MEDIA-204b6c7f65165320",
+      "title": "Hình 39F, tr",
+      "status": "active",
+      "rights_status": "not_assessed",
+      "rights_record": {}
+    },
+    {
+      "id": "CHP-MEDIA-61dcf22837835539",
+      "title": "Hình 44, tr",
+      "status": "active",
+      "rights_status": "not_assessed",
+      "rights_record": {}
+    },
+    {
+      "id": "CHP-MEDIA-a73e666f9559557f",
+      "title": "Hình 45 · Mặt bằng Tiên Thuận số 2",
+      "status": "active",
+      "rights_status": "not_assessed",
+      "rights_record": {}
+    },
+    {
+      "id": "CHP-MEDIA-f1d3abc5444953bf",
+      "title": "Hình 46, tr",
+      "status": "active",
+      "rights_status": "not_assessed",
+      "rights_record": {}
+    },
+    {
+      "id": "CHP-MEDIA-50ef73f51cdd53b4",
+      "title": "Hình 39B, tr",
+      "status": "active",
+      "rights_status": "not_assessed",
+      "rights_record": {}
+    },
+    {
+      "id": "CHP-MEDIA-883f51e6fc0151ac",
+      "title": "Hình 42 · Tượng tìm tại Thanh Điền",
+      "status": "active",
+      "rights_status": "not_assessed",
+      "rights_record": {}
+    },
+    {
+      "id": "CHP-MEDIA-443f08869898592d",
+      "title": "Hình 37, tr",
+      "status": "active",
+      "rights_status": "not_assessed",
+      "rights_record": {}
+    },
+    {
+      "id": "CHP-MEDIA-9c2a270f6d2c53b4",
+      "title": "Hình 43 · Mặt bằng Bùng Bình",
+      "status": "active",
+      "rights_status": "not_assessed",
+      "rights_record": {}
+    },
+    {
+      "id": "CHP-MEDIA-70c1067aad105229",
+      "title": "Hình 39C, tr",
+      "status": "active",
+      "rights_status": "not_assessed",
+      "rights_record": {}
+    },
+    {
+      "id": "CHP-MEDIA-8480b39814175f26",
+      "title": "Hình 39L, tr",
+      "status": "active",
+      "rights_status": "not_assessed",
+      "rights_record": {}
+    },
+    {
+      "id": "CHP-MEDIA-b1a07a9232d1519b",
+      "title": "Mặt bằng toàn khu năm 1925",
+      "status": "active",
+      "rights_status": "review_required",
+      "rights_record": {
+        "underlying_work": "Bản công bố lịch sử 1925–1926; ghi tác giả và xuất xứ từng tờ.",
+        "digital_copy": "Bản quét do Lê Trí Công cung cấp; không tự gán giấy phép CC cho bản ảnh."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-22d456aaca475bf9",
+      "title": "Mặt bằng phần giữa và phía tây, tháng 6/1926",
+      "status": "active",
+      "rights_status": "review_required",
+      "rights_record": {
+        "underlying_work": "Bản công bố lịch sử 1925–1926; ghi tác giả và xuất xứ từng tờ.",
+        "digital_copy": "Bản quét do Lê Trí Công cung cấp; không tự gán giấy phép CC cho bản ảnh."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-5444515f641b5356",
+      "title": "Phật đứng bằng đồng",
+      "status": "active",
+      "rights_status": "review_required",
+      "rights_record": {
+        "underlying_work": "Bản công bố lịch sử 1925–1926; ghi tác giả và xuất xứ từng tờ.",
+        "digital_copy": "Bản quét do Lê Trí Công cung cấp; không tự gán giấy phép CC cho bản ảnh."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-7876191cfcde5920",
+      "title": "Lokeśvara đồng và tượng sa thạch",
+      "status": "active",
+      "rights_status": "review_required",
+      "rights_record": {
+        "underlying_work": "Bản công bố lịch sử 1925–1926; ghi tác giả và xuất xứ từng tờ.",
+        "digital_copy": "Bản quét do Lê Trí Công cung cấp; không tự gán giấy phép CC cho bản ảnh."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-fcbdc1dcc13153e8",
+      "title": "Mảnh tượng đồng mạ vàng và đồ thờ",
+      "status": "active",
+      "rights_status": "review_required",
+      "rights_record": {
+        "underlying_work": "Bản công bố lịch sử 1925–1926; ghi tác giả và xuất xứ từng tờ.",
+        "digital_copy": "Bản quét do Lê Trí Công cung cấp; không tự gán giấy phép CC cho bản ảnh."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-8af6daac3c5d54c7",
+      "title": "Hai cạnh vòi máng có minh văn",
+      "status": "active",
+      "rights_status": "review_required",
+      "rights_record": {
+        "underlying_work": "Bản công bố lịch sử 1925–1926; ghi tác giả và xuất xứ từng tờ.",
+        "digital_copy": "Bản quét do Lê Trí Công cung cấp; không tự gán giấy phép CC cho bản ảnh."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-9a046d63ec4f5f5d",
+      "title": "Các mảnh hiện vật trong đất đổ tháp Bắc",
+      "status": "active",
+      "rights_status": "review_required",
+      "rights_record": {
+        "underlying_work": "Bản công bố lịch sử 1925–1926; ghi tác giả và xuất xứ từng tờ.",
+        "digital_copy": "Bản quét do Lê Trí Công cung cấp; không tự gán giấy phép CC cho bản ảnh."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-e6c7d73e32125f8f",
+      "title": "Lá vàng và vật trung tâm của nhóm tháp Bắc",
+      "status": "active",
+      "rights_status": "review_required",
+      "rights_record": {
+        "underlying_work": "Bản công bố lịch sử 1925–1926; ghi tác giả và xuất xứ từng tờ.",
+        "digital_copy": "Bản quét do Lê Trí Công cung cấp; không tự gán giấy phép CC cho bản ảnh."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-a4f3fc7be4145d14",
+      "title": "Nhóm đồ tháp Bắc được bày để chụp",
+      "status": "active",
+      "rights_status": "review_required",
+      "rights_record": {
+        "underlying_work": "Bản công bố lịch sử 1925–1926; ghi tác giả và xuất xứ từng tờ.",
+        "digital_copy": "Bản quét do Lê Trí Công cung cấp; không tự gán giấy phép CC cho bản ảnh."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-80ccaa31e3405f53",
+      "title": "Bốn bình đất và các vật chứa, tháp Bắc",
+      "status": "active",
+      "rights_status": "review_required",
+      "rights_record": {
+        "underlying_work": "Bản công bố lịch sử 1925–1926; ghi tác giả và xuất xứ từng tờ.",
+        "digital_copy": "Bản quét do Lê Trí Công cung cấp; không tự gán giấy phép CC cho bản ảnh."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-647e82b703a255ec",
+      "title": "Bảy bình kim loại nhỏ, tháp Bắc",
+      "status": "active",
+      "rights_status": "review_required",
+      "rights_record": {
+        "underlying_work": "Bản công bố lịch sử 1925–1926; ghi tác giả và xuất xứ từng tờ.",
+        "digital_copy": "Bản quét do Lê Trí Công cung cấp; không tự gán giấy phép CC cho bản ảnh."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-75c6538a3a805e1e",
+      "title": "Hai khối thạch anh trong hốc tháp Bắc",
+      "status": "active",
+      "rights_status": "review_required",
+      "rights_record": {
+        "underlying_work": "Bản công bố lịch sử 1925–1926; ghi tác giả và xuất xứ từng tờ.",
+        "digital_copy": "Bản quét do Lê Trí Công cung cấp; không tự gán giấy phép CC cho bản ảnh."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-716166db7c5f5d82",
+      "title": "Nhóm đồ ký thác tháp Nam",
+      "status": "active",
+      "rights_status": "review_required",
+      "rights_record": {
+        "underlying_work": "Bản công bố lịch sử 1925–1926; ghi tác giả và xuất xứ từng tờ.",
+        "digital_copy": "Bản quét do Lê Trí Công cung cấp; không tự gán giấy phép CC cho bản ảnh."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-466be0a60c5b52e5",
+      "title": "Chi tiết vật trung tâm, tháp Nam",
+      "status": "active",
+      "rights_status": "review_required",
+      "rights_record": {
+        "underlying_work": "Bản công bố lịch sử 1925–1926; ghi tác giả và xuất xứ từng tờ.",
+        "digital_copy": "Bản quét do Lê Trí Công cung cấp; không tự gán giấy phép CC cho bản ảnh."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-15f42c3b1a745191",
+      "title": "Bảy bình kim loại nhỏ và vật chứa, tháp Nam",
+      "status": "active",
+      "rights_status": "review_required",
+      "rights_record": {
+        "underlying_work": "Bản công bố lịch sử 1925–1926; ghi tác giả và xuất xứ từng tờ.",
+        "digital_copy": "Bản quét do Lê Trí Công cung cấp; không tự gán giấy phép CC cho bản ảnh."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-7cfa40c0abb950c0",
+      "title": "Khuyên tai vàng tháp Nam: hình vẽ năm 1926",
+      "status": "active",
+      "rights_status": "review_required",
+      "rights_record": {
+        "underlying_work": "L. Aurousseau, BEFEO 1926, tr. 362, hình 2.",
+        "digital_copy": "Trích bản quét do Lê Trí Công cung cấp; không tự gán giấy phép CC."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-adfbe718d8905b61",
+      "title": "Avalokiteśvara · Chutiwongs Pl.169",
+      "status": "active",
+      "rights_status": "review_required",
+      "rights_record": {
+        "underlying_work": "Chutiwongs2002",
+        "digital_copy": "Trích bản sách do Lê Trí Công cung cấp; không tự gán giấy phép."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-02152dcd89485af2",
+      "title": "Avalokiteśvara · Chutiwongs Pl.162",
+      "status": "active",
+      "rights_status": "review_required",
+      "rights_record": {
+        "underlying_work": "Chutiwongs 2002",
+        "digital_copy": "Trích bản sách do Lê Trí Công cung cấp; quyền bản số chưa kiểm."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-32bc8b9aa5d35c52",
+      "title": "Avalokiteśvara · Chutiwongs Pl.163",
+      "status": "active",
+      "rights_status": "review_required",
+      "rights_record": {
+        "underlying_work": "Chutiwongs 2002",
+        "digital_copy": "Trích bản sách do Lê Trí Công cung cấp; quyền bản số chưa kiểm."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-95b5042521865386",
+      "title": "Avalokiteśvara · Chutiwongs Pl.164",
+      "status": "active",
+      "rights_status": "review_required",
+      "rights_record": {
+        "underlying_work": "Chutiwongs 2002",
+        "digital_copy": "Trích bản sách do Lê Trí Công cung cấp; quyền bản số chưa kiểm."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-67dd17e82edd5a73",
+      "title": "Avalokiteśvara · Chutiwongs Pl.165",
+      "status": "active",
+      "rights_status": "review_required",
+      "rights_record": {
+        "underlying_work": "Chutiwongs 2002",
+        "digital_copy": "Trích bản sách do Lê Trí Công cung cấp; quyền bản số chưa kiểm."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-0f58a287509c5662",
+      "title": "Avalokiteśvara · Chutiwongs Pl.166",
+      "status": "active",
+      "rights_status": "review_required",
+      "rights_record": {
+        "underlying_work": "Chutiwongs 2002",
+        "digital_copy": "Trích bản sách do Lê Trí Công cung cấp; quyền bản số chưa kiểm."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-40d137e1288f5a36",
+      "title": "Avalokiteśvara · Chutiwongs Pl.170",
+      "status": "active",
+      "rights_status": "review_required",
+      "rights_record": {
+        "underlying_work": "Chutiwongs 2002",
+        "digital_copy": "Trích bản sách do Lê Trí Công cung cấp; quyền bản số chưa kiểm."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-ea08dfa324405b9a",
+      "title": "Avalokiteśvara · Chutiwongs Pl.171",
+      "status": "active",
+      "rights_status": "review_required",
+      "rights_record": {
+        "underlying_work": "Chutiwongs 2002",
+        "digital_copy": "Trích bản sách do Lê Trí Công cung cấp; quyền bản số chưa kiểm."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-e8ecaadecf3a5cf3",
+      "title": "Avalokiteśvara · Chutiwongs Pl.173",
+      "status": "active",
+      "rights_status": "review_required",
+      "rights_record": {
+        "underlying_work": "Chutiwongs 2002",
+        "digital_copy": "Trích bản sách do Lê Trí Công cung cấp; quyền bản số chưa kiểm."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-a09b4bb7e64e53b7",
+      "title": "Avalokiteśvara · Chutiwongs Pl.177",
+      "status": "active",
+      "rights_status": "review_required",
+      "rights_record": {
+        "underlying_work": "Chutiwongs 2002",
+        "digital_copy": "Trích bản sách do Lê Trí Công cung cấp; quyền bản số chưa kiểm."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-0cf83827e6975201",
+      "title": "Tổng mặt bằng khu tháp trung tâm Mỹ Sơn",
+      "status": "retired",
+      "rights_status": "permission_pending",
+      "rights_record": {
+        "assessment_date": "2026-11-04",
+        "publication_status": "withheld",
+        "basis": "Tư liệu hiện đại của bên thứ ba; chưa có phép công bố được ghi nhận."
+      }
+    },
+    {
+      "id": "CHP-MEDIA-34b041552bf45393",
+      "title": "Tổng mặt bằng khu tháp trung tâm — Ban quản lý Mỹ Sơn",
+      "status": "retired",
+      "rights_status": "permission_pending",
+      "rights_record": {
+        "assessment_date": "2026-11-04",
+        "publication_status": "withheld",
+        "basis": "Tư liệu hiện đại của bên thứ ba; chưa có phép công bố được ghi nhận."
+      }
+    }
+  ]
+}

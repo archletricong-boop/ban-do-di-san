@@ -1,0 +1,454 @@
+﻿place_id,place_name,assessment_status,condition,risk_level,observed_at,hazards,interventions,source_ids,note
+my-son,Mỹ Sơn,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+tra-kieu,Trà Kiệu,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+dong-duong,Đồng Dương,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+bao-tang-dieu-khac-cham,Bảo tàng Điêu khắc Chăm Đà Nẵng,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+bang-an,Bằng An,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+khuong-my,Khương Mỹ,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+chien-dan,Chiên Đàn,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+khue-trung,Khuê Trung,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+duong-long,Dương Long,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+hoa-lai,Hòa Lai,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+po-klong-garai,Pô Klong Garai,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+thap-nhan,Tháp Nhạn,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+po-nagar,Tháp Bà Pô Nagar,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+thanh-hoa-chau,Hóa Châu,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+thanh-phu-oc,Phú Ốc,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+thanh-uan-ao,Uẩn Áo,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+thanh-co-luy-quang-tri,Cổ Lũy (Quảng Trị),not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+co-luy-phu-tho,Cổ Lũy – Phú Thọ,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+thanh-chau-sa,Thành Châu Sa,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+thanh-do-ban,Thành Đồ Bàn,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+thanh-ho,Thành Hồ,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+thanh-song-luy,Sông Lũy,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+kmz-gps-0076,Xuân Dương,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+kmz-gps-0085,An Sơn,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+kmz-gps-0089,Miếu Thuận An,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+kmz-gps-0092,Linh Ứng–Ngũ Hành Sơn,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+kmz-gps-0093,Phong Lệ,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+kmz-gps-0102,Đình Dương Lâm,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+kmz-gps-0103,Gò Giảng,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+kmz-gps-0104,Bồ Bản,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+kmz-gps-0105,Gò Cấm Mít,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+kmz-gps-0106,Cẩm Toại,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+kmz-gps-0111,Quá Giáng,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+kmz-gps-0175,Triền Tranh,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+kmz-gps-0192,Gò Cấm–Duy Trung,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+kmz-gps-0203,Hương Quế,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+kmz-gps-0205,Tĩnh Yên,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+kmz-gps-0217,Hà Lam,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+kmz-gps-0246,Rừng Ông Nay,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+kmz-gps-0262,"Phú Hưng (Tam Xuân 1, Núi Thành)",not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+kmz-gps-0327,Yang Prong,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+kmz-gps-0332,Bang Keng,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+kmz-gps-0396,Pô Rômê,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+kmz-gps-0402,Pô Dam,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+kmz-gps-0405,Po Kabrah,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+kmz-gps-0426,Pô Sah Inư,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+kmz-gps-0486,Phú Lốc,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+kmz-gps-0487,Tháp Đại Hữu,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+kmz-gps-0490,Châu Thành,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+kmz-gps-0492,Tháp Mẫm,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+kmz-gps-0493,Thập Tháp,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+kmz-gps-0496,Cánh Tiên,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+kmz-gps-0506,Rừng Cấm,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+kmz-gps-0507,Gò Tháp Lai Nghi,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+kmz-gps-0509,Thủ Thiện,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+kmz-gps-0511,An Hòa,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+kmz-gps-0512,Bình Lâm,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+kmz-gps-0515,Khánh Lễ,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+kmz-gps-0516,Chà Rây,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+kmz-gps-0517,Thành Cha,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+kmz-gps-0519,Long Triều,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+kmz-gps-0520,Bánh Ít,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+kmz-gps-0521,Xuân Mỹ,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+kmz-gps-0525,Tháp Đôi,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-001,Gò Tây An,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-002,Gò Bờ Rang,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-003,Gò Mả Vôi,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-004,Gò Miếu Ông,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-006,Thôn Tư,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-007,Núi Vàng — địa điểm khảo cổ,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-008,Gò Nhạn,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-027,Gò Miếu Ông,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-032,Gò Nỗng Trang,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-047,Gò Dừa,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-048,Dinh Ông,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-049,Vườn nhà ông Mười Linh,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-055,Gò Ngoài,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-059,Gò Đình (Di tích Đại Lãnh),not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-060,Đình Tịnh Tây,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-061,"Gò Thể, thôn Hà Dục Đông",not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-062,Miếu làng Lập Phước (Gò Đình),not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-063,Đình Lâm Tây,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-064,Gò Gạo,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-067,Đồi vàng,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-070,Bình Yên,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-072,Vườn Đình,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-073,Vườn nhà chú Tú cô Phượng,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-074,Quế Lộc,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-075,Vườn nhà ông Nguyễn Liễn,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-076,Gò Chùa,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-077,Thạch Bích,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-078,Khe đất đỏ,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-080,Dốc Bạc Lở,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-081,Khe Nà Trương,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-082,Khe Chùa,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-083,Gò Xoài - vườn nhà ông Đội,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-084,Vườn Mía ông Tâm,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-085,Thác Ông Xuân,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-086,Bến Đình,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-087,Thổ Chùa,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-088,Gò Đồn,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-089,Cầu Khe Cú,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-090,Vườn ông Đặng Văn Thường,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-091,Vườn Nguyễn Phó,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-092,Nhà bà Nguyễn Thị Sửu,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-093,Nhà ông Lê Lan,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-094,Trà Linh,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-095,Vườn Đội,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-096,Trống đồng Phước Gia,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-097,Hố Bà Đằng,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-147,Bàu Nê,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-149,Bàu Trám,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-150,Đồng Cây Lội,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-151,Gò Cam,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-155,Gò Dẽ,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-156,Tam Mỹ,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-157,Ao Bà Siêu,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-158,Ao Bà Vàng,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-159,Phú Hoà,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-181,Di tích Tiên Mỹ,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-182,Vườn Tàng,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-183,Gò Miếu,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-186,Sơn Cẩm Hà,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-187,Gò Quảng,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-189,Tổ Mậu Long ks,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-190,Bãi Dài,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-191,Cầu nước Oa,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-196,Địa điểm mộ chum thôn Đa Hoà Bắc,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-199,Lai Nghi,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-215,Mã não xã Ating,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-218,Thạnh Mỹ,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-219,Đồng Râm,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-220,Pa Xua,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-223,Pà Roong,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-230,Di tích An Bang,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-232,Tràng Sỏi,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-234,Thanh Chiếm,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-236,Ruộng đồng cao,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-237,Hậu Xá 1,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-238,Hậu xá 2,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-239,Xuân Lâm,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-245,Bãi ông,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ky2026-267,Vườn Đình Khuê Bắc,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+canh-quan-gps-0016,Đỉnh Voi Mẹp 1700,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+canh-quan-gps-0062,Núi Ngự Bình,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+canh-quan-gps-0067,Núi kim Phụng,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+canh-quan-gps-0070,Đỉnh Bạch Mã 1500,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+canh-quan-gps-0075,Đỉnh Sơn Chà,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+canh-quan-gps-0097,Bà Nà - Núi Chúa,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+canh-quan-gps-0108,Hòn Lá,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+canh-quan-gps-0119,Cù Lao Chàm,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+canh-quan-gps-0142,Núi Lở,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+canh-quan-gps-0186,Hòn Ông,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+canh-quan-gps-0191,Núi Vàng,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+canh-quan-gps-0199,Núi Đất,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+canh-quan-gps-0201,Hòn Cóc,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+canh-quan-gps-0207,Núi Quế,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+canh-quan-gps-0216,Đỉnh Răng Mèo,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+canh-quan-gps-0250,Chóp Chài,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+canh-quan-gps-0275,"Núi Kẽm , Bồng Miêu",not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+canh-quan-gps-0276,Cù Lao Ré,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+canh-quan-gps-0277,Hòn Ré ( Lý Sơn ),not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+canh-quan-gps-0291,Hòn Mê,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+canh-quan-gps-0294,Sông Lạc Giang,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+canh-quan-gps-0304,Núi Co Preu,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+canh-quan-gps-0306,Núi Thần Đinh,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+canh-quan-gps-0310,Đảo Cồn Cỏ,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+canh-quan-gps-0330,Chóp Chài ( Phú Yên ),not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+canh-quan-gps-0331,Núi Mò O ( Phú Yên ),not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+canh-quan-gps-0340,Hòn Bà - Phú Yên,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+canh-quan-gps-0341,Núi Đá Bia,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+canh-quan-gps-0345,Đỉnh Chu Mu ( Vọng phu ),not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+canh-quan-gps-0348,Núi Chúa,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+canh-quan-gps-0349,Hòn Dung,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+canh-quan-gps-0373,Núi Bà Rá,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+canh-quan-gps-0378,Núi Cà Đú,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+canh-quan-gps-0386,Núi Đá Trắng,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+canh-quan-gps-0401,Núi Bà Đen,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+canh-quan-gps-0419,Núi Ông,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+canh-quan-gps-0424,Núi Chứa Chan,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+canh-quan-gps-0430,Núi Tà Kú,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+canh-quan-gps-0453,Núi Chồi,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+canh-quan-gps-0463,Núi Thiên Bút,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+canh-quan-gps-0464,Đỉnh Ngọc Linh,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+canh-quan-gps-0466,Núi Một,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+canh-quan-gps-0478,Đầm Trà Ô,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+canh-quan-gps-0480,Vịnh Nước Ngọt,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+canh-quan-gps-0482,Tháp Hòn Chuông,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+canh-quan-gps-0524,Núi xương cá,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+canh-quan-gps-0530,Đỉnh Vân Canh,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+canh-quan-gps-0539,Núi Chúa (Ninh Thuận),not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+bao-tang-lich-su-tphcm,Bảo tàng Lịch sử Thành phố Hồ Chí Minh,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-qn001,Chánh Lộ – khu chính,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-qn002,Chánh Lộ – điểm cách khu chính 1 km tây bắc,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-qn003,Núi Bút / Thiên Bút,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-qn004,Khánh Vân / Núi Tháp,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-qn005,Gò Tháp (Nghĩa Kỳ),not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-qn006,Phú Hòa,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-qn007,Tiên Đào,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-qn008,Giao Thủy,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-qn009,Long Giang,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-qn010,Tiên Phước,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-qn011,Núi Ông / Núi Dơi,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-qn012,Cầu Đá / Digue de Cầu Đá,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-qn013,Chỉ Trung / Núi Một,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-qn014,Văn Trường Tây,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-qn015,An Ninh,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-qn016,Van Bang (chưa chuẩn hóa dấu),not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-qn017,Bồ Đề – địa điểm 1,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-qn018,Bồ Đề – địa điểm 2 / miếu Ganesa,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-qn019,An Đại,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-qn020,An Hội,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-qn021,Phú Thọ – đền trên gò,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-qn022,Thành Cổ Lũy,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-qn024,Bàn Cờ (Cổ Lũy),not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-qn026,Phước Lâm,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-qn027,An Mỹ,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-qn028,Diên Phước,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-qn029,Đông Phúc – gò lớn,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-qn030,Đông Phúc – gò nhỏ,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-qn031,Phú Lộc,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-qn032,Trì Bình,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-qn033,"Chùa Hang, Cù Lao Ré / Cù Lao Rày",not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-qn034,"Giếng Tiên, Cù Lao Ré (tên nguồn)",not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-qn035,Bến Ván – bể phía nam,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-qn036,Long Bình – bể có gò gạch,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-qn037,An Tập,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-qn038,Gò Phố,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-qn039,Núi Chồi,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-qn040,"Khu lò nung Châu Sa, khai quật 2026",not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-qn041,Hòn Yàng / Hòn Vàng,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-qn042,Tháp Núi Một (tên kiểm kê hiện đại),not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-qn043,Tháp Gò Đá,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-qn044,Miếu Champa (quần thể Sa Huỳnh),not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-qn045,Bia ký Vũng Bàng,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-qn046,Hệ thống giếng Champa Sa Huỳnh,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-qn047,Đường xếp đá cổ Sa Huỳnh,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-qn048,Mương dẫn nước cổ Sa Huỳnh,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-qn049,Giếng Xó La / giếng Vua,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-qn050,Bia Châu Sa – C.61,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-sh001,Di tích khảo cổ Văn hóa Sa Huỳnh – quần thể,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-sh002,Long Thạnh / Gò Ma Vương,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-sh003,Phú Khương – khu mộ,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-sh004,Thạnh Đức / Thanh Đức (biến thể),not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-sh005,Đầm An Khê,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-sh006,Lạch An Khê – sông Cửa Lỗ,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-sh007,Quần thể Champa trong không gian Sa Huỳnh,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-sh008,Bình Châu I,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-sh009,Bình Châu II,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-sh010,Gò Quê,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-sh011,Xóm Ốc,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-sh012,Suối Chình,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-sh013,Núi Sứa,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-sh014,Gò Kim,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-sh015,Cụm khảo cổ lòng hồ Nước Trong / sông Tang,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-sh016,Trà Veo 2,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-sh017,Trà Veo 3,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-sh018,Thôn Tre 1,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-sh019,Thôn Tre 2,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-sh020,Thôn Tre 4,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-sh022,Gò Vàng / Gò Văng (chưa đồng nhất),not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-sh023,Gò Quánh / Gò Quách (chưa đồng nhất),not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-sh024,Gò Đình,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-sh025,Gò Mới,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-sh026,Gò Nà / Gò Đập Nà (chưa đồng nhất),not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-sh027,Vườn Chỉ / Vườn Chị (biến thể OCR),not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-sh028,Đình Cũ,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-sh029,Tịnh Thọ – địa điểm mộ táng,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-sh030,Xuân Phổ,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-sh031,Gò Cỏ / Xóm Cỏ – trảng muối trên đá,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-sh032,Hóc Mọi,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-sh033,Bình An – nơi tìm khuôn đúc đồng,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-sh034,Bàu Lác / Bàu Lát (biến thể),not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-sh035,Thôn Trẻ 3 / Trẻ Veo 3 (tên cần kiểm),not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-sh036,Trà Xuân,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-sh037,Trà Phong,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-sh038,Thôn Nam,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-sh039,Bến Ván – đầu mối tiền sơ sử,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+qng-sh040,Gò Giò Gà – quan hệ với Gò Ma Vương,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+thanh-cao-lao-ha,Thành Cao Lao Hạ,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+thanh-thuan-chau,Thành Thuận Châu,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+phe-luy-lam-ap,Phế lũy Lâm Ấp,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+luy-cu-hoan-vuong,Lũy cũ Hoàn Vương,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+co-thanh-quang-tri,Cổ Thành (Quảng Trị),not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+thanh-gai,Thành Gai,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+bao-tang-co-vat-cung-dinh-hue,Bảo tàng Cổ vật Cung đình Huế,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ngoai-shx-001,Bãi Cọi,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ngoai-shx-002,Cổ Giang,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ngoai-shx-003,Khương Hà,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ngoai-shx-004,Bàu Khê,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ngoai-shx-005,Cồn Ràng,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ngoai-shx-006,Cồn Dài,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ngoai-shx-011,Động Cườm,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ngoai-shx-012,Động Ca Kông,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ngoai-shx-013,Động Công Lương,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ngoai-shx-014,Động Bàu Năng,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ngoai-shx-015,Chánh Trạch,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ngoai-shx-016,Động Gò Lồi,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ngoai-shx-017,Truông Xe,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ngoai-shx-018,Lộ Diêu,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ngoai-shx-019,Thôn 8 Mỹ Thắng,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ngoai-shx-020,Hội Lộc,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ngoai-shx-021,Núi Ngang,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ngoai-shx-022,Đồi Điệp,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ngoai-shx-023,Gò Ốc,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ngoai-shx-024,Cồn Đình,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ngoai-shx-025,Khe Ông Dậu,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ngoai-shx-026,Gò Bộng Dầu,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ngoai-shx-027,Suối Mây,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ngoai-shx-028,Hòa Diêm – Gò Đình,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ngoai-shx-029,Gò Dưới – Hòa Diêm,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ngoai-shx-031,Xóm Cồn,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ngoai-shx-032,Bình Ba,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ngoai-shx-033,Bình Hưng,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ngoai-shx-035,Hòn Đỏ,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ngoai-shx-036,Mỹ Tường,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ngoai-shx-037,Động Bà Hòe,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ngoai-shx-038,Phú Trường,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ngoai-shx-042,Giồng Cá Vồ,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ngoai-shx-043,Giồng Phệt,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ngoai-shx-044,Giồng Lớn,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+sa-huynh-ngoai-shx-053,Lung Leng,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+bao-tang-hai-ngoai,Bảo tàng Hải ngoại,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+bao-tang-sa-huynh-champa-duy-xuyen,Bảo tàng Văn hóa Sa Huỳnh – Champa Duy Xuyên,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+bao-tang-my-son,Bảo tàng Mỹ Sơn,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+bia-hon-cuc,Bi ký Hòn Cục (C.105),not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+bia-ho-nhi,Bi ký Hố Nhi,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+bia-thach-bich-c135,Bi ký Thạch Bích (C.135),not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+bia-cho-dinh-c41,Bi ký Chợ Dinh (C.41),not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+bia-samo,Bi ký Samo,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+bia-hai-giang,Bi ký Hải Giang,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+bia-da-ne-c17,Bi ký Đá Nẻ – Chung Mỹ (C.17),not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+thanh-loi-hue,Thành Lồi (Huế),not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+bao-tang-tong-hop-quang-ngai,Bảo tàng Tổng hợp tỉnh Quảng Ngãi,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+nha-trung-bay-van-hoa-sa-huynh,Nhà trưng bày Văn hóa Sa Huỳnh,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+gieng-gps-0077,"Giếng Lăng, Nam Ô",not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+gieng-gps-0078,"Giếng Thành Cung, Nam Ô",not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+gieng-gps-0079,"Giếng Bà Bang, Nam Ô",not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+gieng-gps-0080,"Giếng Cồn Trò, Nam Ô",not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+gieng-gps-0084,"Giếng Bộng, Nại Hiên",not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+gieng-gps-0086,Giếng Chăm Khuê Trung,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+gieng-gps-0101,"Giếng Hời, Tân An (tên GPS)",not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+gieng-gps-0114,Giếng Xóm Cấm,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+gieng-gps-0140,Giếng Chăm làng Song Bình,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+gieng-gps-0164,Giếng Bà Mễ,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+gieng-gps-0324,Cụm giếng Gio An,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+gieng-gps-0481,Giếng Vuông Gò Kho 1,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+gieng-ky2026-19,Giếng Chăm thôn Trung Phường,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+gieng-ky2026-36,Giếng Chăm tại Duy Xuyên,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+gieng-ky2026-52,Giếng bốn trụ Thu Bồn,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+gieng-ky2026-53,Giếng Chăm làng Nhuận Sơn,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+gieng-ky2026-54,Giếng Chăm làng Mỹ Sơn,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+gieng-ky2026-99,Giếng Chăm tại nhà thờ tộc Phạm,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+gieng-ky2026-102,Giếng bốn trụ Đồng Tràm,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+gieng-ky2026-103,Giếng Chùa,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+gieng-ky2026-142,Giếng Chăm tại Tam Xuân,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+gieng-ky2026-152,Giếng cổ Thuận An 2,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+gieng-ky2026-153,Giếng Thuận An Bắc,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+gieng-ky2026-174,Giếng bốn trụ Hòa Hương,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+gieng-ky2026-248,Giếng cổ Trà Quế,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+gieng-ky2026-249,Giếng Bá Lễ,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+gieng-ky2026-253,Giếng Bọng làng Phong Hồ,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+gieng-ky2026-289,"Giếng Đình, Nam Ô",not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+gieng-ha-tinh-mai-lam,Giếng cổ Mai Lâm,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+gieng-ha-tinh-bac-my-loc,Giếng cổ Bắc Mỹ Lộc,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+gieng-ha-tinh-mo-cua,Giếng Mò Cua,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+gieng-ha-tinh-dong-tam-3,Giếng Đồng Tâm 3,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+gieng-ha-tinh-loi,Giếng Lòi,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+gieng-ha-tinh-da-huu-quyen,"Giếng Đá, Hữu Quyền",not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+gieng-ha-tinh-chom-huu-quyen,"Giếng Chòm, Hữu Quyền",not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+gieng-ha-tinh-them-huu-quyen,"Giếng Thềm, Hữu Quyền",not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+gieng-phu-quy-sau-phu-an,Giếng Sâu Phú An,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+gieng-phu-quy-tien,"Giếng Tiên, Phú Quý",not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+gieng-phu-quy-vuon-dua,Giếng Vườn Dừa,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+gieng-phu-quy-den-ban-tranh,Giếng sân đền Bàn Tranh,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+oc-eo-ba-the,Óc Eo – Ba Thê,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+oc-eo-go-thanh,Gò Thành,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+oc-eo-go-giong-trom,Gò Giồng Trôm,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+oc-eo-giong-xoai,Giồng Xoài,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+oc-eo-nen-chua,Nền Chùa (Tà Kèv),not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+oc-eo-tra-nong,Trà Nồng – An Thạnh,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+oc-eo-bo-luy,Bờ Lũy – chùa Lò Gạch,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+oc-eo-luu-cu-ii,Lưu Cừ II,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+oc-eo-vinh-hung,Tháp Vĩnh Hưng,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+oc-eo-chot-mat,Tháp Chót Mạt,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+oc-eo-binh-thanh,Tháp cổ Bình Thạnh,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+oc-eo-binh-ta,Bình Tả,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+oc-eo-go-thap,Gò Tháp,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+oc-eo-go-cay-tung,Gò Cây Tung,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+oc-eo-angkor-borei,Angkor Borei,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+chan-lap-sambor-prei-kuk,Sambor Prei Kuk (Īśānapura),not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+cat-tien-quan-the,Di tích khảo cổ Cát Tiên,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+cat-tien-go-3,Gò 3 – kiến trúc B1,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+cat-tien-go-6b,Gò 6B – kiến trúc D1,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+cat-tien-go-ong-dinh,Gò Ông Định – đền chính E1,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+cat-tien-gia-vien,Di tích khảo cổ Gia Viễn,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+cat-tien-duc-pho,Phế tích kiến trúc Đức Phổ,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+kmz-gps-0536,Yang Mum,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+kmz-gps-0535,Drang Lai,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+champa-bia-tu-luong,Bia Tư Lương,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+champa-kon-klor-honang-bia,Kon Klor – Hơ Năng Bia,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+champa-thap-phu-tho-an-phu,Tháp Phú Thọ – An Phú,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+oc-eo-nhon-thanh,Nhơn Thành,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+oc-eo-da-noi-an-giang,Đá Nổi (An Giang),not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+oc-eo-canh-den,Cạnh Đền,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+oc-eo-linh-son-tu,Linh Sơn Tự,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+oc-eo-go-ut-trach,Gò Út Trạch,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+oc-eo-go-cay-thi,Gò Cây Thị,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+oc-eo-go-thap-muoi,Gò Tháp Mười,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+oc-eo-run-rum,Cụm đền gạch Run/Rum,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+oc-eo-leach-veng,Phế tích Leach-veng / Prey Prosat,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+oc-eo-tien-thuan,Tiên Thuận · Hai địa điểm kiến trúc cổ,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+oc-eo-go-co-lam,Gò Cổ Lâm và cụm Thanh Điền,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+oc-eo-bung-binh,Phế tích đền gạch Bùng Bình,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+oc-eo-xom-chua-phuoc-trach,Dấu tích kiến trúc Xóm Chùa · Phước Trạch,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+gieng-khe-ram,Khe Răm,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+mieu-ba-khue-trung,Miếu Bà Khuê Trung,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+kmz-gps-0095,Nam Thổ Sơn,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+kmz-gps-0112,Gò Đùi,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+kmz-gps-0107,Lùm Cây Khế,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+kmz-gps-0098,Lùm Giàng,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+kmz-gps-0096,Thái Sơn,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+kmz-gps-0131,Gò Gạch Đại Lợi,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+kmz-gps-0137,Lạc Thành,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+kmz-gps-0115,Miếu Bà Hà Đông,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+kmz-gps-0168,Chùa Vua,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+kmz-gps-0173,Gò Lồi,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+kmz-gps-0149,An Bang,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+kmz-gps-0151,Lăng Bà Cẩm Thanh,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+kmz-gps-0264,Gò Gạch Tam Xuân 1,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+kmz-gps-0252,An Mỹ I,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+kmz-gps-0256,Bà Huỳnh,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+kmz-gps-0245,Rừng É,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+kmz-gps-0239,An Thành,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+kmz-gps-0220,Bình Yên,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+kmz-gps-0271,Gò Cấm Tam Giang,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+kmz-gps-0270,Vườn Thoang,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+champa-thap-phu-an,Phế tích tháp Phú Ân,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+champa-nui-doc-phu-my,Phế tích đền tháp Núi Dốc,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+champa-cu-tru-canh-go-vang,Khu cư trú cạnh Gò Vàng,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+champa-cu-tru-xuan-binh-phu-my,Khu cư trú Champa Xuân Bình,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+bao-tang-lich-su-quoc-gia,Bảo tàng Lịch sử Quốc gia,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+hoi-an-bai-lang,Bãi Làng,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+hoi-an-dong-na,Đồng Nà,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+hoi-an-mieu-than-hoi,Miếu Thần Hời,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+hoi-an-mieu-ba-co,Miếu Bà Cổ – Lùm Bà Yàng,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+hoi-an-ruong-ba-mu,Ruộng rau muống chùa Bà Mụ,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+dai-huu-quang-binh,Đại Hữu (Quảng Bình),not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+bao-tang-lam-dong-da-lat,Bảo tàng Lâm Đồng — trụ sở Đà Lạt,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+nha-trung-bay-cat-tien,Nhà trưng bày Di tích khảo cổ Cát Tiên,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+bao-tang-sa-huynh-hoi-an,Bảo tàng Văn hóa Sa Huỳnh Hội An,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+bao-tang-da-nang-co-so-2,Bảo tàng Đà Nẵng — cơ sở 2,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
+bao-tang-da-nang-co-so-1,Bảo tàng Đà Nẵng — cơ sở 1,not_assessed,unknown,unknown,,,,,Chưa có đánh giá bảo tồn có cấu trúc; không đồng nghĩa di tích không có rủi ro.
